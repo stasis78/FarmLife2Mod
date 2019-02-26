@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.unity3D filter=lfs diff=lfs merge=lfs -text
