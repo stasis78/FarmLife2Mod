@@ -7,7 +7,6 @@ Station: **chemistryStation** - Tool: **none**
 - 10 drinkJarGrainAlcohol
 
 ### <a name="Aged_Bourbon_Charred_Barrel_Distilled_Bourbon_Charred_Barrel___"></a><a name="Aged_Bourbon"></a>Aged Bourbon - 1
-![image](FarmLife2Mod/ItemIcons/Aged%20Bourbon.png)
 
 Station: **Brew Station** - Tool: **Charred Barrel**
 
@@ -15,7 +14,6 @@ Station: **Brew Station** - Tool: **Charred Barrel**
 - 1 [Charred Barrel](#Charred_Barrel)
 
 ### <a name="Aged_Bulleeet_Charred_Barrel_Distilled_Bulleeet_Charred_Barrel___"></a><a name="Aged_Bulleeet"></a>Aged Bulleeet - 1
-![image](FarmLife2Mod/ItemIcons/Aged%20Bulleeet.png)
 
 Station: **Brew Station** - Tool: **Charred Barrel**
 
@@ -30,21 +28,18 @@ Station: **Fermentor Bench** - Tool: **Aging Shelves**
 - 1 [Cheddar Step 4](#Cheddar_Step_4)
 
 ### <a name="Aged_Double_IPA__Oak_Barrel_Double_IPA_Raw____"></a><a name="Aged_Double_IPA_"></a>Aged Double IPA  - 1
-![image](FarmLife2Mod/ItemIcons/Aged%20Double%20IPA%20.png)
 
 Station: **Brew Station** - Tool: **Oak Barrel**
 
 - 1 [Double IPA Raw](#Double_IPA_Raw)
 
 ### <a name="Aged_Port_Wine_Aged_Barrel_Filtered_Merlot____"></a><a name="Aged_Port_Wine"></a>Aged Port Wine - 1
-![image](FarmLife2Mod/ItemIcons/Aged%20Port%20Wine.png)
 
 Station: **Brew Station** - Tool: **Aged Barrel**
 
 - 1 [Filtered Merlot](#Filtered_Merlot)
 
 ### <a name="Aged_Scotch_Aged_Barrel_Distilled_Scotch_Aged_Barrel_Air_of_Scotland__"></a><a name="Aged_Scotch"></a>Aged Scotch - 1
-![image](FarmLife2Mod/ItemIcons/Aged%20Scotch.png)
 
 Station: **Brew Station** - Tool: **Aged Barrel**
 
@@ -53,7 +48,6 @@ Station: **Brew Station** - Tool: **Aged Barrel**
 - 5 Air of Scotland
 
 ### <a name="Aged_Wheat_Flour_toolFermentor_Wheat_Flour____"></a><a name="Aged_Wheat_Flour"></a>Aged Wheat Flour - 3
-![image](FarmLife2Mod/ItemIcons/Aged%20Wheat%20Flour.png)
 
 Station: **Fermentor Bench** - Tool: **none**
 
@@ -69,7 +63,6 @@ Station: **workbench** - Tool: **none**
 - 40 resourceNail
 
 ### <a name="Alkaline_Solution_toolWoodGrill_bucketRiverWater_Wood_Ash_Cheese_Cloth__"></a><a name="Alkaline_Solution"></a>Alkaline Solution - 1
-![image](FarmLife2Mod/ItemIcons/Alkaline%20Solution.png)
 
 Station: **Brew Cooker** - Tool: **none**
 
@@ -87,7 +80,6 @@ Station: **none** - Tool: **none**
 - 5 [Ground Cinnamon](#Ground_Cinnamon)
 
 ### <a name="Apple_Juice_Veggie_Attachment_Apple_drinkJarEmpty___"></a><a name="Apple_Juice"></a>Apple Juice - 1
-![image](FarmLife2Mod/ItemIcons/Apple%20Juice.png)
 
 Station: **KitchNaid** - Tool: **Veggie Attachment**
 
@@ -106,14 +98,12 @@ Station: **Gas Oven** - Tool: **PyreX Bakeware**
 - 1 drinkJarBoiledWater
 
 ### <a name="Apple_Woodchips_toolTableSaw_Apple_Wood_Plank____"></a><a name="Apple_Woodchips"></a>Apple Woodchips - 2
-![image](FarmLife2Mod/ItemIcons/Apple%20Woodchips.png)
 
 Station: **tableSaw** - Tool: **none**
 
 - 1 Apple Wood Plank
 
 ### <a name="BBQ_Elk_Jerky_Smoker_Mat_Marinated_BBQ_Elk_Walnut_Woodchips___"></a><a name="BBQ_Elk_Jerky"></a>BBQ Elk Jerky - 10
-![image](FarmLife2Mod/ItemIcons/BBQ%20Elk%20Jerky.png)
 
 Station: **Cold Smoker** - Tool: **Smoker Mat**
 
@@ -140,7 +130,6 @@ Station: **Gas Oven** - Tool: **PyreX Bakeware**
 - 1 [Parmesan](#Parmesan)
 
 ### <a name="Baked_Rigatoni_Step_1_Caste_Iron_Skillet_Ground_Veal_Olive_Oil_Salt_and_Pepper__"></a><a name="Baked_Rigatoni_Step_1"></a>Baked Rigatoni Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Baked%20Rigatoni%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -149,7 +138,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Salt and Pepper](#Salt_and_Pepper)
 
 ### <a name="Baked_Rigatoni_Step_2_Mixing_Bowl_Baked_Rigatoni_Step_1_Marinara_Parmesan__"></a><a name="Baked_Rigatoni_Step_2"></a>Baked Rigatoni Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Baked%20Rigatoni%20Step%202.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -166,7 +154,6 @@ Station: **forge** - Tool: **toolAnvil**
 - 10 unit_clay
 
 ### <a name="Barley_Malt_Drying_Pan_Spouted_Barley____"></a><a name="Barley_Malt"></a>Barley Malt - 50
-![image](FarmLife2Mod/ItemIcons/Barley%20Malt.png)
 
 Station: **Brew Cooker** - Tool: **Drying Pan**
 
@@ -207,7 +194,6 @@ Station: **Brew Station** - Tool: **Bottle Capper**
 - 1 [Beer Cheap Raw](#Beer_Cheap_Raw)
 
 ### <a name="Beer_Cheap_Mash_Masher_Light_Malt_drinkJarBoiledWater___"></a><a name="Beer_Cheap_Mash"></a>Beer Cheap Mash - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20Cheap%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -215,21 +201,18 @@ Station: **Brew Cooker** - Tool: **Masher**
 - 15 drinkJarBoiledWater
 
 ### <a name="Beer_Cheap_Raw_Carboy_Beer_Cheap_Wort____"></a><a name="Beer_Cheap_Raw"></a>Beer Cheap Raw - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20Cheap%20Raw.png)
 
 Station: **Brew Station** - Tool: **Carboy**
 
 - 1 [Beer Cheap Wort](#Beer_Cheap_Wort)
 
 ### <a name="Beer_Cheap_Wort_Boiler_Beer_Cheap_Mash____"></a><a name="Beer_Cheap_Wort"></a>Beer Cheap Wort - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20Cheap%20Wort.png)
 
 Station: **Brew Cooker** - Tool: **Boiler**
 
 - 1 [Beer Cheap Mash](#Beer_Cheap_Mash)
 
 ### <a name="Beer_Double_IPA_Bottle_Capper_Aged_Double_IPA_____"></a><a name="Beer_Double_IPA"></a>Beer Double IPA - 15
-![image](FarmLife2Mod/ItemIcons/Beer%20Double%20IPA.png)
 
 Station: **Brew Station** - Tool: **Bottle Capper**
 
@@ -243,7 +226,6 @@ Station: **Brew Station** - Tool: **Bottle Capper**
 - 1 [Beer IPA Raw](#Beer_IPA_Raw)
 
 ### <a name="Beer_IPA_Mash_Masher_Golden_Malt_drinkJarBoiledWater___"></a><a name="Beer_IPA_Mash"></a>Beer IPA Mash - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20IPA%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -251,14 +233,12 @@ Station: **Brew Cooker** - Tool: **Masher**
 - 15 drinkJarBoiledWater
 
 ### <a name="Beer_IPA_Raw_Carboy_Beer_IPA_Wort____"></a><a name="Beer_IPA_Raw"></a>Beer IPA Raw - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20IPA%20Raw.png)
 
 Station: **Brew Station** - Tool: **Carboy**
 
 - 1 [Beer IPA Wort](#Beer_IPA_Wort)
 
 ### <a name="Beer_IPA_Wort_Boiler_Beer_IPA_Mash_Bitter_Hops_resourceCropHopsFlower_Floral_Hops_"></a><a name="Beer_IPA_Wort"></a>Beer IPA Wort - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20IPA%20Wort.png)
 
 Station: **Brew Cooker** - Tool: **Boiler**
 
@@ -275,7 +255,6 @@ Station: **Brew Station** - Tool: **Bottle Capper**
 - 1 [Beer Lager Raw](#Beer_Lager_Raw)
 
 ### <a name="Beer_Lager_Mash_Masher_Light_Malt_drinkJarBoiledWater___"></a><a name="Beer_Lager_Mash"></a>Beer Lager Mash - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20Lager%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -283,14 +262,12 @@ Station: **Brew Cooker** - Tool: **Masher**
 - 15 drinkJarBoiledWater
 
 ### <a name="Beer_Lager_Raw_Carboy_Beer_Lager_Wort____"></a><a name="Beer_Lager_Raw"></a>Beer Lager Raw - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20Lager%20Raw.png)
 
 Station: **Brew Station** - Tool: **Carboy**
 
 - 1 [Beer Lager Wort](#Beer_Lager_Wort)
 
 ### <a name="Beer_Lager_Wort_Boiler_Beer_Lager_Mash_resourceCropHopsFlower_Floral_Hops__"></a><a name="Beer_Lager_Wort"></a>Beer Lager Wort - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20Lager%20Wort.png)
 
 Station: **Brew Cooker** - Tool: **Boiler**
 
@@ -306,7 +283,6 @@ Station: **Brew Station** - Tool: **Bottle Capper**
 - 1 [Beer Stout Raw](#Beer_Stout_Raw)
 
 ### <a name="Beer_Stout_Mash_Masher_Dark_Malt_drinkJarBoiledWater___"></a><a name="Beer_Stout_Mash"></a>Beer Stout Mash - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20Stout%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -314,14 +290,12 @@ Station: **Brew Cooker** - Tool: **Masher**
 - 15 drinkJarBoiledWater
 
 ### <a name="Beer_Stout_Raw_Carboy_Beer_Stout_Wort____"></a><a name="Beer_Stout_Raw"></a>Beer Stout Raw - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20Stout%20Raw.png)
 
 Station: **Brew Station** - Tool: **Carboy**
 
 - 1 [Beer Stout Wort](#Beer_Stout_Wort)
 
 ### <a name="Beer_Stout_Wort_Boiler_Beer_Stout_Mash_resourceCropHopsFlower_Floral_Hops__"></a><a name="Beer_Stout_Wort"></a>Beer Stout Wort - 1
-![image](FarmLife2Mod/ItemIcons/Beer%20Stout%20Wort.png)
 
 Station: **Brew Cooker** - Tool: **Boiler**
 
@@ -354,7 +328,6 @@ Station: **KitchNaid** - Tool: **Ice Cream Bowl**
 - 1 [Salt](#Salt)
 
 ### <a name="Boiled_Linguini_toolCookingPot_Linguini_drinkJarBoiledWater_Salt__"></a><a name="Boiled_Linguini"></a>Boiled Linguini - 1
-![image](FarmLife2Mod/ItemIcons/Boiled%20Linguini.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -363,7 +336,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Salt](#Salt)
 
 ### <a name="Boiled_Penne_toolCookingPot_Penne_drinkJarBoiledWater_Salt__"></a><a name="Boiled_Penne"></a>Boiled Penne - 1
-![image](FarmLife2Mod/ItemIcons/Boiled%20Penne.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -372,7 +344,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Salt](#Salt)
 
 ### <a name="Boiled_Rigatoni__Rigatoni_drinkJarBoiledWater_Salt__"></a><a name="Boiled_Rigatoni"></a>Boiled Rigatoni - 1
-![image](FarmLife2Mod/ItemIcons/Boiled%20Rigatoni.png)
 
 Station: **none** - Tool: **none**
 
@@ -381,7 +352,6 @@ Station: **none** - Tool: **none**
 - 1 [Salt](#Salt)
 
 ### <a name="Boiled_Spaghetti_toolCookingPot_Spaghetti_drinkJarBoiledWater_Salt__"></a><a name="Boiled_Spaghetti"></a>Boiled Spaghetti - 1
-![image](FarmLife2Mod/ItemIcons/Boiled%20Spaghetti.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -408,7 +378,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Butter](#Butter)
 
 ### <a name="Bolognese_Sauce_toolCookingPot_Bolognese_Step_3_White_Zin_Crushed_Tomato__"></a><a name="Bolognese_Sauce"></a>Bolognese Sauce - 1
-![image](FarmLife2Mod/ItemIcons/Bolognese%20Sauce.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -417,7 +386,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Crushed Tomato](#Crushed_Tomato)
 
 ### <a name="Bolognese_Step_1_toolCookingPot_Olive_Oil_Butter_Diced_Onions_Celery_Carrot"></a><a name="Bolognese_Step_1"></a>Bolognese Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Bolognese%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -428,7 +396,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 Carrot
 
 ### <a name="Bolognese_Step_2_toolCookingPot_Bolognese_Step_1_Ground_Veal_Salt_and_Pepper__"></a><a name="Bolognese_Step_2"></a>Bolognese Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Bolognese%20Step%202.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -437,7 +404,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Salt and Pepper](#Salt_and_Pepper)
 
 ### <a name="Bolognese_Step_3_toolCookingPot_Bolognese_Step_2_Milk___"></a><a name="Bolognese_Step_3"></a>Bolognese Step 3 - 1
-![image](FarmLife2Mod/ItemIcons/Bolognese%20Step%203.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -461,7 +427,6 @@ Station: **Brew Station** - Tool: **Mixing Cask**
 - 5 drinkJarBoiledWater
 
 ### <a name="Bourbon_Mash_Masher_foodCropCorn_Rye_Malt_Barley_Malt__"></a><a name="Bourbon_Mash"></a>Bourbon Mash - 1
-![image](FarmLife2Mod/ItemIcons/Bourbon%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -470,7 +435,6 @@ Station: **Brew Cooker** - Tool: **Masher**
 - 5 [Barley Malt](#Barley_Malt)
 
 ### <a name="Bowl_of_Rice_toolCookingPot_Rice_drinkCanRiverWater___"></a><a name="Bowl_of_Rice"></a>Bowl of Rice - 1
-![image](FarmLife2Mod/ItemIcons/Bowl%20of%20Rice.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -495,7 +459,6 @@ Station: **KitchNaid** - Tool: **Food Processor**
 - 1 [Breadcrumbs Step 1](#Breadcrumbs_Step_1)
 
 ### <a name="Breadcrumbs_Step_1_Baking_Sheet_Sliced_Bread____"></a><a name="Breadcrumbs_Step_1"></a>Breadcrumbs Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Breadcrumbs%20Step%201.png)
 
 Station: **Gas Oven** - Tool: **Baking Sheet**
 
@@ -511,7 +474,6 @@ Station: **workbench** - Tool: **none**
 - 10 resourceScrapPolymers
 
 ### <a name="Brew_Cooker_Volume_1__resourceCoal_resourcePaper___"></a><a name="Brew_Cooker_Volume_1"></a>Brew Cooker Volume 1 - 1
-![image](FarmLife2Mod/ItemIcons/Brew%20Cooker%20Volume%201.png)
 
 Station: **none** - Tool: **none**
 
@@ -528,7 +490,6 @@ Station: **workbench** - Tool: **none**
 - 10 resourceScrapPolymers
 
 ### <a name="Brew_Station_Volume_1__resourceCoal_resourcePaper___"></a><a name="Brew_Station_Volume_1"></a>Brew Station Volume 1 - 1
-![image](FarmLife2Mod/ItemIcons/Brew%20Station%20Volume%201.png)
 
 Station: **none** - Tool: **none**
 
@@ -536,7 +497,6 @@ Station: **none** - Tool: **none**
 - 1 resourcePaper
 
 ### <a name="Brew_Station_Volume_2__resourceCoal_resourcePaper___"></a><a name="Brew_Station_Volume_2"></a>Brew Station Volume 2 - 1
-![image](FarmLife2Mod/ItemIcons/Brew%20Station%20Volume%202.png)
 
 Station: **none** - Tool: **none**
 
@@ -544,7 +504,6 @@ Station: **none** - Tool: **none**
 - 1 resourcePaper
 
 ### <a name="Brined_Coffee_Elk_Mixing_Bowl_Elk_Scraps_Salt_and_Pepper_resourceCropCoffeeBeans_Cooking_Vinegar_drinkJarCoffee"></a><a name="Brined_Coffee_Elk"></a>Brined Coffee Elk - 1
-![image](FarmLife2Mod/ItemIcons/Brined%20Coffee%20Elk.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -555,7 +514,6 @@ Station: **KitchNaid** - Tool: **Mixing Bowl**
 - 1 drinkJarCoffee
 
 ### <a name="Brined_Spicy_Elk_Mixing_Bowl_Elk_Scraps_Salt_and_Pepper_Ground_Hot_Pepper_Cooking_Vinegar_drinkJarBoiledWater"></a><a name="Brined_Spicy_Elk"></a>Brined Spicy Elk - 1
-![image](FarmLife2Mod/ItemIcons/Brined%20Spicy%20Elk.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -566,7 +524,6 @@ Station: **KitchNaid** - Tool: **Mixing Bowl**
 - 1 drinkJarBoiledWater
 
 ### <a name="Briney_Water__Salt_drinkJarBoiledWater___"></a><a name="Briney_Water"></a>Briney Water - 1
-![image](FarmLife2Mod/ItemIcons/Briney%20Water.png)
 
 Station: **none** - Tool: **none**
 
@@ -574,7 +531,6 @@ Station: **none** - Tool: **none**
 - 15 drinkJarBoiledWater
 
 ### <a name="Bulleeet_Mash_Masher_Rye_Barley_Malt___"></a><a name="Bulleeet_Mash"></a>Bulleeet Mash - 1
-![image](FarmLife2Mod/ItemIcons/Bulleeet%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -582,7 +538,6 @@ Station: **Brew Cooker** - Tool: **Masher**
 - 1 [Barley Malt](#Barley_Malt)
 
 ### <a name="Bulleeet_Rye_Mixing_Cask_Aged_Bulleeet_drinkJarBoiledWater___"></a><a name="Bulleeet_Rye"></a>Bulleeet Rye - 15
-![image](FarmLife2Mod/ItemIcons/Bulleeet%20Rye.png)
 
 Station: **Brew Station** - Tool: **Mixing Cask**
 
@@ -665,7 +620,6 @@ Station: **Brew Station** - Tool: **Floor Corker**
 - 1 [Filtered Chardonne](#Filtered_Chardonne)
 
 ### <a name="Charred_Barrel_Barrel_Roaster_Oak_Barrel____"></a><a name="Charred_Barrel"></a>Charred Barrel - 1
-![image](FarmLife2Mod/ItemIcons/Charred%20Barrel.png)
 
 Station: **Brew Cooker** - Tool: **Barrel Roaster**
 
@@ -679,7 +633,6 @@ Station: **Chopping Board** - Tool: **Zhang Cleaver**
 - 1 [Cheddar Step 4](#Cheddar_Step_4)
 
 ### <a name="Cheddar_Step_1_Boiler_Raw_Milk_Milk_Salt_Cheese_Culture_Rennet"></a><a name="Cheddar_Step_1"></a>Cheddar Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Cheddar%20Step%201.png)
 
 Station: **Brew Cooker** - Tool: **Boiler**
 
@@ -690,21 +643,18 @@ Station: **Brew Cooker** - Tool: **Boiler**
 - 5 [Rennet](#Rennet)
 
 ### <a name="Cheddar_Step_2_Boiler_Cheese_Cloth____"></a><a name="Cheddar_Step_2"></a>Cheddar Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Cheddar%20Step%202.png)
 
 Station: **Brew Cooker** - Tool: **Boiler**
 
 - 1 [Cheese Cloth](#Cheese_Cloth)
 
 ### <a name="Cheddar_Step_3_Zhang_Cleaver_Cheddar_Step_2____"></a><a name="Cheddar_Step_3"></a>Cheddar Step 3 - 1
-![image](FarmLife2Mod/ItemIcons/Cheddar%20Step%203.png)
 
 Station: **Chopping Board** - Tool: **Zhang Cleaver**
 
 - 1 [Cheddar Step 2](#Cheddar_Step_2)
 
 ### <a name="Cheddar_Step_4_Cheese_Press_Cheddar_Step_3_Salt_Cheese_Cloth__"></a><a name="Cheddar_Step_4"></a>Cheddar Step 4 - 1
-![image](FarmLife2Mod/ItemIcons/Cheddar%20Step%204.png)
 
 Station: **Fermentor Bench** - Tool: **Cheese Press**
 
@@ -720,7 +670,6 @@ Station: **workbench** - Tool: **none**
 - 5 resourceCropCottonPlant
 
 ### <a name="Cheese_Culture_toolFermentor_Raw_Milk_drinkJarEmpty___"></a><a name="Cheese_Culture"></a>Cheese Culture - 1
-![image](FarmLife2Mod/ItemIcons/Cheese%20Culture.png)
 
 Station: **Fermentor Bench** - Tool: **none**
 
@@ -766,14 +715,12 @@ Station: **Gas Oven** - Tool: **PyreX Bakeware**
 - 1 drinkJarBoiledWater
 
 ### <a name="Cherry_Woodchips_toolTableSaw_Cherry_Wood_Plank____"></a><a name="Cherry_Woodchips"></a>Cherry Woodchips - 2
-![image](FarmLife2Mod/ItemIcons/Cherry%20Woodchips.png)
 
 Station: **tableSaw** - Tool: **none**
 
 - 1 Cherry Wood Plank
 
 ### <a name="Chicken_Feed__foodCropCorn_Wheat_Sorghum_bucketRiverWater_"></a><a name="Chicken_Feed"></a>Chicken Feed - 1
-![image](FarmLife2Mod/ItemIcons/Chicken%20Feed.png)
 
 Station: **none** - Tool: **none**
 
@@ -800,14 +747,12 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 2 [Lard](#Lard)
 
 ### <a name="Chile_Relleno_Step_1_Baking_Sheet_Pablano_Pepper____"></a><a name="Chile_Relleno_Step_1"></a>Chile Relleno Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Chile%20Relleno%20Step%201.png)
 
 Station: **Gas Oven** - Tool: **Baking Sheet**
 
 - 2 Pablano Pepper
 
 ### <a name="Chile_Relleno_Step_2_Damascus_Knife_Chile_Relleno_Step_1_Queso_Fresco___"></a><a name="Chile_Relleno_Step_2"></a>Chile Relleno Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Chile%20Relleno%20Step%202.png)
 
 Station: **Chopping Board** - Tool: **Damascus Knife**
 
@@ -815,7 +760,6 @@ Station: **Chopping Board** - Tool: **Damascus Knife**
 - 6 [Queso Fresco](#Queso_Fresco)
 
 ### <a name="Chile_Relleno_Step_3_Mixing_Bowl_foodEgg_Aged_Wheat_Flour___"></a><a name="Chile_Relleno_Step_3"></a>Chile Relleno Step 3 - 1
-![image](FarmLife2Mod/ItemIcons/Chile%20Relleno%20Step%203.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -838,7 +782,6 @@ Station: **forge** - Tool: **toolForgeCrucible**
 - 1000 unit_clay
 
 ### <a name="Coffee_Elk_Jerky_Smoker_Mat_Brined_Coffee_Elk_Maple_Woodchips___"></a><a name="Coffee_Elk_Jerky"></a>Coffee Elk Jerky - 10
-![image](FarmLife2Mod/ItemIcons/Coffee%20Elk%20Jerky.png)
 
 Station: **Cold Smoker** - Tool: **Smoker Mat**
 
@@ -846,7 +789,6 @@ Station: **Cold Smoker** - Tool: **Smoker Mat**
 - 5 [Maple Woodchips](#Maple_Woodchips)
 
 ### <a name="Cold_Smoker_toolWorkbench_resourceForgedIron_resourceMechanicalParts_resourceScrapPolymers__"></a><a name="Cold_Smoker"></a>Cold Smoker - 1
-![image](FarmLife2Mod/ItemIcons/Cold%20Smoker.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -869,7 +811,6 @@ Station: **KitchNaid** - Tool: **Grain Miller**
 - 1 [Corn Masa Step 2](#Corn_Masa_Step_2)
 
 ### <a name="Corn_Masa_Step_1_Boiler_foodCropCorn_Alkaline_Solution___"></a><a name="Corn_Masa_Step_1"></a>Corn Masa Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Corn%20Masa%20Step%201.png)
 
 Station: **Brew Cooker** - Tool: **Boiler**
 
@@ -877,7 +818,6 @@ Station: **Brew Cooker** - Tool: **Boiler**
 - 1 [Alkaline Solution](#Alkaline_Solution)
 
 ### <a name="Corn_Masa_Step_2_Drying_Pan_Corn_Masa_Step_1____"></a><a name="Corn_Masa_Step_2"></a>Corn Masa Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Corn%20Masa%20Step%202.png)
 
 Station: **Brew Cooker** - Tool: **Drying Pan**
 
@@ -891,7 +831,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Corn Tortillas Step 2](#Corn_Tortillas_Step_2)
 
 ### <a name="Corn_Tortillas_Step_1_Mixing_Bowl_Corn_Masa_Salt_drinkJarBoiledWater__"></a><a name="Corn_Tortillas_Step_1"></a>Corn Tortillas Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Corn%20Tortillas%20Step%201.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -900,7 +839,6 @@ Station: **KitchNaid** - Tool: **Mixing Bowl**
 - 4 drinkJarBoiledWater
 
 ### <a name="Corn_Tortillas_Step_2_Pasta_Helper_Corn_Tortillas_Step_1____"></a><a name="Corn_Tortillas_Step_2"></a>Corn Tortillas Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Corn%20Tortillas%20Step%202.png)
 
 Station: **KitchNaid** - Tool: **Pasta Helper**
 
@@ -931,7 +869,6 @@ Station: **Cold Smoker** - Tool: **Meat Hanger**
 - 1 [Salt and Pepper](#Salt_and_Pepper)
 
 ### <a name="Cured_Pancetta__Pork_Belly_Salt_Black_Pepper__"></a><a name="Cured_Pancetta"></a>Cured Pancetta - 1
-![image](FarmLife2Mod/ItemIcons/Cured%20Pancetta.png)
 
 Station: **none** - Tool: **none**
 
@@ -963,7 +900,6 @@ Station: **workbench** - Tool: **none**
 - 1 [Damascus Blade](#Damascus_Blade)
 
 ### <a name="Dark_Malt_Drying_Pan_Spouted_Sorghum____"></a><a name="Dark_Malt"></a>Dark Malt - 50
-![image](FarmLife2Mod/ItemIcons/Dark%20Malt.png)
 
 Station: **Brew Cooker** - Tool: **Drying Pan**
 
@@ -1005,49 +941,42 @@ Station: **Chopping Board** - Tool: **Damascus Knife**
 - 3 Tomato
 
 ### <a name="Distilled_Bourbon_Still_Raw_Bourbon____"></a><a name="Distilled_Bourbon"></a>Distilled Bourbon - 1
-![image](FarmLife2Mod/ItemIcons/Distilled%20Bourbon.png)
 
 Station: **Brew Cooker** - Tool: **Still**
 
 - 1 [Raw Bourbon](#Raw_Bourbon)
 
 ### <a name="Distilled_Bulleeet_Still_Raw_Bulleeet____"></a><a name="Distilled_Bulleeet"></a>Distilled Bulleeet - 1
-![image](FarmLife2Mod/ItemIcons/Distilled%20Bulleeet.png)
 
 Station: **Brew Cooker** - Tool: **Still**
 
 - 1 [Raw Bulleeet](#Raw_Bulleeet)
 
 ### <a name="Distilled_Scotch_Still_Raw_Scotch____"></a><a name="Distilled_Scotch"></a>Distilled Scotch - 1
-![image](FarmLife2Mod/ItemIcons/Distilled%20Scotch.png)
 
 Station: **Brew Cooker** - Tool: **Still**
 
 - 1 [Raw Scotch](#Raw_Scotch)
 
 ### <a name="Distilled_Vodka_Still_Raw_Vodka____"></a><a name="Distilled_Vodka"></a>Distilled Vodka - 1
-![image](FarmLife2Mod/ItemIcons/Distilled%20Vodka.png)
 
 Station: **Brew Cooker** - Tool: **Still**
 
 - 1 [Raw Vodka](#Raw_Vodka)
 
 ### <a name="Distilled_Whiskey_Still_Raw_Whiskey____"></a><a name="Distilled_Whiskey"></a>Distilled Whiskey - 1
-![image](FarmLife2Mod/ItemIcons/Distilled%20Whiskey.png)
 
 Station: **Brew Cooker** - Tool: **Still**
 
 - 1 [Raw Whiskey](#Raw_Whiskey)
 
 ### <a name="Distilled_White_Rum_Still_Raw_White_Rum____"></a><a name="Distilled_White_Rum"></a>Distilled White Rum - 1
-![image](FarmLife2Mod/ItemIcons/Distilled%20White%20Rum.png)
 
 Station: **Brew Cooker** - Tool: **Still**
 
 - 1 [Raw White Rum](#Raw_White_Rum)
 
 ### <a name="Double_IPA_Mash_Masher_Golden_Malt_drinkJarBoiledWater___"></a><a name="Double_IPA_Mash"></a>Double IPA Mash - 1
-![image](FarmLife2Mod/ItemIcons/Double%20IPA%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -1055,14 +984,12 @@ Station: **Brew Cooker** - Tool: **Masher**
 - 15 drinkJarBoiledWater
 
 ### <a name="Double_IPA_Raw_Carboy_Double_IPA_Wort____"></a><a name="Double_IPA_Raw"></a>Double IPA Raw - 1
-![image](FarmLife2Mod/ItemIcons/Double%20IPA%20Raw.png)
 
 Station: **Brew Station** - Tool: **Carboy**
 
 - 1 [Double IPA Wort](#Double_IPA_Wort)
 
 ### <a name="Double_IPA_Wort_Boiler_Double_IPA_Mash_Bitter_Hops_resourceCropHopsFlower_Floral_Hops_"></a><a name="Double_IPA_Wort"></a>Double IPA Wort - 1
-![image](FarmLife2Mod/ItemIcons/Double%20IPA%20Wort.png)
 
 Station: **Brew Cooker** - Tool: **Boiler**
 
@@ -1103,7 +1030,6 @@ Station: **Cold Smoker** - Tool: **Smoker Mat**
 - 1 [Salt and Pepper](#Salt_and_Pepper)
 
 ### <a name="Empty_Angus_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Angus_Pen"></a>Empty Angus Pen - 1
-![image](FarmLife2Mod/ItemIcons/Empty%20Angus%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -1113,7 +1039,6 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ### <a name="Empty_Chicken_Coop_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Chicken_Coop"></a>Empty Chicken Coop - 1
-![image](FarmLife2Mod/ItemIcons/Empty%20Chicken%20Coop.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -1123,7 +1048,6 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ### <a name="Empty_Elk_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Elk_Pen"></a>Empty Elk Pen - 1
-![image](FarmLife2Mod/ItemIcons/Empty%20Elk%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -1133,7 +1057,6 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ### <a name="Empty_Holstein_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Holstein_Pen"></a>Empty Holstein Pen - 1
-![image](FarmLife2Mod/ItemIcons/Empty%20Holstein%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -1143,7 +1066,6 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ### <a name="Empty_Pig_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Pig_Pen"></a>Empty Pig Pen - 1
-![image](FarmLife2Mod/ItemIcons/Empty%20Pig%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -1153,7 +1075,6 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ### <a name="Empty_Veal_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Veal_Pen"></a>Empty Veal Pen - 1
-![image](FarmLife2Mod/ItemIcons/Empty%20Veal%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -1163,7 +1084,6 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ### <a name="Farming_Crops_(Seeds)__resourceCoal_resourcePaper___"></a><a name="Farming_Crops_(Seeds)"></a>Farming Crops (Seeds) - 1
-![image](FarmLife2Mod/ItemIcons/Farming%20Crops%20(Seeds).png)
 
 Station: **none** - Tool: **none**
 
@@ -1178,35 +1098,30 @@ Station: **workbench** - Tool: **none**
 - 14 resourceForgedIron
 
 ### <a name="Filtered_Cabernet_Wine_Filter_Raw_Cabernet____"></a><a name="Filtered_Cabernet"></a>Filtered Cabernet - 1
-![image](FarmLife2Mod/ItemIcons/Filtered%20Cabernet.png)
 
 Station: **Brew Station** - Tool: **Wine Filter**
 
 - 1 [Raw Cabernet](#Raw_Cabernet)
 
 ### <a name="Filtered_Chardonne_Wine_Filter_Raw_Chardonne____"></a><a name="Filtered_Chardonne"></a>Filtered Chardonne - 1
-![image](FarmLife2Mod/ItemIcons/Filtered%20Chardonne.png)
 
 Station: **Brew Station** - Tool: **Wine Filter**
 
 - 1 [Raw Chardonne](#Raw_Chardonne)
 
 ### <a name="Filtered_Merlot_Wine_Filter_Raw_Merlot____"></a><a name="Filtered_Merlot"></a>Filtered Merlot - 1
-![image](FarmLife2Mod/ItemIcons/Filtered%20Merlot.png)
 
 Station: **Brew Station** - Tool: **Wine Filter**
 
 - 1 [Raw Merlot](#Raw_Merlot)
 
 ### <a name="Filtered_Pink_Rose_Wine_Filter_Raw_Pink_Rose____"></a><a name="Filtered_Pink_Rose"></a>Filtered Pink Rose - 1
-![image](FarmLife2Mod/ItemIcons/Filtered%20Pink%20Rose.png)
 
 Station: **Brew Station** - Tool: **Wine Filter**
 
 - 1 [Raw Pink Rose](#Raw_Pink_Rose)
 
 ### <a name="Filtered_White_Zin_Wine_Filter_Raw_White_Zin____"></a><a name="Filtered_White_Zin"></a>Filtered White Zin - 1
-![image](FarmLife2Mod/ItemIcons/Filtered%20White%20Zin.png)
 
 Station: **Brew Station** - Tool: **Wine Filter**
 
@@ -1228,7 +1143,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Flour Tortillas Step 1](#Flour_Tortillas_Step_1)
 
 ### <a name="Flour_Tortillas_Step_1_Mixing_Bowl_Aged_Wheat_Flour_Salt_Lard_drinkJarBoiledWater_"></a><a name="Flour_Tortillas_Step_1"></a>Flour Tortillas Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Flour%20Tortillas%20Step%201.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -1247,7 +1161,6 @@ Station: **workbench** - Tool: **none**
 - 10 resourceForgedSteel
 
 ### <a name="Fruit_Smoothie_Veggie_Attachment_Strawberry_Banana_foodCropBlueberries_Milk_"></a><a name="Fruit_Smoothie"></a>Fruit Smoothie - 1
-![image](FarmLife2Mod/ItemIcons/Fruit%20Smoothie.png)
 
 Station: **KitchNaid** - Tool: **Veggie Attachment**
 
@@ -1266,7 +1179,6 @@ Station: **workbench** - Tool: **none**
 - 10 resourceScrapPolymers
 
 ### <a name="Gas_Cooktop_Volume_1__resourceCoal_resourcePaper___"></a><a name="Gas_Cooktop_Volume_1"></a>Gas Cooktop Volume 1 - 1
-![image](FarmLife2Mod/ItemIcons/Gas%20Cooktop%20Volume%201.png)
 
 Station: **none** - Tool: **none**
 
@@ -1283,7 +1195,6 @@ Station: **workbench** - Tool: **none**
 - 10 resourceScrapPolymers
 
 ### <a name="Gas_Oven_Volume_1__resourceCoal_resourcePaper___"></a><a name="Gas_Oven_Volume_1"></a>Gas Oven Volume 1 - 1
-![image](FarmLife2Mod/ItemIcons/Gas%20Oven%20Volume%201.png)
 
 Station: **none** - Tool: **none**
 
@@ -1291,7 +1202,6 @@ Station: **none** - Tool: **none**
 - 1 resourcePaper
 
 ### <a name="Golden_Malt_Drying_Pan_Spouted_Sorghum____"></a><a name="Golden_Malt"></a>Golden Malt - 50
-![image](FarmLife2Mod/ItemIcons/Golden%20Malt.png)
 
 Station: **Brew Cooker** - Tool: **Drying Pan**
 
@@ -1394,7 +1304,6 @@ Station: **none** - Tool: **none**
 - 1 Veal
 
 ### <a name="Growing_Trees_(Seeds)__resourceCoal_resourcePaper___"></a><a name="Growing_Trees_(Seeds)"></a>Growing Trees (Seeds) - 1
-![image](FarmLife2Mod/ItemIcons/Growing%20Trees%20(Seeds).png)
 
 Station: **none** - Tool: **none**
 
@@ -1416,7 +1325,6 @@ Station: **Chopping Board** - Tool: **Zhang Cleaver**
 - 1 [Cured Ham](#Cured_Ham)
 
 ### <a name="Hamburger_Spatula_Hamburger_Patty_Hamburger_Fixings___"></a><a name="Hamburger"></a>Hamburger - 1
-![image](FarmLife2Mod/ItemIcons/Hamburger.png)
 
 Station: **Wood Grill** - Tool: **Spatula**
 
@@ -1457,7 +1365,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Salt](#Salt)
 
 ### <a name="Home_Brewer's_Guide__resourceCoal_resourcePaper___"></a><a name="Home_Brewer's_Guide"></a>Home Brewer's Guide - 1
-![image](FarmLife2Mod/ItemIcons/Home%20Brewer's%20Guide.png)
 
 Station: **none** - Tool: **none**
 
@@ -1491,7 +1398,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Salt and Pepper](#Salt_and_Pepper)
 
 ### <a name="Kefir_Culture_toolFermentor_Raw_Milk_drinkJarEmpty_Cheese_Cloth__"></a><a name="Kefir_Culture"></a>Kefir Culture - 15
-![image](FarmLife2Mod/ItemIcons/Kefir%20Culture.png)
 
 Station: **Fermentor Bench** - Tool: **none**
 
@@ -1509,7 +1415,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Cooking Vinegar](#Cooking_Vinegar)
 
 ### <a name="Ketchup_Step_1_toolCookingPot_Sauteed_Onions_Olive_Oil_Ground_Hot_Pepper_Salt_"></a><a name="Ketchup_Step_1"></a>Ketchup Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Ketchup%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -1528,7 +1433,6 @@ Station: **workbench** - Tool: **none**
 - 10 resourceScrapPolymers
 
 ### <a name="KitchNaid_Volume_1__resourceCoal_resourcePaper___"></a><a name="KitchNaid_Volume_1"></a>KitchNaid Volume 1 - 1
-![image](FarmLife2Mod/ItemIcons/KitchNaid%20Volume%201.png)
 
 Station: **none** - Tool: **none**
 
@@ -1536,7 +1440,6 @@ Station: **none** - Tool: **none**
 - 1 resourcePaper
 
 ### <a name="KitchNaid_Volume_2__resourceCoal_resourcePaper___"></a><a name="KitchNaid_Volume_2"></a>KitchNaid Volume 2 - 1
-![image](FarmLife2Mod/ItemIcons/KitchNaid%20Volume%202.png)
 
 Station: **none** - Tool: **none**
 
@@ -1558,7 +1461,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Lard Step 1](#Lard_Step_1)
 
 ### <a name="Lard_Step_1_Caste_Iron_Skillet_Pork_Fat____"></a><a name="Lard_Step_1"></a>Lard Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Lard%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -1575,7 +1477,6 @@ Station: **KitchNaid** - Tool: **Veggie Attachment**
 - 1 drinkJarEmpty
 
 ### <a name="Light_Malt_Drying_Pan_Spouted_Sorghum____"></a><a name="Light_Malt"></a>Light Malt - 50
-![image](FarmLife2Mod/ItemIcons/Light%20Malt.png)
 
 Station: **Brew Cooker** - Tool: **Drying Pan**
 
@@ -1618,7 +1519,6 @@ Station: **Brew Cooker** - Tool: **Boiler**
 - 40 Maple Sap
 
 ### <a name="Maple_Woodchips_toolTableSaw_Maple_Wood_Plank____"></a><a name="Maple_Woodchips"></a>Maple Woodchips - 2
-![image](FarmLife2Mod/ItemIcons/Maple%20Woodchips.png)
 
 Station: **tableSaw** - Tool: **none**
 
@@ -1635,7 +1535,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Black Pepper](#Black_Pepper)
 
 ### <a name="Marinated_BBQ_Elk_Mixing_Bowl_Elk_Scraps_Salt_and_Pepper_Spicy_BBQ_Sauce_Cooking_Vinegar_"></a><a name="Marinated_BBQ_Elk"></a>Marinated BBQ Elk - 1
-![image](FarmLife2Mod/ItemIcons/Marinated%20BBQ%20Elk.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -1677,7 +1576,6 @@ Station: **Gas Oven** - Tool: **Baking Sheet**
 - 1 [Meatballs Step 1](#Meatballs_Step_1)
 
 ### <a name="Meatballs_Step_1_Mixing_Bowl_Ground_Veal_foodEgg_Breadcrumbs_Salt_and_Pepper_"></a><a name="Meatballs_Step_1"></a>Meatballs Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Meatballs%20Step%201.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -1742,7 +1640,6 @@ Station: **Fermentor Bench** - Tool: **Clay Pot**
 - 10 [Salt](#Salt)
 
 ### <a name="Miso_Paste_Step_1_toolCookingPot_Soy_Bean_drinkCanRiverWater___"></a><a name="Miso_Paste_Step_1"></a>Miso Paste Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Miso%20Paste%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -1750,7 +1647,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 10 drinkCanRiverWater
 
 ### <a name="Miso_Paste_Step_2_Mixing_Bowl_Miso_Paste_Step_1_Salt_Koji_Culture__"></a><a name="Miso_Paste_Step_2"></a>Miso Paste Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Miso%20Paste%20Step%202.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -1850,7 +1746,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 2 [Salt and Pepper](#Salt_and_Pepper)
 
 ### <a name="Pancetta_Linguini_Step_1_Caste_Iron_Skillet_Pancetta_Diced_Onions___"></a><a name="Pancetta_Linguini_Step_1"></a>Pancetta Linguini Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Pancetta%20Linguini%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -1858,7 +1753,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 5 [Diced Onions](#Diced_Onions)
 
 ### <a name="Pancetta_Linguini_Step_2_Caste_Iron_Skillet_Pancetta_Linguini_Step_1_Brussels_Sprouts_Garlic__"></a><a name="Pancetta_Linguini_Step_2"></a>Pancetta Linguini Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Pancetta%20Linguini%20Step%202.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -1867,7 +1761,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 Garlic
 
 ### <a name="Pancetta_Linguini_Step_3_Caste_Iron_Skillet_Pancetta_Linguini_Step_2_Chardonne_Boiled_Linguini__"></a><a name="Pancetta_Linguini_Step_3"></a>Pancetta Linguini Step 3 - 1
-![image](FarmLife2Mod/ItemIcons/Pancetta%20Linguini%20Step%203.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -1885,7 +1778,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Briney Water](#Briney_Water)
 
 ### <a name="Parmesan_Crusted_Chicken_Spatula_Chicken_Breast_Parmesan_foodEgg_Olive_Oil_Salt_and_Pepper"></a><a name="Parmesan_Crusted_Chicken"></a>Parmesan Crusted Chicken - 2
-![image](FarmLife2Mod/ItemIcons/Parmesan%20Crusted%20Chicken.png)
 
 Station: **Wood Grill** - Tool: **Spatula**
 
@@ -1924,7 +1816,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Pesto](#Pesto)
 
 ### <a name="Penne_Pesto_Step_1_Caste_Iron_Skillet_Ground_Veal_Olive_Oil_Salt_and_Pepper__"></a><a name="Penne_Pesto_Step_1"></a>Penne Pesto Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Penne%20Pesto%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -2058,7 +1949,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Queso Fresco Step 3](#Queso_Fresco_Step_3)
 
 ### <a name="Queso_Fresco_Step_1_toolCookingPot_Raw_Milk_Milk_Salt__"></a><a name="Queso_Fresco_Step_1"></a>Queso Fresco Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Queso%20Fresco%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -2067,7 +1957,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Salt](#Salt)
 
 ### <a name="Queso_Fresco_Step_2_toolCookingPot_Queso_Fresco_Step_1_Cooking_Vinegar___"></a><a name="Queso_Fresco_Step_2"></a>Queso Fresco Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Queso%20Fresco%20Step%202.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -2075,7 +1964,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 3 [Cooking Vinegar](#Cooking_Vinegar)
 
 ### <a name="Queso_Fresco_Step_3_toolCookingPot_Queso_Fresco_Step_2_Cheese_Cloth___"></a><a name="Queso_Fresco_Step_3"></a>Queso Fresco Step 3 - 1
-![image](FarmLife2Mod/ItemIcons/Queso%20Fresco%20Step%203.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -2083,7 +1971,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 [Cheese Cloth](#Cheese_Cloth)
 
 ### <a name="Raising_Livestock_(Pens)__resourceCoal_resourcePaper___"></a><a name="Raising_Livestock_(Pens)"></a>Raising Livestock (Pens) - 1
-![image](FarmLife2Mod/ItemIcons/Raising%20Livestock%20(Pens).png)
 
 Station: **none** - Tool: **none**
 
@@ -2091,21 +1978,18 @@ Station: **none** - Tool: **none**
 - 1 resourcePaper
 
 ### <a name="Raw_Bourbon_Spirits_Vat_Bourbon_Mash____"></a><a name="Raw_Bourbon"></a>Raw Bourbon - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20Bourbon.png)
 
 Station: **Brew Station** - Tool: **Spirits Vat**
 
 - 1 [Bourbon Mash](#Bourbon_Mash)
 
 ### <a name="Raw_Bulleeet_Spirits_Vat_Bulleeet_Mash____"></a><a name="Raw_Bulleeet"></a>Raw Bulleeet - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20Bulleeet.png)
 
 Station: **Brew Station** - Tool: **Spirits Vat**
 
 - 1 [Bulleeet Mash](#Bulleeet_Mash)
 
 ### <a name="Raw_Cabernet_Wine_Tank_drinkJarBoiledWater_Grape_Pulp_Grape_Extract__"></a><a name="Raw_Cabernet"></a>Raw Cabernet - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20Cabernet.png)
 
 Station: **Brew Station** - Tool: **Wine Tank**
 
@@ -2114,7 +1998,6 @@ Station: **Brew Station** - Tool: **Wine Tank**
 - 5 [Grape Extract](#Grape_Extract)
 
 ### <a name="Raw_Chardonne_Wine_Tank_drinkJarBoiledWater_Grape_Extract___"></a><a name="Raw_Chardonne"></a>Raw Chardonne - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20Chardonne.png)
 
 Station: **Brew Station** - Tool: **Wine Tank**
 
@@ -2122,7 +2005,6 @@ Station: **Brew Station** - Tool: **Wine Tank**
 - 20 [Grape Extract](#Grape_Extract)
 
 ### <a name="Raw_Merlot_Wine_Tank_drinkJarBoiledWater_Grape_Pulp_Grape_Extract__"></a><a name="Raw_Merlot"></a>Raw Merlot - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20Merlot.png)
 
 Station: **Brew Station** - Tool: **Wine Tank**
 
@@ -2131,7 +2013,6 @@ Station: **Brew Station** - Tool: **Wine Tank**
 - 5 [Grape Extract](#Grape_Extract)
 
 ### <a name="Raw_Pink_Rose_Wine_Tank_drinkJarBoiledWater_Grape_Pulp_Grape_Extract__"></a><a name="Raw_Pink_Rose"></a>Raw Pink Rose - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20Pink%20Rose.png)
 
 Station: **Brew Station** - Tool: **Wine Tank**
 
@@ -2140,7 +2021,6 @@ Station: **Brew Station** - Tool: **Wine Tank**
 - 15 [Grape Extract](#Grape_Extract)
 
 ### <a name="Raw_Scotch_Spirits_Vat_Scotch_Mash____"></a><a name="Raw_Scotch"></a>Raw Scotch - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20Scotch.png)
 
 Station: **Brew Station** - Tool: **Spirits Vat**
 
@@ -2154,28 +2034,24 @@ Station: **KitchNaid** - Tool: **Grain Miller**
 - 1 Sugar Cane
 
 ### <a name="Raw_Vodka_Spirits_Vat_Vodka_Mash____"></a><a name="Raw_Vodka"></a>Raw Vodka - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20Vodka.png)
 
 Station: **Brew Station** - Tool: **Spirits Vat**
 
 - 1 [Vodka Mash](#Vodka_Mash)
 
 ### <a name="Raw_Whiskey_Spirits_Vat_Whiskey_Mash____"></a><a name="Raw_Whiskey"></a>Raw Whiskey - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20Whiskey.png)
 
 Station: **Brew Station** - Tool: **Spirits Vat**
 
 - 1 [Whiskey Mash](#Whiskey_Mash)
 
 ### <a name="Raw_White_Rum_Spirits_Vat_White_Rum_Mash____"></a><a name="Raw_White_Rum"></a>Raw White Rum - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20White%20Rum.png)
 
 Station: **Brew Station** - Tool: **Spirits Vat**
 
 - 1 [White Rum Mash](#White_Rum_Mash)
 
 ### <a name="Raw_White_Zin_Wine_Tank_drinkJarBoiledWater_Grape_Extract___"></a><a name="Raw_White_Zin"></a>Raw White Zin - 1
-![image](FarmLife2Mod/ItemIcons/Raw%20White%20Zin.png)
 
 Station: **Brew Station** - Tool: **Wine Tank**
 
@@ -2202,7 +2078,6 @@ Station: **KitchNaid** - Tool: **Mixing Bowl**
 - 5 [Salt and Pepper](#Salt_and_Pepper)
 
 ### <a name="Refried_Beans_Step_1_toolCookingPot_Pinto_Bean_Onion_drinkJarBoiledWater_Ground_Ancho__Garlic"></a><a name="Refried_Beans_Step_1"></a>Refried Beans Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Refried%20Beans%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -2213,7 +2088,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 Garlic
 
 ### <a name="Refried_Beans_Step_2_Caste_Iron_Skillet_Refried_Beans_Step_1_Lard___"></a><a name="Refried_Beans_Step_2"></a>Refried Beans Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Refried%20Beans%20Step%202.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -2230,14 +2104,12 @@ Station: **none** - Tool: **none**
 - 15 drinkJarEmpty
 
 ### <a name="Rennet_Step_1_Zhang_Cleaver_Calf_Stomache____"></a><a name="Rennet_Step_1"></a>Rennet Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Rennet%20Step%201.png)
 
 Station: **Chopping Board** - Tool: **Zhang Cleaver**
 
 - 5 Calf Stomache
 
 ### <a name="Rennet_Step_2_toolFermentor_Rennet_Step_1_Briney_Water_Cooking_Vinegar__"></a><a name="Rennet_Step_2"></a>Rennet Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Rennet%20Step%202.png)
 
 Station: **Fermentor Bench** - Tool: **none**
 
@@ -2265,14 +2137,12 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Parmesan](#Parmesan)
 
 ### <a name="Risotto_Step_1_Damascus_Knife_Shallot____"></a><a name="Risotto_Step_1"></a>Risotto Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Risotto%20Step%201.png)
 
 Station: **Chopping Board** - Tool: **Damascus Knife**
 
 - 1 Shallot
 
 ### <a name="Risotto_Step_2_Caste_Iron_Skillet_Risotto_Step_1_Butter_Salt__"></a><a name="Risotto_Step_2"></a>Risotto Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Risotto%20Step%202.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -2281,7 +2151,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Salt](#Salt)
 
 ### <a name="Risotto_Step_3_Caste_Iron_Skillet_Risotto_Step_2_Rice_Butter__"></a><a name="Risotto_Step_3"></a>Risotto Step 3 - 1
-![image](FarmLife2Mod/ItemIcons/Risotto%20Step%203.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -2290,7 +2159,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Butter](#Butter)
 
 ### <a name="Risotto_Step_4_Caste_Iron_Skillet_Risotto_Step_3_White_Zin___"></a><a name="Risotto_Step_4"></a>Risotto Step 4 - 1
-![image](FarmLife2Mod/ItemIcons/Risotto%20Step%204.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -2343,7 +2211,6 @@ Station: **Wood Grill** - Tool: **Ceramic Dutch Oven**
 - 2 [Salt and Pepper](#Salt_and_Pepper)
 
 ### <a name="Rye_Malt_Drying_Pan_Spouted_Rye____"></a><a name="Rye_Malt"></a>Rye Malt - 50
-![image](FarmLife2Mod/ItemIcons/Rye%20Malt.png)
 
 Station: **Brew Cooker** - Tool: **Drying Pan**
 
@@ -2364,7 +2231,6 @@ Station: **none** - Tool: **none**
 - 1 Salt Shaker
 
 ### <a name="Salt_and_Pepper__Black_Pepper_Salt___"></a><a name="Salt_and_Pepper"></a>Salt and Pepper - 1
-![image](FarmLife2Mod/ItemIcons/Salt%20and%20Pepper.png)
 
 Station: **none** - Tool: **none**
 
@@ -2380,14 +2246,12 @@ Station: **Fermentor Bench** - Tool: **none**
 - 15 drinkJarEmpty
 
 ### <a name="Sauerkraut_Step_1_Damascus_Knife_Cabbage____"></a><a name="Sauerkraut_Step_1"></a>Sauerkraut Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Sauerkraut%20Step%201.png)
 
 Station: **Chopping Board** - Tool: **Damascus Knife**
 
 - 15 Cabbage
 
 ### <a name="Sauerkraut_Step_2_Mixing_Bowl_Sauerkraut_Step_1_Salt___"></a><a name="Sauerkraut_Step_2"></a>Sauerkraut Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Sauerkraut%20Step%202.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -2395,7 +2259,6 @@ Station: **KitchNaid** - Tool: **Mixing Bowl**
 - 10 [Salt](#Salt)
 
 ### <a name="Sauerkraut_Step_3_Dough_Hook_Sauerkraut_Step_2____"></a><a name="Sauerkraut_Step_3"></a>Sauerkraut Step 3 - 1
-![image](FarmLife2Mod/ItemIcons/Sauerkraut%20Step%203.png)
 
 Station: **KitchNaid** - Tool: **Dough Hook**
 
@@ -2418,7 +2281,6 @@ Station: **Brew Station** - Tool: **Mixing Cask**
 - 5 drinkJarBoiledWater
 
 ### <a name="Scotch_Mash_Masher_Barley_Malt_drinkJarBoiledWater___"></a><a name="Scotch_Mash"></a>Scotch Mash - 1
-![image](FarmLife2Mod/ItemIcons/Scotch%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -2530,7 +2392,6 @@ Station: **Cold Smoker** - Tool: **Meat Hanger**
 - 3 [Walnut Woodchips](#Walnut_Woodchips)
 
 ### <a name="Smoker_Mat_toolAnvil_unit_iron_unit_clay___"></a><a name="Smoker_Mat"></a>Smoker Mat - 1
-![image](FarmLife2Mod/ItemIcons/Smoker%20Mat.png)
 
 Station: **forge** - Tool: **toolAnvil**
 
@@ -2538,7 +2399,6 @@ Station: **forge** - Tool: **toolAnvil**
 - 10 unit_clay
 
 ### <a name="Smoker_Volume_1__resourceCoal_resourcePaper___"></a><a name="Smoker_Volume_1"></a>Smoker Volume 1 - 1
-![image](FarmLife2Mod/ItemIcons/Smoker%20Volume%201.png)
 
 Station: **none** - Tool: **none**
 
@@ -2574,7 +2434,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 2 [Ground Cumin](#Ground_Cumin)
 
 ### <a name="Spanish_Rice_Step_1_Caste_Iron_Skillet_Rice_Olive_Oil___"></a><a name="Spanish_Rice_Step_1"></a>Spanish Rice Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Spanish%20Rice%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -2582,7 +2441,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 4 [Olive Oil](#Olive_Oil)
 
 ### <a name="Spanish_Rice_Step_2_toolCookingPot_Spanish_Rice_Step_1_Chicken_Stock_drinkJarBoiledWater_Minced_Garlic_"></a><a name="Spanish_Rice_Step_2"></a>Spanish Rice Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Spanish%20Rice%20Step%202.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
@@ -2620,7 +2478,6 @@ Station: **Wood Grill** - Tool: **Tongs**
 - 5 [Maple Woodchips](#Maple_Woodchips)
 
 ### <a name="Spicy_Elk_Jerky_Smoker_Mat_Brined_Spicy_Elk_Apple_Woodchips___"></a><a name="Spicy_Elk_Jerky"></a>Spicy Elk Jerky - 10
-![image](FarmLife2Mod/ItemIcons/Spicy%20Elk%20Jerky.png)
 
 Station: **Cold Smoker** - Tool: **Smoker Mat**
 
@@ -2647,21 +2504,18 @@ Station: **workbench** - Tool: **none**
 - 10 resourceMechanicalParts
 
 ### <a name="Spouted_Barley_Malting_Trays_Steeped_Barley____"></a><a name="Spouted_Barley"></a>Spouted Barley - 50
-![image](FarmLife2Mod/ItemIcons/Spouted%20Barley.png)
 
 Station: **Brew Station** - Tool: **Malting Trays**
 
 - 50 [Steeped Barley](#Steeped_Barley)
 
 ### <a name="Spouted_Rye_Malting_Trays_Steeped_Rye____"></a><a name="Spouted_Rye"></a>Spouted Rye - 50
-![image](FarmLife2Mod/ItemIcons/Spouted%20Rye.png)
 
 Station: **Brew Station** - Tool: **Malting Trays**
 
 - 50 [Steeped Rye](#Steeped_Rye)
 
 ### <a name="Spouted_Sorghum_Malting_Trays_Steeped_Sorghum____"></a><a name="Spouted_Sorghum"></a>Spouted Sorghum - 50
-![image](FarmLife2Mod/ItemIcons/Spouted%20Sorghum.png)
 
 Station: **Brew Station** - Tool: **Malting Trays**
 
@@ -2676,7 +2530,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Lard](#Lard)
 
 ### <a name="Steak_Burrito_Step_1_Caste_Iron_Skillet_Sliced_Steak_Lard_Salt_and_Pepper__"></a><a name="Steak_Burrito_Step_1"></a>Steak Burrito Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Steak%20Burrito%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
@@ -2685,7 +2538,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Salt and Pepper](#Salt_and_Pepper)
 
 ### <a name="Steak_Burrito_Step_2_toolChoppingBoard_Steak_Burrito_Step_1_Queso_Fresco_Shredded_Lettuce__Refried_Beans_Flour_Tortillas"></a><a name="Steak_Burrito_Step_2"></a>Steak Burrito Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Steak%20Burrito%20Step%202.png)
 
 Station: **Chopping Board** - Tool: **none**
 
@@ -2705,7 +2557,6 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 drinkJarBoiledWater
 
 ### <a name="Steeped_Barley_Steeping_Tun_Barley_drinkCanBoiledWater___"></a><a name="Steeped_Barley"></a>Steeped Barley - 50
-![image](FarmLife2Mod/ItemIcons/Steeped%20Barley.png)
 
 Station: **Brew Station** - Tool: **Steeping Tun**
 
@@ -2713,7 +2564,6 @@ Station: **Brew Station** - Tool: **Steeping Tun**
 - 15 drinkCanBoiledWater
 
 ### <a name="Steeped_Rye_Steeping_Tun_Rye_drinkJarBoiledWater___"></a><a name="Steeped_Rye"></a>Steeped Rye - 50
-![image](FarmLife2Mod/ItemIcons/Steeped%20Rye.png)
 
 Station: **Brew Station** - Tool: **Steeping Tun**
 
@@ -2721,7 +2571,6 @@ Station: **Brew Station** - Tool: **Steeping Tun**
 - 15 drinkJarBoiledWater
 
 ### <a name="Steeped_Sorghum_Steeping_Tun_Sorghum_drinkJarBoiledWater___"></a><a name="Steeped_Sorghum"></a>Steeped Sorghum - 50
-![image](FarmLife2Mod/ItemIcons/Steeped%20Sorghum.png)
 
 Station: **Brew Station** - Tool: **Steeping Tun**
 
@@ -2745,7 +2594,6 @@ Station: **forge** - Tool: **toolAndDieSet**
 - 100 unit_clay
 
 ### <a name="Stir_Fry_Vegetables_Wok_Carrot_Broccoli_Squash_Olive_Oil_Salt_and_Pepper"></a><a name="Stir_Fry_Vegetables"></a>Stir Fry Vegetables - 1
-![image](FarmLife2Mod/ItemIcons/Stir%20Fry%20Vegetables.png)
 
 Station: **Gas Cooktop** - Tool: **Wok**
 
@@ -2778,14 +2626,12 @@ Station: **Gas Oven** - Tool: **Baking Sheet**
 - 1 [Tortillas Chips Step 2](#Tortillas_Chips_Step_2)
 
 ### <a name="Tortillas_Chips_Step_1_Damascus_Knife_Flour_Tortillas____"></a><a name="Tortillas_Chips_Step_1"></a>Tortillas Chips Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Tortillas%20Chips%20Step%201.png)
 
 Station: **Chopping Board** - Tool: **Damascus Knife**
 
 - 5 [Flour Tortillas](#Flour_Tortillas)
 
 ### <a name="Tortillas_Chips_Step_2_Mixing_Bowl_Tortillas_Chips_Step_1_Olive_Oil_Lime_Salt_"></a><a name="Tortillas_Chips_Step_2"></a>Tortillas Chips Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Tortillas%20Chips%20Step%202.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
@@ -2851,7 +2697,6 @@ Station: **Brew Station** - Tool: **Mixing Cask**
 - 5 drinkJarBoiledWater
 
 ### <a name="Vodka_Mash_Masher_Barley_Malt_foodCropPotato_drinkJarBoiledWater__"></a><a name="Vodka_Mash"></a>Vodka Mash - 1
-![image](FarmLife2Mod/ItemIcons/Vodka%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -2867,7 +2712,6 @@ Station: **tableSaw** - Tool: **none**
 - 5 Walnut Wood Plank
 
 ### <a name="Walnut_Woodchips_toolTableSaw_Walnut_Wood_Plank____"></a><a name="Walnut_Woodchips"></a>Walnut Woodchips - 2
-![image](FarmLife2Mod/ItemIcons/Walnut%20Woodchips.png)
 
 Station: **tableSaw** - Tool: **none**
 
@@ -2896,7 +2740,6 @@ Station: **Brew Station** - Tool: **Mixing Cask**
 - 5 drinkJarBoiledWater
 
 ### <a name="Whiskey_Mash_Masher_Barley_Malt_foodCropCorn_drinkJarBoiledWater__"></a><a name="Whiskey_Mash"></a>Whiskey Mash - 1
-![image](FarmLife2Mod/ItemIcons/Whiskey%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -2905,7 +2748,6 @@ Station: **Brew Cooker** - Tool: **Masher**
 - 15 drinkJarBoiledWater
 
 ### <a name="White_Rum_Mixing_Cask_Distilled_White_Rum_drinkJarBoiledWater___"></a><a name="White_Rum"></a>White Rum - 15
-![image](FarmLife2Mod/ItemIcons/White%20Rum.png)
 
 Station: **Brew Station** - Tool: **Mixing Cask**
 
@@ -2913,7 +2755,6 @@ Station: **Brew Station** - Tool: **Mixing Cask**
 - 5 drinkJarBoiledWater
 
 ### <a name="White_Rum_Mash_Masher_Raw_Sugar_drinkJarBoiledWater___"></a><a name="White_Rum_Mash"></a>White Rum Mash - 1
-![image](FarmLife2Mod/ItemIcons/White%20Rum%20Mash.png)
 
 Station: **Brew Cooker** - Tool: **Masher**
 
@@ -2986,7 +2827,6 @@ Station: **Brew Cooker** - Tool: **none**
 - 2 White Oak Plank
 
 ### <a name="Wood_Grill_toolWorkbench_resourceForgedIron_toolCookingGrill___"></a><a name="Wood_Grill"></a>Wood Grill - 1
-![image](FarmLife2Mod/ItemIcons/Wood%20Grill.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -2994,7 +2834,6 @@ Station: **workbench** - Tool: **none**
 - 1 toolCookingGrill
 
 ### <a name="Wood_Grill_Volume_1__resourceCoal_resourcePaper___"></a><a name="Wood_Grill_Volume_1"></a>Wood Grill Volume 1 - 1
-![image](FarmLife2Mod/ItemIcons/Wood%20Grill%20Volume%201.png)
 
 Station: **none** - Tool: **none**
 
@@ -3011,14 +2850,12 @@ Station: **Fermentor Bench** - Tool: **none**
 - 1 [Cheese Cloth](#Cheese_Cloth)
 
 ### <a name="Yogurt_Step_1_toolCookingPot_Raw_Milk____"></a><a name="Yogurt_Step_1"></a>Yogurt Step 1 - 1
-![image](FarmLife2Mod/ItemIcons/Yogurt%20Step%201.png)
 
 Station: **Gas Cooktop** - Tool: **toolCookingPot**
 
 - 2 Raw Milk
 
 ### <a name="Yogurt_Step_2_Mixing_Bowl_Yogurt_Step_1_Yogurt_Culture___"></a><a name="Yogurt_Step_2"></a>Yogurt Step 2 - 1
-![image](FarmLife2Mod/ItemIcons/Yogurt%20Step%202.png)
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
 
