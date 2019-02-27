@@ -1,5 +1,4 @@
-### <a name="Aged_Barrel_toolChemstation_Oak_Barrel_drinkJarGrainAlcohol___"></a><a name="Aged_Barrel"></a>Aged Barrel - 1
-![image](FarmLife2Mod/ItemIcons/Aged%20Barrel.png)
+### <a name="Aged_Barrel_toolChemstation_Oak_Barrel_drinkJarGrainAlcohol___"></a><a name="Aged_Barrel"></a>Aged Barrel - 1 ![image](FarmLife2Mod/ItemIcons/Aged%20Barrel.png)
 
 Station: **chemistryStation** - Tool: **none**
 
