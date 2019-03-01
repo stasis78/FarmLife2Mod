@@ -1,0 +1,357 @@
+<?xml version="1.0"?>
+<configs>
+    <append xpath="/quests">
+        <quest id="brewing_guide_1" modTag="farmlife">
+            <property name="group_name" value="Brewing"/>
+            <property name="name" value="Mashing Time"/>
+            <property name="subtitle" value="Mashing Time"/>
+            <property name="description" value="Learn how to brew some craft quality beer. You must have a Brew Cooker and a Brew Station. Required tools are Masher, Boiler, Carboy, and Bottle Capper."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to brew some craft quality beer. You must have a Brew Cooker and a Brew Station. Required tools are Masher, Boiler, Carboy, and Bottle Capper."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Golden Malt" value="15" phase="1"/>
+            <objective type="FetchKeep" id="drinkJarBoiledWater" value="15" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Quest" id="brewing_guide_2"/>
+        </quest>
+        <quest id="brewing_guide_2" modTag="farmlife">
+            <property name="group_name" value="Brewing"/>
+            <property name="name" value="All about Wort"/>
+            <property name="subtitle" value="All about Wort"/>
+            <property name="description" value="Learn how to brew some craft quality beer. You must have a Brew Cooker and a Brew Station. Required tools are Masher, Boiler, Carboy, and Bottle Capper."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to brew some craft quality beer. You must have a Brew Cooker and a Brew Station. Required tools are Masher, Boiler, Carboy, and Bottle Capper."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Beer IPA Mash" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Bitter Hops" value="15" phase="1"/>
+            <objective type="FetchKeep" id="resourceCropHopsFlower" value="5" phase="1"/>
+            <objective type="FetchKeep" id="Floral Hops" value="15" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Quest" id="brewing_guide_3"/>
+        </quest>
+        <quest id="brewing_guide_3" modTag="farmlife">
+            <property name="group_name" value="Brewing"/>
+            <property name="name" value="Primary Fermentation"/>
+            <property name="subtitle" value="Primary Fermentation"/>
+            <property name="description" value="Learn how to brew some craft quality beer. You must have a Brew Cooker and a Brew Station. Required tools are Masher, Boiler, Carboy, and Bottle Capper."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to brew some craft quality beer. You must have a Brew Cooker and a Brew Station. Required tools are Masher, Boiler, Carboy, and Bottle Capper."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Beer IPA Raw" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Quest" id="brewing_guide_4"/>
+        </quest>
+        <quest id="brewing_guide_4" modTag="farmlife">
+            <property name="group_name" value="Brewing"/>
+            <property name="name" value="Bottle Time"/>
+            <property name="subtitle" value="Bottle Time"/>
+            <property name="description" value="Learn how to brew some craft quality beer. You must have a Brew Cooker and a Brew Station. Required tools are Masher, Boiler, Carboy, and Bottle Capper."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to brew some craft quality beer. You must have a Brew Cooker and a Brew Station. Required tools are Masher, Boiler, Carboy, and Bottle Capper."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Beer IPA" value="15" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Item" id="Beer IPA" value="15" chainreward="true"/>
+        </quest>
+        <quest id="livestock_pens_1" modTag="farmlife">
+            <property name="group_name" value="Raising Livestock"/>
+            <property name="name" value="Livestock Tools"/>
+            <property name="subtitle" value="Livestock Tools"/>
+            <property name="description" value="Learn how to raise livestock for food. Get a Pitch fork and some Cattle Feed."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to raise livestock for food. Get a Pitch fork and some Cattle Feed."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Pitch Fork" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Cattle Feed" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Quest" id="livestock_pens_2"/>
+        </quest>
+        <quest id="livestock_pens_2" modTag="farmlife">
+            <property name="group_name" value="Raising Livestock"/>
+            <property name="name" value="Livestock Make and Place a Pen"/>
+            <property name="subtitle" value="Make and Place a Pen"/>
+            <property name="description" value="Learn how to raise livestock for food. Get an Hungry Angus Pen and place it."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to raise livestock for food. Get an Hungry Angus Pen and place it."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Hungry Angus Pen" value="1" phase="1"/>
+            <objective type="BlockPlace" id="Hungry Angus Pen" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Quest" id="livestock_pens_3"/>
+        </quest>
+        <quest id="livestock_pens_3" modTag="farmlife">
+            <property name="group_name" value="Raising Livestock"/>
+            <property name="name" value="Livestock Pitch Fork and Feed"/>
+            <property name="subtitle" value="Pitch Fork and Feed"/>
+            <property name="description" value="Learn how to raise livestock for food. Feed your Angus using the Pitch Fork and Cattle Feed."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to raise livestock for food. Feed your Angus using the Pitch Fork and Cattle Feed."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="BlockUpgrade" id="Hungry Angus Pen" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Quest" id="livestock_pens_4"/>
+        </quest>
+        <quest id="livestock_pens_4" modTag="farmlife">
+            <property name="group_name" value="Raising Livestock"/>
+            <property name="name" value="Livestock Havesting Full Pens"/>
+            <property name="subtitle" value="Havesting Full Pens"/>
+            <property name="description" value="Learn how to raise livestock for food. Wait for your Angus to grow into a Full Angus Pen. Then harvest the pen with a butch weapon for best results."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to raise livestock for food. Wait for your Angus to grow into a Full Angus Pen. Then harvest the pen with a butch weapon for best results."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Delmontico" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Rump Roast" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Porterhouse" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Item" id="Buttery Delmontico" value="1" chainreward="true"/>
+        </quest>
+        <quest id="seeds_tree_seeds_1" modTag="farmlife">
+            <property name="group_name" value="Growing Trees"/>
+            <property name="name" value="Trees Harvesting Seeds"/>
+            <property name="subtitle" value="Harvesting Seeds"/>
+            <property name="description" value="Learn how to grow trees and then receive Farm Life trees seeds (Note: Must be in a forest biome). Once you recieve the Tree Seeds Crate, place it on the ground and destroy with an axe."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to grow trees and then receive Farm Life trees seeds (Note: Must be in a forest biome). Once you recieve the Tree Seeds Crate, place it on the ground and destroy with an axe."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="resourceWood" value="100" phase="1"/>
+            <objective type="FetchKeep" id="treePlantedOak1m" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Quest" id="seeds_tree_seeds_2"/>
+        </quest>
+        <quest id="seeds_tree_seeds_2" modTag="farmlife">
+            <property name="group_name" value="Growing Trees"/>
+            <property name="name" value="Trees Planting Seeds"/>
+            <property name="subtitle" value="Planting Seeds"/>
+            <property name="description" value="Learn how to grow trees and then receive Farm Life trees seeds. Once you recieve the Tree Seeds Crate, place it on the ground and destroy with an axe."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to grow trees and then receive Farm Life trees seeds. Once you recieve the Tree Seeds Crate, place it on the ground and destroy with an axe."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="BlockPlace" id="treePlantedOak1m" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Item" id="Tree Seeds Crate" value="1" chainreward="true"/>
+        </quest>
+        <quest id="seeds_plant_seeds_1" modTag="farmlife">
+            <property name="group_name" value="Farming Crops"/>
+            <property name="name" value="Farming Tools"/>
+            <property name="subtitle" value="Tools"/>
+            <property name="description" value="Learn how to plant crops and then receive Farm Life crop seeds (Note: Must be in a forest biome). Once you recieve the Crop Seeds Crate, place it on the ground and destroy with an axe."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to plant crops and then receive Farm Life crop seeds (Note: Must be in a forest biome). Once you recieve the Crop Seeds Crate, place it on the ground and destroy with an axe."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="meleeToolHoeIron" value="1" phase="1"/>
+            <objective type="BlockUpgrade" id="terrForestGround" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Quest" id="seeds_plant_seeds_2"/>
+        </quest>
+        <quest id="seeds_plant_seeds_2" modTag="farmlife">
+            <property name="group_name" value="Farming Crops"/>
+            <property name="name" value="Farming Making Seeds"/>
+            <property name="subtitle" value="Making Seeds"/>
+            <property name="description" value="Learn how to plant crops and then receive Farm Life crop seeds."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to plant crops and then receive Farm Life crop seeds."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="foodCropCorn" value="4" phase="1"/>
+            <objective type="Craft">
+                <property name="phase" value="2"/>
+                <property name="item" value="plantedCorn1"/>
+                <property name="count" value="1"/>
+            </objective>
+            <reward type="Exp" value="500"/>
+            <reward type="Quest" id="seeds_plant_seeds_3"/>
+        </quest>
+        <quest id="seeds_plant_seeds_3" modTag="farmlife">
+            <property name="group_name" value="Farming Crops"/>
+            <property name="name" value="Farming Planting"/>
+            <property name="subtitle" value="Planting"/>
+            <property name="description" value="Learn how to plant crops and then receive Farm Life crop seeds. Once you recieve the Crop Seeds Crate, place it on the ground and destroy with an axe."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn how to plant crops and then receive Farm Life crop seeds. Once you recieve the Crop Seeds Crate, place it on the ground and destroy with an axe."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="BlockPlace" id="plantedCorn1" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+            <reward type="Item" id="Crop Seeds Crate" value="1" chainreward="true"/>
+        </quest>
+        <quest id="brewing_brew_cooker_tools_1" modTag="farmlife">
+            <property name="name" value="Brew Cooker Tools"/>
+            <property name="subtitle" value="Brew Cooker Tools"/>
+            <property name="description" value="Learn what tools are required by the Brew Cooker, a necessary component for beer brewing and distilling spirits."/>
+            <property name="icon" value="ui_game_symbol_beer"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn what tools are required by the Brew Cooker, a necessary component for beer brewing and distilling spirits."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Masher" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Boiler" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Still" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+        </quest>
+        <quest id="brewing_brew_station_tools_1" modTag="farmlife">
+            <property name="name" value="Brew Station Tools"/>
+            <property name="subtitle" value="Brew Station Tools"/>
+            <property name="description" value="Learn what tools are required by the Brew Station, a necessary component for beer brewing, wine making, and distilling spirits."/>
+            <property name="icon" value="ui_game_symbol_beer"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn what tools are required by the Brew Station, a necessary component for beer brewing, wine making, and distilling spirits."/>
+            <property name="difficulty" value="easy"/>
+            <property name="category" value="quest"/>
+            <property name="statement_key" value="Build a Brew Station."/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Carboy" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Wine Tank" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Spirits Vat" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+        </quest>
+        <quest id="brewing_brew_station_tools_2" modTag="farmlife">
+            <property name="name" value="Brew Station Tools 2"/>
+            <property name="subtitle" value="Brew Station Tools 2"/>
+            <property name="description" value="Learn what tools are required by the Brew Station, a necessary component for beer brewing, wine making, and distilling spirits."/>
+            <property name="icon" value="ui_game_symbol_beer"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn what tools are required by the Brew Station, a necessary component for beer brewing, wine making, and distilling spirits."/>
+            <property name="difficulty" value="easy"/>
+            <property name="category" value="quest"/>
+            <property name="statement_key" value="Build a Brew Station."/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Wine Filter" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Oak Barrel" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Aged Barrel" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Floor Corker" value="1" phase="2"/>
+            <objective type="FetchKeep" id="Bottle Capper" value="1" phase="2"/>
+            <objective type="FetchKeep" id="Mixing Cask" value="1" phase="2"/>
+            <reward type="Exp" value="500"/>
+        </quest>
+        <quest id="smoker_station_tools_1" modTag="farmlife">
+            <property name="name" value="Smoker Tools"/>
+            <property name="subtitle" value="Smoker Tools"/>
+            <property name="description" value="Learn what tools are required by the Smoker, a necessary component for drying and curing meats."/>
+            <property name="icon" value="ui_game_symbol_spatula"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn what tools are required by the Smoker, a necessary component for drying and curing meats."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Smoker Mat" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Meat Hanger" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Turkey Rack" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+        </quest>
+        <quest id="gas_oven_station_tools_1" modTag="farmlife">
+            <property name="name" value="Gas Oven Tools"/>
+            <property name="subtitle" value="Gas Oven Tools"/>
+            <property name="description" value="Learn what tools are required by the Gas Oven, a necessary component for baking your food."/>
+            <property name="icon" value="ui_game_symbol_spatula"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn what tools are required by the Gas Oven, a necessary component for baking your food."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Baking Sheet" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Pizza Stone" value="1" phase="1"/>
+            <objective type="FetchKeep" id="PyreX Bakeware" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+        </quest>
+        <quest id="gas_cooktop_station_tools_1" modTag="farmlife">
+            <property name="name" value="Gas Cooktop Tools"/>
+            <property name="subtitle" value="Gas Cooktop Tools"/>
+            <property name="description" value="Learn what tools are required by the Gas Cooktop, a necessary component for boiling and frying your food."/>
+            <property name="icon" value="ui_game_symbol_spatula"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn what tools are required by the Gas Cooktop, a necessary component for boiling and frying your food."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="toolCookingPot" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Caste Iron Skillet" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Wok" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+        </quest>
+        <quest id="kitchenaid_station_tools_1" modTag="farmlife">
+            <property name="name" value="KitchNaid Tools"/>
+            <property name="subtitle" value="KitchNaid Tools"/>
+            <property name="description" value="Learn what tools are required by the KitchNaid, a necessary component for preparing food."/>
+            <property name="icon" value="ui_game_symbol_spatula"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn what tools are required by the KitchNaid, a necessary component for preparing food."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Dough Hook" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Veggie Attachment" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Ice Cream Bowl" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+        </quest>
+        <quest id="kitchenaid_station_tools_2" modTag="farmlife">
+            <property name="name" value="KitchNaid Tools 2"/>
+            <property name="subtitle" value="KitchNaid Tools 2"/>
+            <property name="description" value="Learn what tools are required by the KitchNaid, a necessary component for preparing food."/>
+            <property name="icon" value="ui_game_symbol_spatula"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn what tools are required by the KitchNaid, a necessary component for preparing food."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Meat Grinder" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Grain Miller" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Pasta Helper" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+        </quest>
+        <quest id="woodgrill_station_tools_1" modTag="farmlife">
+            <property name="name" value="Wood Grill Tools"/>
+            <property name="subtitle" value="Wood Grill Tools"/>
+            <property name="description" value="Learn what tools are required by the Wood Grill, a necessary component for grilling meats."/>
+            <property name="icon" value="ui_game_symbol_spatula"/>
+            <property name="repeatable" value="false"/>
+            <property name="category_key" value="quest"/>
+            <property name="offer" value="Learn what tools are required by the Wood Grill, a necessary component for grilling meats."/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Tongs" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Spatula" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Ceramic Dutch Oven" value="1" phase="1"/>
+            <reward type="Exp" value="500"/>
+        </quest>
+    </append>
+</configs>

@@ -737,6 +737,58 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 1 Whole Chicken
 - 15 drinkJarBoiledWater
 
+## <a name="Chicken_Tamale_toolCookingPot_Chicken_Tamale_Step_5_Dried_Husk___"></a><a name="Chicken_Tamale"></a>Chicken Tamale - 20
+![image](FarmLife2Mod/ItemIcons/Chicken%20Tamale.png)
+
+Station: **Gas Cooktop** - Tool: **toolCookingPot**
+
+- 1 [Chicken Tamale Step 5](#Chicken_Tamale_Step_5)
+- 20 [Dried Husk](#Dried_Husk)
+
+## <a name="Chicken_Tamale_Step_1_Caste_Iron_Skillet_Diced_Onions_Minced_Garlic_Salt_drinkJarBoiledWater_Pulled_Chicken"></a><a name="Chicken_Tamale_Step_1"></a>Chicken Tamale Step 1 - 1
+
+Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
+
+- 5 [Diced Onions](#Diced_Onions)
+- 2 [Minced Garlic](#Minced_Garlic)
+- 1 [Salt](#Salt)
+- 5 drinkJarBoiledWater
+- 5 [Pulled Chicken](#Pulled_Chicken)
+
+## <a name="Chicken_Tamale_Step_2_Food_Processor_Tomatillo_Jalapeno_Pepper_Cilantro_Minced_Garlic_"></a><a name="Chicken_Tamale_Step_2"></a>Chicken Tamale Step 2 - 1
+
+Station: **KitchNaid** - Tool: **Food Processor**
+
+- 5 Tomatillo
+- 2 Jalapeno Pepper
+- 5 Cilantro
+- 1 [Minced Garlic](#Minced_Garlic)
+
+## <a name="Chicken_Tamale_Step_3_Caste_Iron_Skillet_Olive_Oil_Diced_Onions_Chicken_Tamale_Step_2_Salt_and_Pepper_"></a><a name="Chicken_Tamale_Step_3"></a>Chicken Tamale Step 3 - 1
+
+Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
+
+- 1 [Olive Oil](#Olive_Oil)
+- 3 [Diced Onions](#Diced_Onions)
+- 1 [Chicken Tamale Step 2](#Chicken_Tamale_Step_2)
+- 1 [Salt and Pepper](#Salt_and_Pepper)
+
+## <a name="Chicken_Tamale_Step_4_Caste_Iron_Skillet_Chicken_Tamale_Step_3_Chicken_Tamale_Step_1___"></a><a name="Chicken_Tamale_Step_4"></a>Chicken Tamale Step 4 - 1
+
+Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
+
+- 1 [Chicken Tamale Step 3](#Chicken_Tamale_Step_3)
+- 1 [Chicken Tamale Step 1](#Chicken_Tamale_Step_1)
+
+## <a name="Chicken_Tamale_Step_5_Mixing_Bowl_Corn_Masa_Chicken_Stock_Lard_Salt_"></a><a name="Chicken_Tamale_Step_5"></a>Chicken Tamale Step 5 - 1
+
+Station: **KitchNaid** - Tool: **Mixing Bowl**
+
+- 2 [Corn Masa](#Corn_Masa)
+- 2 [Chicken Stock](#Chicken_Stock)
+- 10 [Lard](#Lard)
+- 1 [Salt](#Salt)
+
 ## <a name="Chile_Relleno_Caste_Iron_Skillet_Chile_Relleno_Step_2_Chile_Relleno_Step_3_Lard__"></a><a name="Chile_Relleno"></a>Chile Relleno - 1
 ![image](FarmLife2Mod/ItemIcons/Chile%20Relleno.png)
 
@@ -789,6 +841,7 @@ Station: **Cold Smoker** - Tool: **Smoker Mat**
 - 5 [Maple Woodchips](#Maple_Woodchips)
 
 ## <a name="Cold_Smoker_toolWorkbench_resourceForgedIron_resourceMechanicalParts_resourceScrapPolymers__"></a><a name="Cold_Smoker"></a>Cold Smoker - 1
+![image](FarmLife2Mod/ItemIcons/Cold%20Smoker.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -1029,59 +1082,45 @@ Station: **Cold Smoker** - Tool: **Smoker Mat**
 - 10 Elk Scraps
 - 1 [Salt and Pepper](#Salt_and_Pepper)
 
-## <a name="Empty_Angus_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Angus_Pen"></a>Empty Angus Pen - 1
+## <a name="Fajitas_Platter_Baking_Sheet_Fajitas_Platter_Step_3_Guacamole_Chips_and_Salsa_Guac_and_Chips_Flour_Tortillas"></a><a name="Fajitas_Platter"></a>Fajitas Platter - 1
+![image](FarmLife2Mod/ItemIcons/Fajitas%20Platter.png)
 
-Station: **workbench** - Tool: **none**
+Station: **Gas Oven** - Tool: **Baking Sheet**
 
-- 120 resourceForgedIron
-- 200 resourceYuccaFibers
-- 1 [Feeding Trough](#Feeding_Trough)
-- 1 bucketEmpty
+- 1 [Fajitas Platter Step 3](#Fajitas_Platter_Step_3)
+- 1 [Guacamole](#Guacamole)
+- 2 [Chips and Salsa](#Chips_and_Salsa)
+- 2 [Guac and Chips](#Guac_and_Chips)
+- 10 [Flour Tortillas](#Flour_Tortillas)
 
-## <a name="Empty_Chicken_Coop_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Chicken_Coop"></a>Empty Chicken Coop - 1
+## <a name="Fajitas_Platter_Step_1_Caste_Iron_Skillet_Sliced_Steak_Sliced_Green_Bell_Sliced_Yellow_Bell_Sliced_Red_Bell_Olive_Oil"></a><a name="Fajitas_Platter_Step_1"></a>Fajitas Platter Step 1 - 1
 
-Station: **workbench** - Tool: **none**
+Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
-- 120 resourceForgedIron
-- 200 resourceYuccaFibers
-- 1 [Feeding Trough](#Feeding_Trough)
-- 1 bucketEmpty
+- 10 [Sliced Steak](#Sliced_Steak)
+- 3 [Sliced Green Bell](#Sliced_Green_Bell)
+- 3 [Sliced Yellow Bell](#Sliced_Yellow_Bell)
+- 3 [Sliced Red Bell](#Sliced_Red_Bell)
+- 2 [Olive Oil](#Olive_Oil)
 
-## <a name="Empty_Elk_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Elk_Pen"></a>Empty Elk Pen - 1
+## <a name="Fajitas_Platter_Step_2_Caste_Iron_Skillet_Fajitas_Platter_Step_1_Diced_Onions_Minced_Garlic_Pablano_Pepper_Salt_and_Pepper"></a><a name="Fajitas_Platter_Step_2"></a>Fajitas Platter Step 2 - 1
 
-Station: **workbench** - Tool: **none**
+Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
-- 120 resourceForgedIron
-- 200 resourceYuccaFibers
-- 1 [Feeding Trough](#Feeding_Trough)
-- 1 bucketEmpty
+- 1 [Fajitas Platter Step 1](#Fajitas_Platter_Step_1)
+- 3 [Diced Onions](#Diced_Onions)
+- 2 [Minced Garlic](#Minced_Garlic)
+- 2 Pablano Pepper
+- 4 [Salt and Pepper](#Salt_and_Pepper)
 
-## <a name="Empty_Holstein_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Holstein_Pen"></a>Empty Holstein Pen - 1
+## <a name="Fajitas_Platter_Step_3_Caste_Iron_Skillet_Fajitas_Platter_Step_2_Diced_Cilantro_Ground_Ancho__Ground_Hot_Pepper_"></a><a name="Fajitas_Platter_Step_3"></a>Fajitas Platter Step 3 - 1
 
-Station: **workbench** - Tool: **none**
+Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 
-- 120 resourceForgedIron
-- 200 resourceYuccaFibers
-- 1 [Feeding Trough](#Feeding_Trough)
-- 1 bucketEmpty
-
-## <a name="Empty_Pig_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Pig_Pen"></a>Empty Pig Pen - 1
-
-Station: **workbench** - Tool: **none**
-
-- 120 resourceForgedIron
-- 200 resourceYuccaFibers
-- 1 [Feeding Trough](#Feeding_Trough)
-- 1 bucketEmpty
-
-## <a name="Empty_Veal_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Empty_Veal_Pen"></a>Empty Veal Pen - 1
-
-Station: **workbench** - Tool: **none**
-
-- 120 resourceForgedIron
-- 200 resourceYuccaFibers
-- 1 [Feeding Trough](#Feeding_Trough)
-- 1 bucketEmpty
+- 1 [Fajitas Platter Step 2](#Fajitas_Platter_Step_2)
+- 5 [Diced Cilantro](#Diced_Cilantro)
+- 3 [Ground Ancho ](#Ground_Ancho_)
+- 3 [Ground Hot Pepper](#Ground_Hot_Pepper)
 
 ## <a name="Farming_Crops_(Seeds)__resourceCoal_resourcePaper___"></a><a name="Farming_Crops_(Seeds)"></a>Farming Crops (Seeds) - 1
 
@@ -1168,6 +1207,17 @@ Station: **KitchNaid** - Tool: **Veggie Attachment**
 - 2 Banana
 - 2 foodCropBlueberries
 - 2 [Milk](#Milk)
+
+## <a name="Fuego_en_el_Culo_Baking_Sheet_Steak_Burrito_Pork_Chimichanga_Spanish_Rice_Refried_Beans_Ground_Hot_Pepper"></a><a name="Fuego_en_el_Culo"></a>Fuego en el Culo - 1
+![image](FarmLife2Mod/ItemIcons/Fuego%20en%20el%20Culo.png)
+
+Station: **Gas Oven** - Tool: **Baking Sheet**
+
+- 1 [Steak Burrito](#Steak_Burrito)
+- 1 [Pork Chimichanga](#Pork_Chimichanga)
+- 3 [Spanish Rice](#Spanish_Rice)
+- 3 [Refried Beans](#Refried_Beans)
+- 10 [Ground Hot Pepper](#Ground_Hot_Pepper)
 
 ## <a name="Gas_Cooktop_toolWorkbench_resourceForgedIron_resourceMechanicalParts_resourceScrapPolymers__"></a><a name="Gas_Cooktop"></a>Gas Cooktop - 1
 ![image](FarmLife2Mod/ItemIcons/Gas%20Cooktop.png)
@@ -1310,6 +1360,39 @@ Station: **none** - Tool: **none**
 - 1 resourceCoal
 - 1 resourcePaper
 
+## <a name="Guac_and_Chips__Guacamole_Tortillas_Chips___"></a><a name="Guac_and_Chips"></a>Guac and Chips - 1
+![image](FarmLife2Mod/ItemIcons/Guac%20and%20Chips.png)
+
+Station: **none** - Tool: **none**
+
+- 2 [Guacamole](#Guacamole)
+- 3 [Tortillas Chips](#Tortillas_Chips)
+
+## <a name="Guacamole_toolChoppingBoard_Guacamole_Step_2_Lime_Sliced_Jalapeno__"></a><a name="Guacamole"></a>Guacamole - 10
+![image](FarmLife2Mod/ItemIcons/Guacamole.png)
+
+Station: **Chopping Board** - Tool: **none**
+
+- 1 [Guacamole Step 2](#Guacamole_Step_2)
+- 1 Lime
+- 1 [Sliced Jalapeno](#Sliced_Jalapeno)
+
+## <a name="Guacamole_Step_1_Damascus_Knife_Avocado____"></a><a name="Guacamole_Step_1"></a>Guacamole Step 1 - 1
+
+Station: **Chopping Board** - Tool: **Damascus Knife**
+
+- 5 Avocado
+
+## <a name="Guacamole_Step_2_Food_Processor_Guacamole_Step_1_Diced_Cilantro_Diced_Tomatos_Diced_Onions_Salt"></a><a name="Guacamole_Step_2"></a>Guacamole Step 2 - 1
+
+Station: **KitchNaid** - Tool: **Food Processor**
+
+- 1 [Guacamole Step 1](#Guacamole_Step_1)
+- 2 [Diced Cilantro](#Diced_Cilantro)
+- 2 [Diced Tomatos](#Diced_Tomatos)
+- 2 [Diced Onions](#Diced_Onions)
+- 1 [Salt](#Salt)
+
 ## <a name="Ham_Steak_Zhang_Cleaver_Smoked_Ham____"></a><a name="Ham_Steak"></a>Ham Steak - 10
 ![image](FarmLife2Mod/ItemIcons/Ham%20Steak.png)
 
@@ -1370,6 +1453,60 @@ Station: **none** - Tool: **none**
 
 - 1 resourceCoal
 - 1 resourcePaper
+
+## <a name="Hungry_Angus_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Angus_Pen"></a>Hungry Angus Pen - 1
+
+Station: **workbench** - Tool: **none**
+
+- 120 resourceForgedIron
+- 200 resourceYuccaFibers
+- 1 [Feeding Trough](#Feeding_Trough)
+- 1 bucketEmpty
+
+## <a name="Hungry_Chicken_Coop_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Chicken_Coop"></a>Hungry Chicken Coop - 1
+
+Station: **workbench** - Tool: **none**
+
+- 120 resourceForgedIron
+- 200 resourceYuccaFibers
+- 1 [Feeding Trough](#Feeding_Trough)
+- 1 bucketEmpty
+
+## <a name="Hungry_Elk_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Elk_Pen"></a>Hungry Elk Pen - 1
+
+Station: **workbench** - Tool: **none**
+
+- 120 resourceForgedIron
+- 200 resourceYuccaFibers
+- 1 [Feeding Trough](#Feeding_Trough)
+- 1 bucketEmpty
+
+## <a name="Hungry_Holstein_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Holstein_Pen"></a>Hungry Holstein Pen - 1
+
+Station: **workbench** - Tool: **none**
+
+- 120 resourceForgedIron
+- 200 resourceYuccaFibers
+- 1 [Feeding Trough](#Feeding_Trough)
+- 1 bucketEmpty
+
+## <a name="Hungry_Pig_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Pig_Pen"></a>Hungry Pig Pen - 1
+
+Station: **workbench** - Tool: **none**
+
+- 120 resourceForgedIron
+- 200 resourceYuccaFibers
+- 1 [Feeding Trough](#Feeding_Trough)
+- 1 bucketEmpty
+
+## <a name="Hungry_Veal_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Veal_Pen"></a>Hungry Veal Pen - 1
+
+Station: **workbench** - Tool: **none**
+
+- 120 resourceForgedIron
+- 200 resourceYuccaFibers
+- 1 [Feeding Trough](#Feeding_Trough)
+- 1 bucketEmpty
 
 ## <a name="Ice_Cream_Bowl_toolForgeCrucible_unit_iron_unit_clay___"></a><a name="Ice_Cream_Bowl"></a>Ice Cream Bowl - 1
 ![image](FarmLife2Mod/ItemIcons/Ice%20Cream%20Bowl.png)
@@ -1599,14 +1736,25 @@ Station: **workbench** - Tool: **none**
 - 10 resourceForgedIron
 - 5 resourceMechanicalParts
 
-## <a name="Mexican_Combo_69_toolChoppingBoard_Steak_Burrito_Chile_Relleno_Chips_and_Salsa_Refried_Beans_Spanish_Rice"></a><a name="Mexican_Combo_69"></a>Mexican Combo 69 - 1
+## <a name="Mexican_Combo_3_Baking_Sheet_Pork_Chimichanga_Chicken_Tamale_Refried_Beans_Spanish_Rice_Queso_Fresco"></a><a name="Mexican_Combo_3"></a>Mexican Combo 3 - 1
+![image](FarmLife2Mod/ItemIcons/Mexican%20Combo%203.png)
+
+Station: **Gas Oven** - Tool: **Baking Sheet**
+
+- 1 [Pork Chimichanga](#Pork_Chimichanga)
+- 3 [Chicken Tamale](#Chicken_Tamale)
+- 3 [Refried Beans](#Refried_Beans)
+- 3 [Spanish Rice](#Spanish_Rice)
+- 2 [Queso Fresco](#Queso_Fresco)
+
+## <a name="Mexican_Combo_69_Baking_Sheet_Steak_Burrito_Chile_Relleno_Chicken_Tamale_Refried_Beans_Spanish_Rice"></a><a name="Mexican_Combo_69"></a>Mexican Combo 69 - 1
 ![image](FarmLife2Mod/ItemIcons/Mexican%20Combo%2069.png)
 
-Station: **Chopping Board** - Tool: **none**
+Station: **Gas Oven** - Tool: **Baking Sheet**
 
 - 1 [Steak Burrito](#Steak_Burrito)
 - 1 [Chile Relleno](#Chile_Relleno)
-- 1 [Chips and Salsa](#Chips_and_Salsa)
+- 2 [Chicken Tamale](#Chicken_Tamale)
 - 3 [Refried Beans](#Refried_Beans)
 - 3 [Spanish Rice](#Spanish_Rice)
 
@@ -1918,6 +2066,30 @@ Station: **Fermentor Bench** - Tool: **none**
 - 19 drinkJarEmpty
 - 1 [Cheese Cloth](#Cheese_Cloth)
 
+## <a name="Pork_Chimichanga_Baking_Sheet_Pork_Chimichanga_Step_2____"></a><a name="Pork_Chimichanga"></a>Pork Chimichanga - 1
+![image](FarmLife2Mod/ItemIcons/Pork%20Chimichanga.png)
+
+Station: **Gas Oven** - Tool: **Baking Sheet**
+
+- 1 [Pork Chimichanga Step 2](#Pork_Chimichanga_Step_2)
+
+## <a name="Pork_Chimichanga_Step_1_toolChoppingBoard_Pulled_Pork_Refried_Beans_Pinto_Bean_Flour_Tortillas_Queso_Fresco"></a><a name="Pork_Chimichanga_Step_1"></a>Pork Chimichanga Step 1 - 1
+
+Station: **Chopping Board** - Tool: **none**
+
+- 5 [Pulled Pork](#Pulled_Pork)
+- 1 [Refried Beans](#Refried_Beans)
+- 1 Pinto Bean
+- 1 [Flour Tortillas](#Flour_Tortillas)
+- 2 [Queso Fresco](#Queso_Fresco)
+
+## <a name="Pork_Chimichanga_Step_2_Caste_Iron_Skillet_Pork_Chimichanga_Step_1_Olive_Oil___"></a><a name="Pork_Chimichanga_Step_2"></a>Pork Chimichanga Step 2 - 1
+
+Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
+
+- 1 [Pork Chimichanga Step 1](#Pork_Chimichanga_Step_1)
+- 1 [Olive Oil](#Olive_Oil)
+
 ## <a name="Port_Wine_Floor_Corker_Aged_Port_Wine_drinkJarGrainAlcohol___"></a><a name="Port_Wine"></a>Port Wine - 15
 ![image](FarmLife2Mod/ItemIcons/Port%20Wine.png)
 
@@ -1932,6 +2104,13 @@ Station: **Brew Station** - Tool: **Floor Corker**
 Station: **Chopping Board** - Tool: **none**
 
 - 2 [Smoked Chicken](#Smoked_Chicken)
+
+## <a name="Pulled_Pork_toolChoppingBoard_Smoked_Pork_Ribs____"></a><a name="Pulled_Pork"></a>Pulled Pork - 10
+![image](FarmLife2Mod/ItemIcons/Pulled%20Pork.png)
+
+Station: **Chopping Board** - Tool: **none**
+
+- 1 [Smoked Pork Ribs](#Smoked_Pork_Ribs)
 
 ## <a name="PyreX_Bakeware_toolAndDieSet_unit_glass_unit_clay___"></a><a name="PyreX_Bakeware"></a>PyreX Bakeware - 1
 ![image](FarmLife2Mod/ItemIcons/PyreX%20Bakeware.png)
@@ -2337,12 +2516,26 @@ Station: **none** - Tool: **none**
 
 - 1 Ginger Root
 
+## <a name="Sliced_Green_Bell_Damascus_Knife_Green_Bell____"></a><a name="Sliced_Green_Bell"></a>Sliced Green Bell - 3
+![image](FarmLife2Mod/ItemIcons/Sliced%20Green%20Bell.png)
+
+Station: **Chopping Board** - Tool: **Damascus Knife**
+
+- 5 Green Bell
+
 ## <a name="Sliced_Jalapeno_Damascus_Knife_Jalapeno_Pepper____"></a><a name="Sliced_Jalapeno"></a>Sliced Jalapeno - 5
 ![image](FarmLife2Mod/ItemIcons/Sliced%20Jalapeno.png)
 
 Station: **Chopping Board** - Tool: **Damascus Knife**
 
 - 3 Jalapeno Pepper
+
+## <a name="Sliced_Red_Bell_Damascus_Knife_Red_Bell____"></a><a name="Sliced_Red_Bell"></a>Sliced Red Bell - 3
+![image](FarmLife2Mod/ItemIcons/Sliced%20Red%20Bell.png)
+
+Station: **Chopping Board** - Tool: **Damascus Knife**
+
+- 5 Red Bell
 
 ## <a name="Sliced_Squash_Damascus_Knife_Squash____"></a><a name="Sliced_Squash"></a>Sliced Squash - 5
 ![image](FarmLife2Mod/ItemIcons/Sliced%20Squash.png)
@@ -2364,6 +2557,13 @@ Station: **Chopping Board** - Tool: **Damascus Knife**
 Station: **Chopping Board** - Tool: **Damascus Knife**
 
 - 1 Porterhouse
+
+## <a name="Sliced_Yellow_Bell_Damascus_Knife_Yellow_Bell____"></a><a name="Sliced_Yellow_Bell"></a>Sliced Yellow Bell - 5
+![image](FarmLife2Mod/ItemIcons/Sliced%20Yellow%20Bell.png)
+
+Station: **Chopping Board** - Tool: **Damascus Knife**
+
+- 3 Yellow Bell
 
 ## <a name="Smoked_Bacon_Smoker_Mat_Pork_Belly_Apple_Woodchips_Walnut_Woodchips__"></a><a name="Smoked_Bacon"></a>Smoked Bacon - 10
 ![image](FarmLife2Mod/ItemIcons/Smoked%20Bacon.png)
@@ -2388,6 +2588,14 @@ Station: **Cold Smoker** - Tool: **Turkey Rack**
 Station: **Cold Smoker** - Tool: **Meat Hanger**
 
 - 1 Ham
+- 2 [Apple Woodchips](#Apple_Woodchips)
+- 3 [Walnut Woodchips](#Walnut_Woodchips)
+
+## <a name="Smoked_Pork_Ribs_Meat_Hanger_Pork_Ribs_Apple_Woodchips_Walnut_Woodchips__"></a><a name="Smoked_Pork_Ribs"></a>Smoked Pork Ribs - 1
+
+Station: **Cold Smoker** - Tool: **Meat Hanger**
+
+- 1 Pork Ribs
 - 2 [Apple Woodchips](#Apple_Woodchips)
 - 3 [Walnut Woodchips](#Walnut_Woodchips)
 
@@ -2639,6 +2847,17 @@ Station: **KitchNaid** - Tool: **Mixing Bowl**
 - 1 [Olive Oil](#Olive_Oil)
 - 1 Lime
 - 1 [Salt](#Salt)
+
+## <a name="Triple_Taco_Tuesday_Baking_Sheet_Beef_Taco_Spicy_Salsa_Spanish_Rice_Refried_Beans_Queso_Fresco"></a><a name="Triple_Taco_Tuesday"></a>Triple Taco Tuesday - 1
+![image](FarmLife2Mod/ItemIcons/Triple%20Taco%20Tuesday.png)
+
+Station: **Gas Oven** - Tool: **Baking Sheet**
+
+- 3 [Beef Taco](#Beef_Taco)
+- 3 [Spicy Salsa](#Spicy_Salsa)
+- 3 [Spanish Rice](#Spanish_Rice)
+- 3 [Refried Beans](#Refried_Beans)
+- 3 [Queso Fresco](#Queso_Fresco)
 
 ## <a name="Turkey_Rack_toolAndDieSet_unit_iron_unit_clay___"></a><a name="Turkey_Rack"></a>Turkey Rack - 1
 ![image](FarmLife2Mod/ItemIcons/Turkey%20Rack.png)
