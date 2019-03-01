@@ -1,3 +1,7 @@
+# Not compatible with the original FarmLifeMod
+
+This mod is a replacement and supercedes FarmLifeMod. You can not run with both mods installed. 
+
 # Need help? Check FAQ first!
 
 [FAQ](https://github.com/stasis78/FarmLife2Mod/blob/master/FAQs.md)
