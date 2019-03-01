@@ -1,3 +1,7 @@
+# Need help? Check FAQ first!
+
+[FAQ](https://github.com/stasis78/FarmLife2Mod/blob/master/FAQs.md)
+
 # Installation
 
 To install FarmLifeMod you *must* copy it into your `Mods` folder. Locations for `Mods` folders:
