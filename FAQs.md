@@ -2,6 +2,16 @@
 
 These are frequently asked questions.
 
+### Recipes too complicated, epic ****ing fail noob modder!
+
+I apologize for the depth and complexity of my mod. Let me try to help!
+
+I have created a markdown file that contains all recipes and links to all the required item's recipes as well.
+
+[Recipes.md](Recipes.md)
+
+Coming soon: in game items and quests to help you out :)
+
 ## Where do I get seeds?
 
 Thats a wonderful question and appreciate that you asked.
@@ -35,17 +45,13 @@ To raise livestock you do the following.
 
 Hope that clears this up!
 
-## Ok, but the blocks for pens are really stupid. WTF is crates, boxes, and a dumb tarp? This mod sucks!
+## What are these animals that look dead inside the pens?
 
-I'm sorry you feel that way. Let me try to explain it.
+For now there are very simple states for each stage of livestock.
 
-I have not had time to add in models for pens at this time. I promise new models will be coming soon. To work around no models, pens use the following logic for their blocks.
-
-- Empty pens are empty pallets, there is nothing in them
-- Feeding pens use a tarp, there is something in there, but its not ready quite yet
-- Full pens use boxes, there is definitely something in those boxes.
-
-I'm sorry that the models are "stupid". If you have any suggestions for a better model, please leave a comment or post an issue here on GitHub!!
+- Laying down (looking dead) means the critters are hungry. You should feed them.
+- If they have their head down then they are grazing, let them get full.
+- When they are idling with their heads up, that means they are ready harvest.
 
 ## How do I make Beer, Wine, and Spirits (like Whiskey or Vodka)?
 
@@ -80,7 +86,7 @@ Brew is a very complicated process in real life. Farm Life is tries to pay tribu
 
 ### Beer
 
-All good beer starts with, you guessed it, malts! While barley is the most common type of beer malt (and for good reason!), Farm Life deviates from this slightly. 
+All good beer starts with, you guessed it, malts! While barley is the most common type of beer malt (and for good reason!), Farm Life deviates from this slightly.
 
 #### Malting
 
@@ -110,7 +116,7 @@ The once you have malt and hops, you are basically ready to start cranking out b
 
 ### Spirits
 
-Hard liquor has many varying and different paths from brewing beer. Vodka is relatively simple, while spirits like Scotch and Bourbon are much more complicated. 
+Hard liquor has many varying and different paths from brewing beer. Vodka is relatively simple, while spirits like Scotch and Bourbon are much more complicated.
 
 #### Malts
 
@@ -124,3 +130,5 @@ Barley Malt is a requirement (unlike beer) for many types of spirits, as is Rye 
 I've tried to model the recipes for different types of spirits closely to their real world counter parts, and added in specific ingredients (i.e. Charred Barrel for Bourbon) for specific spirits. Feedback is always welcome!
 
 ### Wine
+
+More notes soon ;)
