@@ -10,7 +10,11 @@ I have created a markdown file that contains all recipes and links to all the re
 
 [Recipes.md](Recipes.md)
 
-Coming soon: in game items and quests to help you out :)
+All of the complicated recipes now have quests. You can craft a quest item that will start a quest chain which enables you to gather all of your materials upfront.
+
+How do you find the quest item though? It's very simple, all you need to know is the name of the food you are trying to craft. If you search for Bolognese in the crafting menu, you will see both the food and quest items appear.
+
+Complicated crafting is now much easier with these dynamic quests.
 
 ## Where do I get seeds?
 
@@ -31,7 +35,7 @@ These are completely optional. If you want to just scavenge like vanilla, you wi
 
 I'm sorry for the confusion. Let me try to make it very simple.
 
-First, there is a quest called 'Raising Livestock (Pens)'. You can create the quest item and complete it for an in game walk through. Otherwise keep reading! (Please keep reading anyway, there are lots of things to learn here:)
+First, there is a quest called 'The Basics: Livestock'. You can create the quest item and complete it for an in game walk through. Otherwise keep reading! (Please keep reading anyway, there are lots of things to learn here:)
 
 To raise livestock you do the following.
 
@@ -57,7 +61,7 @@ For now there are very simple states for each stage of livestock.
 
 I'm glad that you have the same interests that I do when it comes to libations! I have a treat for you :)
 
-Brewing, wine making, and distillation are a big part of Farm Life. Below is a very crude sketch of the ideas involved. But first, there are a couple of things to understand. There are two stations and 12 tools involved with crafting, as follows.
+Brewing, wine making, and distillation are a big part of Farm Life. There are two stations and 12 tools involved with crafting, as follows.
 
 ### Brew Cooker (hot, requires fuel)
 
@@ -111,7 +115,7 @@ Different types of brews need different types of hops, again, just like in real 
 
 #### The Brew
 
-The once you have malt and hops, you are basically ready to start cranking out beers. I suggest you follow the in game quest for hints if you get lost.
+The once you have malt and hops, you are basically ready to start cranking out beers. I suggest you follow the in game quest for hints if you get lost, it is called 'The Brewing Method`.
 
 
 ### Spirits
