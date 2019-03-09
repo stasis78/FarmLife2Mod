@@ -14,7 +14,7 @@ This mod is a replacement and supercedes FarmLifeMod. You can not run with both 
 
 # Installation
 
-To install FarmLifeMod you *must* copy it into your `Mods` folder. Locations for `Mods` folders:
+To install FarmLife2Mod you *must* copy it into your `Mods` folder. Locations for `Mods` folders:
 
 - [Mac OS X](https://7daystodie.com/forums/showthread.php?101570-modlets-on-Mac)
 - [Windows](https://7daystodie.gamepedia.com/How_to_Install_Modlets)
