@@ -10,7 +10,11 @@ I have created a markdown file that contains all recipes and links to all the re
 
 [Recipes.md](Recipes.md)
 
-Coming soon: in game items and quests to help you out :)
+All of the complicated recipes now have quests. You can craft a quest item that will start a quest chain which enables you to gather all of your materials upfront.
+
+How do you find the quest item though? It's very simple, all you need to know is the name of the food you are trying to craft. If you search for Bolognese in the crafting menu, you will see both the food and quest items appear.
+
+Complicated crafting is now much easier with these dynamic quests.
 
 ## Where do I get seeds?
 

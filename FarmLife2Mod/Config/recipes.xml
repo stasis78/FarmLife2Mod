@@ -14,7 +14,7 @@
             <ingredient name="Charred Barrel" count="1"/>
         </recipe>
         <recipe name="Aged Cheddar" count="50" craft_time="2" craft_area="Fermentor Bench" craft_tool="Aging Shelves">
-            <ingredient name="Cheddar Step 4" count="1"/>
+            <ingredient name="Cheddar Step 5" count="1"/>
         </recipe>
         <recipe name="Aged Double IPA " count="1" craft_time="2" craft_area="Brew Station" craft_tool="Oak Barrel">
             <ingredient name="Double IPA Raw" count="1"/>
@@ -40,6 +40,13 @@
             <ingredient name="Wood Ash" count="5"/>
             <ingredient name="Cheese Cloth" count="1"/>
         </recipe>
+        <recipe name="American Fries" count="20" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="American Fries Step 1" count="1"/>
+            <ingredient name="Vegetable Oil" count="10"/>
+        </recipe>
+        <recipe name="American Fries Step 1" count="1" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="foodCropPotato" count="10"/>
+        </recipe>
         <recipe name="Apple Cider" count="15" craft_time="2">
             <ingredient name="Apple Juice" count="15"/>
             <ingredient name="resourceCropHopsFlower" count="5"/>
@@ -50,7 +57,7 @@
             <ingredient name="drinkJarEmpty" count="1"/>
         </recipe>
         <recipe name="Apple Pie" count="1" craft_time="2" craft_area="Gas Oven" craft_tool="PyreX Bakeware">
-            <ingredient name="Apple" count="4"/>
+            <ingredient name="Sliced Apples" count="6"/>
             <ingredient name="Wheat Flour" count="2"/>
             <ingredient name="foodEgg" count="1"/>
             <ingredient name="resourceAnimalFat" count="1"/>
@@ -58,6 +65,17 @@
         </recipe>
         <recipe name="Apple Woodchips" count="2" craft_time="2" craft_area="tableSaw">
             <ingredient name="Apple Wood Plank" count="1"/>
+        </recipe>
+        <recipe name="Apples and Cream" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Sliced Apples" count="2"/>
+            <ingredient name="Ground Cinnamon" count="1"/>
+        </recipe>
+        <recipe name="Avocado Spinach Salad" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Sliced Avocado" count="3"/>
+            <ingredient name="Spinach" count="3"/>
+            <ingredient name="Chopped Walnuts" count="1"/>
+            <ingredient name="Olive Oil" count="1"/>
+            <ingredient name="Salt and Pepper" count="1"/>
         </recipe>
         <recipe name="BBQ Elk Jerky" count="10" craft_time="2" craft_area="Cold Smoker" craft_tool="Smoker Mat">
             <ingredient name="Marinated BBQ Elk" count="1"/>
@@ -88,6 +106,22 @@
             <ingredient name="unit_iron" count="100"/>
             <ingredient name="unit_clay" count="10"/>
         </recipe>
+        <recipe name="Bananna Bread" count="10" craft_time="2" craft_area="Gas Oven" craft_tool="PyreX Bakeware">
+            <ingredient name="Bananna Bread Step 2" count="1"/>
+        </recipe>
+        <recipe name="Bananna Bread Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Raw Sugar" count="10"/>
+            <ingredient name="Butter" count="5"/>
+            <ingredient name="Banana" count="10"/>
+            <ingredient name="foodEgg" count="2"/>
+            <ingredient name="Aged Wheat Flour" count="2"/>
+        </recipe>
+        <recipe name="Bananna Bread Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Bananna Bread Step 1" count="1"/>
+            <ingredient name="Salt" count="1"/>
+            <ingredient name="Milk" count="1"/>
+            <ingredient name="Ground Cinnamon" count="1"/>
+        </recipe>
         <recipe name="Barley Malt" count="50" craft_time="2" craft_area="Brew Cooker" craft_tool="Drying Pan">
             <ingredient name="Spouted Barley" count="50"/>
         </recipe>
@@ -99,6 +133,33 @@
             <ingredient name="Wheat Flour" count="1"/>
             <ingredient name="Milk" count="2"/>
             <ingredient name="Salt" count="1"/>
+        </recipe>
+        <recipe name="Beef Chili" count="20" craft_time="2" craft_area="Wood Grill" craft_tool="Ceramic Dutch Oven">
+            <ingredient name="Beef Chili Step 3" count="1"/>
+            <ingredient name="Sliced Green Bell" count="2"/>
+            <ingredient name="Sliced Yellow Bell" count="2"/>
+            <ingredient name="Sliced Red Bell" count="2"/>
+            <ingredient name="Cheddar" count="20"/>
+        </recipe>
+        <recipe name="Beef Chili Step 1" count="1" craft_time="2" craft_area="Wood Grill" craft_tool="Ceramic Dutch Oven">
+            <ingredient name="Ground Beef" count="10"/>
+            <ingredient name="Sliced Steak" count="5"/>
+            <ingredient name="Crushed Tomato" count="5"/>
+            <ingredient name="Beer Double IPA" count="2"/>
+            <ingredient name="Salt and Pepper" count="5"/>
+        </recipe>
+        <recipe name="Beef Chili Step 2" count="1" craft_time="2" craft_area="Wood Grill" craft_tool="Ceramic Dutch Oven">
+            <ingredient name="Beef Chili Step 1" count="1"/>
+            <ingredient name="Diced Onions" count="10"/>
+            <ingredient name="Ground Hot Pepper" count="5"/>
+            <ingredient name="Ground Cumin" count="5"/>
+            <ingredient name="Ground Ancho " count="5"/>
+        </recipe>
+        <recipe name="Beef Chili Step 3" count="1" craft_time="2">
+            <ingredient name="Beef Chili Step 2" count="1"/>
+            <ingredient name="Cooked Pinto Bean" count="1"/>
+            <ingredient name="Cooked Black Bean" count="1"/>
+            <ingredient name="Cooked Kidney Bean" count="1"/>
         </recipe>
         <recipe name="Beef Taco" count="5" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
             <ingredient name="Ground Beef" count="1"/>
@@ -168,6 +229,42 @@
             <ingredient name="resourceCropHopsFlower" count="10"/>
             <ingredient name="Floral Hops" count="10"/>
         </recipe>
+        <recipe name="Beet Juice" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
+            <ingredient name="Beet" count="5"/>
+            <ingredient name="Cucumber" count="1"/>
+            <ingredient name="Carrot" count="1"/>
+        </recipe>
+        <recipe name="Beet Salad" count="1" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Beet Salad Step 1" count="1"/>
+            <ingredient name="Cooking Vinegar" count="1"/>
+            <ingredient name="Minced Garlic" count="1"/>
+            <ingredient name="Mixed Herbs" count="1"/>
+            <ingredient name="Salt and Pepper" count="1"/>
+        </recipe>
+        <recipe name="Beet Salad Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Sliced Beets" count="5"/>
+            <ingredient name="Corn Husk" count="2"/>
+            <ingredient name="Diced Onions" count="2"/>
+        </recipe>
+        <recipe name="Biscuit" count="10" craft_time="2" craft_area="Gas Oven" craft_tool="Baking Sheet">
+            <ingredient name="Biscuit Step 3" count="1"/>
+        </recipe>
+        <recipe name="Biscuit Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Aged Wheat Flour" count="2"/>
+            <ingredient name="Salt" count="1"/>
+            <ingredient name="Lard" count="5"/>
+        </recipe>
+        <recipe name="Biscuit Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Biscuit Step 1" count="1"/>
+            <ingredient name="Milk" count="1"/>
+        </recipe>
+        <recipe name="Biscuit Step 3" count="1" craft_time="2" craft_area="Chopping Board" craft_tool="Pizza Cutter">
+            <ingredient name="Biscuit Step 2" count="1"/>
+        </recipe>
+        <recipe name="Biscuits and Gravy" count="1" craft_time="2">
+            <ingredient name="Biscuit" count="2"/>
+            <ingredient name="Sausage Gravy" count="4"/>
+        </recipe>
         <recipe name="Black Pepper" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Grain Miller">
             <ingredient name="Black Pepper Corn" count="1"/>
         </recipe>
@@ -178,6 +275,11 @@
             <ingredient name="Milk" count="10"/>
             <ingredient name="foodCropBlueberries" count="10"/>
             <ingredient name="Raw Sugar" count="5"/>
+            <ingredient name="Salt" count="1"/>
+        </recipe>
+        <recipe name="Boiled Egg Noodles" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Egg Noodles" count="1"/>
+            <ingredient name="drinkJarBoiledWater" count="2"/>
             <ingredient name="Salt" count="1"/>
         </recipe>
         <recipe name="Boiled Linguini" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
@@ -211,24 +313,25 @@
             <ingredient name="Butter" count="1"/>
         </recipe>
         <recipe name="Bolognese Sauce" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
-            <ingredient name="Bolognese Step 3" count="1"/>
+            <ingredient name="Bolognese Sauce Step 3" count="1"/>
             <ingredient name="White Zin" count="1"/>
             <ingredient name="Crushed Tomato" count="1"/>
         </recipe>
-        <recipe name="Bolognese Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+        <recipe name="Bolognese Sauce Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
             <ingredient name="Olive Oil" count="1"/>
             <ingredient name="Butter" count="1"/>
             <ingredient name="Diced Onions" count="10"/>
             <ingredient name="Celery" count="1"/>
             <ingredient name="Carrot" count="1"/>
         </recipe>
-        <recipe name="Bolognese Step 2" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
-            <ingredient name="Bolognese Step 1" count="1"/>
+        <recipe name="Bolognese Sauce Step 2" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Bolognese Sauce Step 1" count="1"/>
             <ingredient name="Ground Veal" count="5"/>
             <ingredient name="Salt and Pepper" count="1"/>
+            <ingredient name="Ground Oregano" count="2"/>
         </recipe>
-        <recipe name="Bolognese Step 3" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
-            <ingredient name="Bolognese Step 2" count="1"/>
+        <recipe name="Bolognese Sauce Step 3" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Bolognese Sauce Step 2" count="1"/>
             <ingredient name="Milk" count="1"/>
         </recipe>
         <recipe name="Bottle Capper" count="1" craft_time="2" craft_area="workbench">
@@ -248,6 +351,11 @@
             <ingredient name="Rice" count="2"/>
             <ingredient name="drinkCanRiverWater" count="2"/>
         </recipe>
+        <recipe name="Brazilian Grilled Pineapple" count="10" craft_time="2" craft_area="Cold Smoker" craft_tool="Turkey Rack">
+            <ingredient name="Pineapple" count="5"/>
+            <ingredient name="Raw Sugar" count="5"/>
+            <ingredient name="Ground Cinnamon" count="2"/>
+        </recipe>
         <recipe name="Bread Dough" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Dough Hook">
             <ingredient name="Wheat Flour" count="5"/>
             <ingredient name="foodEgg" count="2"/>
@@ -265,22 +373,10 @@
             <ingredient name="resourceMechanicalParts" count="10"/>
             <ingredient name="resourceScrapPolymers" count="10"/>
         </recipe>
-        <recipe name="Brew Cooker Volume 1" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
-        </recipe>
         <recipe name="Brew Station" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="20"/>
             <ingredient name="resourceMechanicalParts" count="10"/>
             <ingredient name="resourceScrapPolymers" count="10"/>
-        </recipe>
-        <recipe name="Brew Station Volume 1" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
-        </recipe>
-        <recipe name="Brew Station Volume 2" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Brined Coffee Elk" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
             <ingredient name="Elk Scraps" count="10"/>
@@ -307,6 +403,11 @@
         <recipe name="Bulleeet Rye" count="15" craft_time="2" craft_area="Brew Station" craft_tool="Mixing Cask">
             <ingredient name="Aged Bulleeet" count="1"/>
             <ingredient name="drinkJarBoiledWater" count="5"/>
+        </recipe>
+        <recipe name="Burger Basket" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Hamburger" count="1"/>
+            <ingredient name="American Fries" count="2"/>
+            <ingredient name="Ketchup" count="3"/>
         </recipe>
         <recipe name="Butter" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Dough Hook">
             <ingredient name="Raw Milk" count="1"/>
@@ -351,7 +452,7 @@
             <ingredient name="Oak Barrel" count="1"/>
         </recipe>
         <recipe name="Cheddar" count="50" craft_time="2" craft_area="Chopping Board" craft_tool="Zhang Cleaver">
-            <ingredient name="Cheddar Step 4" count="1"/>
+            <ingredient name="Cheddar Step 5" count="1"/>
         </recipe>
         <recipe name="Cheddar Step 1" count="1" craft_time="2" craft_area="Brew Cooker" craft_tool="Boiler">
             <ingredient name="Raw Milk" count="5"/>
@@ -361,7 +462,7 @@
             <ingredient name="Rennet" count="5"/>
         </recipe>
         <recipe name="Cheddar Step 2" count="1" craft_time="2" craft_area="Brew Cooker" craft_tool="Boiler">
-            <ingredient name="Cheese Cloth" count="1"/>
+            <ingredient name="Cheddar Step 1" count="1"/>
         </recipe>
         <recipe name="Cheddar Step 3" count="1" craft_time="2" craft_area="Chopping Board" craft_tool="Zhang Cleaver">
             <ingredient name="Cheddar Step 2" count="1"/>
@@ -370,6 +471,10 @@
             <ingredient name="Cheddar Step 3" count="1"/>
             <ingredient name="Salt" count="5"/>
             <ingredient name="Cheese Cloth" count="1"/>
+        </recipe>
+        <recipe name="Cheddar Step 5" count="1" craft_time="2" craft_area="Fermentor Bench">
+            <ingredient name="Cheddar Step 4" count="1"/>
+            <ingredient name="Briney Water" count="1"/>
         </recipe>
         <recipe name="Cheese Cloth" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceCropCottonPlant" count="5"/>
@@ -392,6 +497,12 @@
             <ingredient name="Hamburger Patty" count="1"/>
             <ingredient name="Hamburger Fixings" count="1"/>
             <ingredient name="Cheddar" count="1"/>
+        </recipe>
+        <recipe name="Cherry Ice Cream" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Ice Cream Bowl">
+            <ingredient name="Milk" count="10"/>
+            <ingredient name="Cherry" count="10"/>
+            <ingredient name="Raw Sugar" count="5"/>
+            <ingredient name="Salt" count="1"/>
         </recipe>
         <recipe name="Cherry Pie" count="1" craft_time="2" craft_area="Gas Oven" craft_tool="PyreX Bakeware">
             <ingredient name="Cherry" count="4"/>
@@ -462,12 +573,40 @@
             <ingredient name="foodEgg" count="2"/>
             <ingredient name="Aged Wheat Flour" count="1"/>
         </recipe>
+        <recipe name="Chilled Cucumber Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Food Processor">
+            <ingredient name="Grated Cucumber" count="5"/>
+            <ingredient name="Meyer Lemon" count="1"/>
+            <ingredient name="Diced Mint" count="5"/>
+            <ingredient name="Diced Dill" count="5"/>
+            <ingredient name="Minced Garlic" count="1"/>
+        </recipe>
+        <recipe name="Chilled Cucumber Yogurt Soup" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Chilled Cucumber Step 1" count="1"/>
+            <ingredient name="Plain Yogurt" count="4"/>
+            <ingredient name="Olive Oil" count="2"/>
+            <ingredient name="Salt" count="1"/>
+        </recipe>
         <recipe name="Chips and Salsa" count="1" craft_time="2" craft_area="Chopping Board">
             <ingredient name="Tortillas Chips" count="3"/>
             <ingredient name="Spicy Salsa" count="2"/>
         </recipe>
+        <recipe name="Chopped Romaine" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Romaine" count="3"/>
+        </recipe>
+        <recipe name="Chopped Walnuts" count="5" craft_time="2" craft_area="KitchNaid" craft_tool="Food Processor">
+            <ingredient name="Walnut" count="3"/>
+        </recipe>
+        <recipe name="Chopping Board" count="1" craft_time="2" craft_area="tableSaw">
+            <ingredient name="Walnut Wood Plank" count="10"/>
+        </recipe>
         <recipe name="Clay Pot" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolForgeCrucible">
             <ingredient name="unit_clay" count="1000"/>
+        </recipe>
+        <recipe name="Coconut Ice Cream" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Ice Cream Bowl">
+            <ingredient name="Milk" count="10"/>
+            <ingredient name="Coconut" count="10"/>
+            <ingredient name="Raw Sugar" count="5"/>
+            <ingredient name="Salt" count="1"/>
         </recipe>
         <recipe name="Coffee Elk Jerky" count="10" craft_time="2" craft_area="Cold Smoker" craft_tool="Smoker Mat">
             <ingredient name="Brined Coffee Elk" count="1"/>
@@ -477,6 +616,27 @@
             <ingredient name="resourceForgedIron" count="20"/>
             <ingredient name="resourceMechanicalParts" count="10"/>
             <ingredient name="resourceScrapPolymers" count="10"/>
+        </recipe>
+        <recipe name="Cooked Bacon" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Smoked Bacon" count="1"/>
+        </recipe>
+        <recipe name="Cooked Black Bean" count="5" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Black Bean" count="5"/>
+            <ingredient name="drinkJarBoiledWater" count="5"/>
+        </recipe>
+        <recipe name="Cooked Ham" count="1" craft_time="2" craft_area="Gas Oven" craft_tool="PyreX Bakeware">
+            <ingredient name="Smoked Ham" count="1"/>
+        </recipe>
+        <recipe name="Cooked Ham" count="1" craft_time="2" craft_area="Gas Oven" craft_tool="PyreX Bakeware">
+            <ingredient name="Cured Ham" count="1"/>
+        </recipe>
+        <recipe name="Cooked Kidney Bean" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Kidney Bean" count="5"/>
+            <ingredient name="drinkJarBoiledWater" count="5"/>
+        </recipe>
+        <recipe name="Cooked Pinto Bean" count="5" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Pinto Bean" count="5"/>
+            <ingredient name="drinkJarBoiledWater" count="5"/>
         </recipe>
         <recipe name="Cooking Vinegar" count="10" craft_time="2">
             <ingredient name="Apple Cider" count="1"/>
@@ -502,6 +662,13 @@
         <recipe name="Corn Tortillas Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Pasta Helper">
             <ingredient name="Corn Tortillas Step 1" count="1"/>
         </recipe>
+        <recipe name="Country Boy Breakfast" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Fried Eggs" count="2"/>
+            <ingredient name="Hashbrowns" count="1"/>
+            <ingredient name="Grits" count="1"/>
+            <ingredient name="Fried Ham Steak" count="2"/>
+            <ingredient name="Biscuits and Gravy" count="1"/>
+        </recipe>
         <recipe name="Crunchy Celery" count="1" craft_time="2">
             <ingredient name="Celery" count="1"/>
             <ingredient name="Cooking Vinegar" count="1"/>
@@ -519,6 +686,9 @@
             <ingredient name="Salt" count="5"/>
             <ingredient name="Black Pepper" count="10"/>
         </recipe>
+        <recipe name="Cut Green Beans" count="5" craft_time="2">
+            <ingredient name="Green Bean" count="3"/>
+        </recipe>
         <recipe name="Damascus Blade" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolAnvil">
             <ingredient name="unit_iron" count="1000"/>
             <ingredient name="unit_clay" count="100"/>
@@ -533,14 +703,40 @@
         <recipe name="Dark Malt" count="50" craft_time="2" craft_area="Brew Cooker" craft_tool="Drying Pan">
             <ingredient name="Spouted Sorghum" count="50"/>
         </recipe>
+        <recipe name="Denver Omelette" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Omelette Batter" count="1"/>
+            <ingredient name="Denver Omelette Step 1" count="1"/>
+        </recipe>
+        <recipe name="Denver Omelette Step 1" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Diced Onions" count="3"/>
+            <ingredient name="Diced Ham" count="3"/>
+            <ingredient name="Diced Green Peppers" count="3"/>
+            <ingredient name="Sliced Mushrooms" count="3"/>
+            <ingredient name="Cheddar" count="3"/>
+        </recipe>
         <recipe name="Diced Carrot" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Carrot" count="3"/>
         </recipe>
         <recipe name="Diced Celery" count="3" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Celery" count="5"/>
         </recipe>
-        <recipe name="Diced Cilantro" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+        <recipe name="Diced Cilantro" count="5" craft_time="2" craft_area="KitchNaid" craft_tool="Food Processor">
             <ingredient name="Cilantro" count="3"/>
+        </recipe>
+        <recipe name="Diced Dill" count="5" craft_time="2" craft_area="KitchNaid" craft_tool="Food Processor">
+            <ingredient name="Dill" count="3"/>
+        </recipe>
+        <recipe name="Diced Green Peppers" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Green Bell" count="3"/>
+        </recipe>
+        <recipe name="Diced Ham" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Ham Steak" count="3"/>
+        </recipe>
+        <recipe name="Diced Mint" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Mint" count="3"/>
+        </recipe>
+        <recipe name="Diced Mint" count="5" craft_time="2" craft_area="KitchNaid" craft_tool="Food Processor">
+            <ingredient name="Mint" count="3"/>
         </recipe>
         <recipe name="Diced Onions" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Onion" count="3"/>
@@ -590,9 +786,56 @@
             <ingredient name="unit_iron" count="500"/>
             <ingredient name="unit_clay" count="50"/>
         </recipe>
+        <recipe name="Egg Noodle Soup" count="5" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Egg Noodle Soup Step 1" count="1"/>
+            <ingredient name="Boiled Egg Noodles" count="1"/>
+            <ingredient name="Chicken Stock" count="5"/>
+            <ingredient name="Sliced Chicken" count="10"/>
+            <ingredient name="Salt and Pepper" count="1"/>
+        </recipe>
+        <recipe name="Egg Noodle Soup Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Butter" count="2"/>
+            <ingredient name="Diced Onions" count="2"/>
+            <ingredient name="Diced Celery" count="2"/>
+            <ingredient name="Diced Carrot" count="2"/>
+            <ingredient name="Mixed Herbs" count="5"/>
+        </recipe>
+        <recipe name="Egg Noodles" count="1" craft_time="2" craft_area="Brew Cooker" craft_tool="Drying Pan">
+            <ingredient name="Egg Noodles Step 2" count="1"/>
+        </recipe>
+        <recipe name="Egg Noodles Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Aged Wheat Flour" count="4"/>
+            <ingredient name="Salt" count="1"/>
+            <ingredient name="foodEgg" count="2"/>
+            <ingredient name="Milk" count="1"/>
+            <ingredient name="Butter" count="1"/>
+        </recipe>
+        <recipe name="Egg Noodles Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Pasta Helper">
+            <ingredient name="Egg Noodles Step 1" count="1"/>
+        </recipe>
+        <recipe name="Eggs Benedict" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Poached Eggs" count="1"/>
+            <ingredient name="English Muffin" count="1"/>
+            <ingredient name="Sliced Ham" count="2"/>
+            <ingredient name="Hollandaise" count="2"/>
+        </recipe>
         <recipe name="Elk Jerky" count="10" craft_time="2" craft_area="Cold Smoker" craft_tool="Smoker Mat">
             <ingredient name="Elk Scraps" count="10"/>
             <ingredient name="Salt and Pepper" count="1"/>
+        </recipe>
+        <recipe name="English Muffin" count="10" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="English Muffin Step 2" count="1"/>
+        </recipe>
+        <recipe name="English Muffin Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="drinkJarBoiledWater" count="1"/>
+            <ingredient name="Butter" count="2"/>
+            <ingredient name="Salt" count="1"/>
+            <ingredient name="Raw Sugar" count="1"/>
+            <ingredient name="foodEgg" count="1"/>
+        </recipe>
+        <recipe name="English Muffin Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="English Muffin Step 1" count="1"/>
+            <ingredient name="Aged Wheat Flour" count="3"/>
         </recipe>
         <recipe name="Fajitas Platter" count="1" craft_time="2" craft_area="Gas Oven" craft_tool="Baking Sheet">
             <ingredient name="Fajitas Platter Step 3" count="1"/>
@@ -621,12 +864,16 @@
             <ingredient name="Ground Ancho " count="3"/>
             <ingredient name="Ground Hot Pepper" count="3"/>
         </recipe>
-        <recipe name="Farming Crops (Seeds)" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
+        <recipe name="Farm Life Sign" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceScrapIron" count="100"/>
         </recipe>
         <recipe name="Feeding Trough" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="14"/>
+        </recipe>
+        <recipe name="Fermentor Bench" count="1" craft_time="2" craft_area="tableSaw">
+            <ingredient name="Walnut Wood Plank" count="5"/>
+            <ingredient name="Walnut Shelve" count="5"/>
+            <ingredient name="resourceNail" count="50"/>
         </recipe>
         <recipe name="Filtered Cabernet" count="1" craft_time="2" craft_area="Brew Station" craft_tool="Wine Filter">
             <ingredient name="Raw Cabernet" count="1"/>
@@ -647,6 +894,17 @@
             <ingredient name="resourceForgedIron" count="20"/>
             <ingredient name="resourceMechanicalParts" count="10"/>
         </recipe>
+        <recipe name="Florentine Omelette" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Omelette Batter" count="1"/>
+            <ingredient name="Florentine Omelette Step 1" count="1"/>
+        </recipe>
+        <recipe name="Florentine Omelette Step 1" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Italian Sausage" count="3"/>
+            <ingredient name="Diced Tomatos" count="3"/>
+            <ingredient name="Diced Onions" count="3"/>
+            <ingredient name="Swiss Cheese" count="3"/>
+            <ingredient name="Spinach" count="3"/>
+        </recipe>
         <recipe name="Flour Tortillas" count="10" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
             <ingredient name="Flour Tortillas Step 1" count="1"/>
         </recipe>
@@ -661,6 +919,34 @@
             <ingredient name="resourceMechanicalParts" count="10"/>
             <ingredient name="resourceForgedSteel" count="10"/>
         </recipe>
+        <recipe name="Fried Eggs" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="foodEgg" count="2"/>
+            <ingredient name="Salt and Pepper" count="1"/>
+            <ingredient name="Butter" count="1"/>
+        </recipe>
+        <recipe name="Fried Ham Steak" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Ham Steak" count="1"/>
+        </recipe>
+        <recipe name="Fried Okra" count="2" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Fried Okra Step 1" count="1"/>
+            <ingredient name="Fried Okra Step 2" count="1"/>
+            <ingredient name="Vegetable Oil" count="5"/>
+        </recipe>
+        <recipe name="Fried Okra Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Sliced Okra" count="10"/>
+            <ingredient name="foodEgg" count="1"/>
+        </recipe>
+        <recipe name="Fried Okra Step 2" count="1" craft_time="2">
+            <ingredient name="foodCornMeal" count="1"/>
+            <ingredient name="Salt and Pepper" count="1"/>
+        </recipe>
+        <recipe name="Fruit Pancakes" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Pancake" count="3"/>
+            <ingredient name="foodCropBlueberries" count="3"/>
+            <ingredient name="Strawberry" count="3"/>
+            <ingredient name="Raspberry" count="3"/>
+            <ingredient name="Butter" count="3"/>
+        </recipe>
         <recipe name="Fruit Smoothie" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
             <ingredient name="Strawberry" count="2"/>
             <ingredient name="Banana" count="2"/>
@@ -674,23 +960,31 @@
             <ingredient name="Refried Beans" count="3"/>
             <ingredient name="Ground Hot Pepper" count="10"/>
         </recipe>
+        <recipe name="Full Stack 'o Pancakes" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Pancake" count="5"/>
+            <ingredient name="Butter" count="5"/>
+            <ingredient name="Maple Syrup" count="5"/>
+        </recipe>
+        <recipe name="Garlic Green Beans" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Garlic Green Beans Step 1" count="1"/>
+            <ingredient name="Butter" count="2"/>
+            <ingredient name="Minced Garlic" count="2"/>
+            <ingredient name="Meyer Lemon" count="1"/>
+        </recipe>
+        <recipe name="Garlic Green Beans Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Cut Green Beans" count="10"/>
+            <ingredient name="drinkJarBoiledWater" count="2"/>
+            <ingredient name="Salt" count="1"/>
+        </recipe>
         <recipe name="Gas Cooktop" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="20"/>
             <ingredient name="resourceMechanicalParts" count="10"/>
             <ingredient name="resourceScrapPolymers" count="10"/>
         </recipe>
-        <recipe name="Gas Cooktop Volume 1" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
-        </recipe>
         <recipe name="Gas Oven" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="20"/>
             <ingredient name="resourceMechanicalParts" count="10"/>
             <ingredient name="resourceScrapPolymers" count="10"/>
-        </recipe>
-        <recipe name="Gas Oven Volume 1" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Golden Malt" count="50" craft_time="2" craft_area="Brew Cooker" craft_tool="Drying Pan">
             <ingredient name="Spouted Sorghum" count="50"/>
@@ -700,17 +994,50 @@
             <ingredient name="resourceMechanicalParts" count="4"/>
             <ingredient name="resourceScrapPolymers" count="4"/>
         </recipe>
+        <recipe name="Grandma's Omelette" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Omelette Batter" count="1"/>
+            <ingredient name="Grandma's Omelette Step 1" count="1"/>
+        </recipe>
+        <recipe name="Grandma's Omelette Step 1" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Pulled Chicken" count="3"/>
+            <ingredient name="Diced Ham" count="3"/>
+            <ingredient name="Sliced Broccoli" count="3"/>
+            <ingredient name="Swiss Cheese" count="3"/>
+            <ingredient name="Hollandaise" count="3"/>
+        </recipe>
         <recipe name="Grape Extract" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
             <ingredient name="Grape" count="2"/>
         </recipe>
         <recipe name="Grape Pulp" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
             <ingredient name="Grape" count="2"/>
         </recipe>
+        <recipe name="Grated Cucumber" count="5" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
+            <ingredient name="Cucumber" count="3"/>
+        </recipe>
+        <recipe name="Green Beans Bacon Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Diced Onions" count="3"/>
+            <ingredient name="Smoked Bacon" count="5"/>
+        </recipe>
+        <recipe name="Green Beans Bacon Step 2" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Cut Green Beans" count="8"/>
+            <ingredient name="drinkJarBoiledWater" count="4"/>
+        </recipe>
+        <recipe name="Green Beans with Bacon" count="10" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Green Beans Bacon Step 1" count="1"/>
+            <ingredient name="Green Beans Bacon Step 2" count="1"/>
+        </recipe>
         <recipe name="Grilled Squash" count="1" craft_time="2" craft_area="Wood Grill" craft_tool="Tongs">
             <ingredient name="Squash" count="1"/>
             <ingredient name="Corn Husk" count="1"/>
             <ingredient name="Salt" count="1"/>
             <ingredient name="Black Pepper" count="1"/>
+        </recipe>
+        <recipe name="Grits" count="5" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="foodCornMeal" count="1"/>
+            <ingredient name="drinkJarBoiledWater" count="2"/>
+            <ingredient name="Milk" count="1"/>
+            <ingredient name="Butter" count="1"/>
+            <ingredient name="Salt and Pepper" count="1"/>
         </recipe>
         <recipe name="Ground Ancho " count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Grain Miller">
             <ingredient name="Ancho Pepper" count="2"/>
@@ -736,12 +1063,15 @@
         <recipe name="Ground Hot Pepper" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Grain Miller">
             <ingredient name="Ghost Pepper" count="2"/>
         </recipe>
+        <recipe name="Ground Oregano" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Grain Miller">
+            <ingredient name="Oregano" count="2"/>
+        </recipe>
+        <recipe name="Ground Pork" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Meat Grinder">
+            <ingredient name="Ham" count="1"/>
+            <ingredient name="Pork Belly" count="1"/>
+        </recipe>
         <recipe name="Ground Veal" count="2" craft_time="2">
             <ingredient name="Veal" count="1"/>
-        </recipe>
-        <recipe name="Growing Trees (Seeds)" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Guac and Chips" count="1" craft_time="2">
             <ingredient name="Guacamole" count="2"/>
@@ -753,7 +1083,7 @@
             <ingredient name="Sliced Jalapeno" count="1"/>
         </recipe>
         <recipe name="Guacamole Step 1" count="1" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
-            <ingredient name="Avocado" count="5"/>
+            <ingredient name="Sliced Avocado" count="15"/>
         </recipe>
         <recipe name="Guacamole Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Food Processor">
             <ingredient name="Guacamole Step 1" count="1"/>
@@ -789,9 +1119,18 @@
             <ingredient name="Butter" count="1"/>
             <ingredient name="Salt" count="1"/>
         </recipe>
-        <recipe name="Home Brewer's Guide" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
+        <recipe name="Hollandaise" count="10" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Hollandaise Step 2" count="1"/>
+            <ingredient name="Ground Hot Pepper" count="1"/>
+            <ingredient name="Salt" count="1"/>
+        </recipe>
+        <recipe name="Hollandaise Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="foodEgg" count="4"/>
+            <ingredient name="Meyer Lemon" count="1"/>
+        </recipe>
+        <recipe name="Hollandaise Step 2" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Hollandaise Step 1" count="1"/>
+            <ingredient name="Butter" count="3"/>
         </recipe>
         <recipe name="Hungry Angus Pen" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="120"/>
@@ -833,6 +1172,23 @@
             <ingredient name="unit_iron" count="100"/>
             <ingredient name="unit_clay" count="10"/>
         </recipe>
+        <recipe name="Italian Sausage" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Italian Sausage Step 1" count="1"/>
+            <ingredient name="Italian Sausage Step 2" count="1"/>
+        </recipe>
+        <recipe name="Italian Sausage Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Ground Pork" count="10"/>
+            <ingredient name="Cooking Vinegar" count="2"/>
+            <ingredient name="Salt and Pepper" count="2"/>
+            <ingredient name="Minced Garlic" count="2"/>
+            <ingredient name="Ground Hot Pepper" count="1"/>
+        </recipe>
+        <recipe name="Italian Sausage Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Basil" count="1"/>
+            <ingredient name="Thyme" count="1"/>
+            <ingredient name="Cilantro" count="1"/>
+            <ingredient name="Raw Sugar" count="1"/>
+        </recipe>
         <recipe name="Jar Airlock" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceScrapPolymers" count="100"/>
         </recipe>
@@ -863,14 +1219,6 @@
             <ingredient name="resourceForgedIron" count="20"/>
             <ingredient name="resourceMechanicalParts" count="10"/>
             <ingredient name="resourceScrapPolymers" count="10"/>
-        </recipe>
-        <recipe name="KitchNaid Volume 1" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
-        </recipe>
-        <recipe name="KitchNaid Volume 2" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Koji Culture" count="10" craft_time="2" craft_area="Fermentor Bench" craft_tool="Clay Pot">
             <ingredient name="Bowl of Rice" count="5"/>
@@ -918,6 +1266,7 @@
             <ingredient name="drinkJarBoiledWater" count="1"/>
             <ingredient name="Salt" count="1"/>
             <ingredient name="Black Pepper" count="1"/>
+            <ingredient name="Ground Oregano" count="2"/>
         </recipe>
         <recipe name="Marinated BBQ Elk" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
             <ingredient name="Elk Scraps" count="10"/>
@@ -953,6 +1302,17 @@
         <recipe name="Metal Cabinet Door" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="10"/>
             <ingredient name="resourceMechanicalParts" count="5"/>
+        </recipe>
+        <recipe name="Mexican Black Beans" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Cooked Black Bean" count="2"/>
+            <ingredient name="Diced Cilantro" count="1"/>
+            <ingredient name="Ground Cumin" count="1"/>
+            <ingredient name="Salt" count="1"/>
+        </recipe>
+        <recipe name="Mexican Black Beans Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Olive Oil" count="1"/>
+            <ingredient name="Diced Onions" count="3"/>
+            <ingredient name="Minced Garlic" count="3"/>
         </recipe>
         <recipe name="Mexican Combo 3" count="1" craft_time="2" craft_area="Gas Oven" craft_tool="Baking Sheet">
             <ingredient name="Pork Chimichanga" count="1"/>
@@ -1001,6 +1361,13 @@
             <ingredient name="Salt and Pepper" count="1"/>
             <ingredient name="Olive Oil" count="1"/>
         </recipe>
+        <recipe name="Mixed Herbs" count="3" craft_time="2" craft_area="KitchNaid" craft_tool="Food Processor">
+            <ingredient name="Basil" count="1"/>
+            <ingredient name="Thyme" count="1"/>
+            <ingredient name="Cilantro" count="1"/>
+            <ingredient name="Rosemary" count="1"/>
+            <ingredient name="Oregano" count="1"/>
+        </recipe>
         <recipe name="Mixing Bowl" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolAnvil">
             <ingredient name="unit_iron" count="1000"/>
             <ingredient name="unit_clay" count="100"/>
@@ -1019,15 +1386,37 @@
             <ingredient name="White Oak Plank" count="10"/>
             <ingredient name="resourceForgedIron" count="10"/>
         </recipe>
+        <recipe name="Old Timer's Breakfast" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Fried Eggs" count="1"/>
+            <ingredient name="Cooked Bacon" count="3"/>
+            <ingredient name="Hashbrowns" count="1"/>
+            <ingredient name="Biscuits and Gravy" count="1"/>
+            <ingredient name="Grits" count="1"/>
+        </recipe>
         <recipe name="Olive Oil" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
             <ingredient name="Olive Paste" count="10"/>
         </recipe>
         <recipe name="Olive Paste" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
             <ingredient name="Olive" count="5"/>
         </recipe>
+        <recipe name="Omelette Batter" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="foodEgg" count="4"/>
+            <ingredient name="Salt and Pepper" count="1"/>
+        </recipe>
         <recipe name="Orange Juice" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
             <ingredient name="Orange" count="5"/>
             <ingredient name="drinkJarEmpty" count="1"/>
+        </recipe>
+        <recipe name="Pancake" count="10" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Pancake Step 1" count="1"/>
+            <ingredient name="Butter" count="3"/>
+        </recipe>
+        <recipe name="Pancake Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Aged Wheat Flour" count="3"/>
+            <ingredient name="Salt" count="1"/>
+            <ingredient name="Raw Sugar" count="2"/>
+            <ingredient name="Milk" count="2"/>
+            <ingredient name="foodEgg" count="1"/>
         </recipe>
         <recipe name="Pancetta" count="10" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Cured Pancetta" count="1"/>
@@ -1091,6 +1480,18 @@
             <ingredient name="Olive Oil" count="1"/>
             <ingredient name="Parmesan" count="1"/>
         </recipe>
+        <recipe name="Pickled Ginger" count="20" craft_time="2" craft_area="Fermentor Bench" craft_tool="Aging Shelves">
+            <ingredient name="Pickled Ginger Step 1" count="1"/>
+            <ingredient name="Pickled Ginger Step 2" count="1"/>
+        </recipe>
+        <recipe name="Pickled Ginger Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Sliced Ginger" count="10"/>
+            <ingredient name="Salt" count="1"/>
+        </recipe>
+        <recipe name="Pickled Ginger Step 2" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Cooking Vinegar" count="1"/>
+            <ingredient name="Raw Sugar" count="3"/>
+        </recipe>
         <recipe name="Pina Colada" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Ice Cream Bowl">
             <ingredient name="Pineapple" count="2"/>
             <ingredient name="Coconut" count="2"/>
@@ -1135,13 +1536,17 @@
             <ingredient name="drinkJarEmpty" count="19"/>
             <ingredient name="Cheese Cloth" count="1"/>
         </recipe>
+        <recipe name="Poached Eggs" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="foodEgg" count="2"/>
+            <ingredient name="drinkJarBoiledWater" count="1"/>
+        </recipe>
         <recipe name="Pork Chimichanga" count="1" craft_time="2" craft_area="Gas Oven" craft_tool="Baking Sheet">
             <ingredient name="Pork Chimichanga Step 2" count="1"/>
         </recipe>
         <recipe name="Pork Chimichanga Step 1" count="1" craft_time="2" craft_area="Chopping Board">
             <ingredient name="Pulled Pork" count="5"/>
             <ingredient name="Refried Beans" count="1"/>
-            <ingredient name="Pinto Bean" count="1"/>
+            <ingredient name="Cooked Pinto Bean" count="1"/>
             <ingredient name="Flour Tortillas" count="1"/>
             <ingredient name="Queso Fresco" count="2"/>
         </recipe>
@@ -1179,9 +1584,11 @@
             <ingredient name="Queso Fresco Step 2" count="1"/>
             <ingredient name="Cheese Cloth" count="1"/>
         </recipe>
-        <recipe name="Raising Livestock (Pens)" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
+        <recipe name="Raspberry Ice Cream" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Ice Cream Bowl">
+            <ingredient name="Milk" count="10"/>
+            <ingredient name="Raspberry" count="10"/>
+            <ingredient name="Raw Sugar" count="5"/>
+            <ingredient name="Salt" count="1"/>
         </recipe>
         <recipe name="Raw Bourbon" count="1" craft_time="2" craft_area="Brew Station" craft_tool="Spirits Vat">
             <ingredient name="Bourbon Mash" count="1"/>
@@ -1239,7 +1646,7 @@
             <ingredient name="Salt and Pepper" count="5"/>
         </recipe>
         <recipe name="Refried Beans Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
-            <ingredient name="Pinto Bean" count="10"/>
+            <ingredient name="Cooked Pinto Bean" count="10"/>
             <ingredient name="Onion" count="1"/>
             <ingredient name="drinkJarBoiledWater" count="2"/>
             <ingredient name="Ground Ancho " count="2"/>
@@ -1262,7 +1669,7 @@
             <ingredient name="Briney Water" count="1"/>
             <ingredient name="Cooking Vinegar" count="2"/>
         </recipe>
-        <recipe name="Rigatoni" count="1" craft_time="2">
+        <recipe name="Rigatoni" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Pasta Helper">
             <ingredient name="Wheat Flour" count="5"/>
             <ingredient name="Milk" count="1"/>
             <ingredient name="foodEgg" count="2"/>
@@ -1306,8 +1713,12 @@
             <ingredient name="Butter" count="1"/>
             <ingredient name="Ground Cinnamon" count="2"/>
         </recipe>
-        <recipe name="Romaine Salad" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
-            <ingredient name="Romaine" count="2"/>
+        <recipe name="Romaine Salad" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Chopped Romaine" count="3"/>
+            <ingredient name="Sliced Mushrooms" count="2"/>
+            <ingredient name="Sliced Pear" count="2"/>
+            <ingredient name="Olive Oil" count="1"/>
+            <ingredient name="Salt and Pepper" count="1"/>
         </recipe>
         <recipe name="Rump Roast Stew" count="1" craft_time="2" craft_area="Wood Grill" craft_tool="Ceramic Dutch Oven">
             <ingredient name="Rump Roast" count="1"/>
@@ -1333,7 +1744,7 @@
             <ingredient name="drinkJarEmpty" count="15"/>
         </recipe>
         <recipe name="Sauerkraut Step 1" count="1" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
-            <ingredient name="Cabbage" count="15"/>
+            <ingredient name="Shredded Cabbage" count="45"/>
         </recipe>
         <recipe name="Sauerkraut Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
             <ingredient name="Sauerkraut Step 1" count="1"/>
@@ -1341,6 +1752,26 @@
         </recipe>
         <recipe name="Sauerkraut Step 3" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Dough Hook">
             <ingredient name="Sauerkraut Step 2" count="1"/>
+        </recipe>
+        <recipe name="Sausage Gravy" count="10" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Sausage Gravy Step 3" count="1"/>
+            <ingredient name="Milk" count="1"/>
+        </recipe>
+        <recipe name="Sausage Gravy Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Ground Pork" count="5"/>
+        </recipe>
+        <recipe name="Sausage Gravy Step 2" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Sausage Gravy Step 1" count="1"/>
+            <ingredient name="Butter" count="2"/>
+            <ingredient name="Minced Garlic" count="1"/>
+            <ingredient name="Salt and Pepper" count="1"/>
+        </recipe>
+        <recipe name="Sausage Gravy Step 3" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Sausage Gravy Step 2" count="1"/>
+            <ingredient name="Aged Wheat Flour" count="1"/>
+        </recipe>
+        <recipe name="Sausage Patty" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Italian Sausage" count="1"/>
         </recipe>
         <recipe name="Sauteed Onions" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
             <ingredient name="Diced Onions" count="5"/>
@@ -1366,12 +1797,33 @@
         <recipe name="Shredded Lettuce " count="5" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
             <ingredient name="Romaine" count="3"/>
         </recipe>
+        <recipe name="Side of Bacon" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
+            <ingredient name="Cooked Bacon" count="4"/>
+        </recipe>
         <recipe name="Simple Syrup" count="15" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
             <ingredient name="drinkJarBoiledWater" count="10"/>
             <ingredient name="Raw Sugar" count="10"/>
         </recipe>
+        <recipe name="Sliced Apples" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Apple" count="3"/>
+        </recipe>
+        <recipe name="Sliced Avocado" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Avocado" count="3"/>
+        </recipe>
+        <recipe name="Sliced Beets" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Beet" count="3"/>
+        </recipe>
         <recipe name="Sliced Bread" count="10" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Wheat Bread" count="1"/>
+        </recipe>
+        <recipe name="Sliced Broccoli" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Broccoli" count="3"/>
+        </recipe>
+        <recipe name="Sliced Chicken" count="10" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Chicken Breast" count="4"/>
+        </recipe>
+        <recipe name="Sliced Chicken" count="10" craft_time="2" craft_area="Chopping Board" craft_tool="Zhang Cleaver">
+            <ingredient name="Whole Chicken" count="1"/>
         </recipe>
         <recipe name="Sliced Ginger" count="5" craft_time="2">
             <ingredient name="Ginger Root" count="1"/>
@@ -1379,8 +1831,20 @@
         <recipe name="Sliced Green Bell" count="3" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Green Bell" count="5"/>
         </recipe>
+        <recipe name="Sliced Ham" count="20" craft_time="2" craft_area="Chopping Board" craft_tool="Zhang Cleaver">
+            <ingredient name="Cooked Ham" count="1"/>
+        </recipe>
         <recipe name="Sliced Jalapeno" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Jalapeno Pepper" count="3"/>
+        </recipe>
+        <recipe name="Sliced Mushrooms" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="foodCropMushrooms" count="3"/>
+        </recipe>
+        <recipe name="Sliced Okra" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Okra" count="3"/>
+        </recipe>
+        <recipe name="Sliced Pear" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Pear" count="3"/>
         </recipe>
         <recipe name="Sliced Red Bell" count="3" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Red Bell" count="5"/>
@@ -1420,12 +1884,8 @@
             <ingredient name="unit_iron" count="100"/>
             <ingredient name="unit_clay" count="10"/>
         </recipe>
-        <recipe name="Smoker Volume 1" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
-        </recipe>
         <recipe name="Spaghetti" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Pasta Helper">
-            <ingredient name="Wheat Flour" count="5"/>
+            <ingredient name="Aged Wheat Flour" count="4"/>
             <ingredient name="Milk" count="1"/>
             <ingredient name="foodEgg" count="2"/>
             <ingredient name="Salt" count="1"/>
@@ -1538,6 +1998,59 @@
             <ingredient name="Olive Oil" count="1"/>
             <ingredient name="Salt and Pepper" count="1"/>
         </recipe>
+        <recipe name="Strawberry Ice Cream" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Ice Cream Bowl">
+            <ingredient name="Milk" count="10"/>
+            <ingredient name="Strawberry" count="10"/>
+            <ingredient name="Raw Sugar" count="5"/>
+            <ingredient name="Salt" count="1"/>
+        </recipe>
+        <recipe name="Sunrise Sampler" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Sunrise Sampler Step 1" count="1"/>
+            <ingredient name="Sausage Gravy" count="1"/>
+            <ingredient name="Cooked Bacon" count="2"/>
+            <ingredient name="Sausage Patty" count="1"/>
+            <ingredient name="Fried Ham Steak" count="1"/>
+        </recipe>
+        <recipe name="Sunrise Sampler Step 1" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Fried Eggs" count="1"/>
+            <ingredient name="Grits" count="1"/>
+            <ingredient name="Hashbrowns" count="1"/>
+            <ingredient name="Biscuit" count="2"/>
+            <ingredient name="Butter" count="2"/>
+        </recipe>
+        <recipe name="Swiss Cheese" count="50" craft_time="2" craft_area="Chopping Board" craft_tool="Zhang Cleaver">
+            <ingredient name="Swiss Cheese Step 8" count="1"/>
+        </recipe>
+        <recipe name="Swiss Cheese Step 1" count="1" craft_time="2" craft_area="Brew Cooker" craft_tool="Boiler">
+            <ingredient name="Raw Milk" count="5"/>
+            <ingredient name="Milk" count="10"/>
+            <ingredient name="Cheese Culture" count="5"/>
+        </recipe>
+        <recipe name="Swiss Cheese Step 2" count="1" craft_time="2" craft_area="Fermentor Bench">
+            <ingredient name="Swiss Cheese Step 1" count="1"/>
+        </recipe>
+        <recipe name="Swiss Cheese Step 3" count="1" craft_time="2" craft_area="Brew Cooker" craft_tool="Boiler">
+            <ingredient name="Swiss Cheese Step 2" count="1"/>
+            <ingredient name="Rennet" count="5"/>
+        </recipe>
+        <recipe name="Swiss Cheese Step 4" count="1" craft_time="2" craft_area="Chopping Board" craft_tool="Zhang Cleaver">
+            <ingredient name="Swiss Cheese Step 3" count="1"/>
+        </recipe>
+        <recipe name="Swiss Cheese Step 5" count="1" craft_time="2" craft_area="Brew Cooker" craft_tool="Boiler">
+            <ingredient name="Swiss Cheese Step 4" count="1"/>
+        </recipe>
+        <recipe name="Swiss Cheese Step 6" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Swiss Cheese Step 5" count="1"/>
+            <ingredient name="Cheese Cloth" count="1"/>
+        </recipe>
+        <recipe name="Swiss Cheese Step 7" count="1" craft_time="2" craft_area="Fermentor Bench" craft_tool="Cheese Press">
+            <ingredient name="Swiss Cheese Step 6" count="1"/>
+            <ingredient name="Cheese Cloth" count="1"/>
+        </recipe>
+        <recipe name="Swiss Cheese Step 8" count="1" craft_time="2" craft_area="Fermentor Bench">
+            <ingredient name="Swiss Cheese Step 7" count="1"/>
+            <ingredient name="Briney Water" count="1"/>
+        </recipe>
         <recipe name="Taco Shell" count="10" craft_time="2" craft_area="Gas Oven" craft_tool="Baking Sheet">
             <ingredient name="Corn Tortillas Step 2" count="1"/>
         </recipe>
@@ -1568,17 +2081,28 @@
             <ingredient name="unit_iron" count="1000"/>
             <ingredient name="unit_clay" count="100"/>
         </recipe>
+        <recipe name="Vegetable Oil" count="10" craft_time="2">
+            <ingredient name="Vegetable Oil Step 1" count="10"/>
+        </recipe>
+        <recipe name="Vegetable Oil Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
+            <ingredient name="foodCropCorn" count="5"/>
+        </recipe>
+        <recipe name="Vegetable Oil Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
+            <ingredient name="Soy Bean" count="5"/>
+        </recipe>
         <recipe name="Vegetable Pasta Meal" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
             <ingredient name="Boiled Penne" count="1"/>
             <ingredient name="Marinara" count="2"/>
             <ingredient name="Carrot" count="1"/>
             <ingredient name="Squash" count="1"/>
+            <ingredient name="Mixed Herbs" count="1"/>
         </recipe>
         <recipe name="Vegetable Pasta Meal" count="1" craft_time="2">
             <ingredient name="Boiled Penne" count="1"/>
             <ingredient name="Bechamel" count="2"/>
             <ingredient name="Broccoli" count="1"/>
             <ingredient name="Celery" count="1"/>
+            <ingredient name="Mixed Herbs" count="1"/>
         </recipe>
         <recipe name="Veggie Attachment" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="4"/>
@@ -1612,6 +2136,10 @@
         </recipe>
         <recipe name="Wheat Flour" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Grain Miller">
             <ingredient name="Wheat" count="1"/>
+        </recipe>
+        <recipe name="Whipped Cream" count="5" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Milk" count="5"/>
+            <ingredient name="Raw Sugar" count="1"/>
         </recipe>
         <recipe name="Whiskey" count="15" craft_time="2" craft_area="Brew Station" craft_tool="Mixing Cask">
             <ingredient name="Distilled Whiskey" count="1"/>
@@ -1663,10 +2191,6 @@
             <ingredient name="resourceForgedIron" count="10"/>
             <ingredient name="toolCookingGrill" count="1"/>
         </recipe>
-        <recipe name="Wood Grill Volume 1" count="1" craft_time="2">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
-        </recipe>
         <recipe name="Yogurt Culture" count="15" craft_time="2" craft_area="Fermentor Bench">
             <ingredient name="Raw Milk" count="5"/>
             <ingredient name="drinkJarEmpty" count="15"/>
@@ -1696,6 +2220,9 @@
         <recipe name="Basil Seed" count="1" craft_time="2">
             <ingredient name="Basil" count="4"/>
         </recipe>
+        <recipe name="Beet Seed" count="1" craft_time="2">
+            <ingredient name="Beet" count="4"/>
+        </recipe>
         <recipe name="Bitter Hops Seed" count="1" craft_time="2">
             <ingredient name="Bitter Hops" count="4"/>
         </recipe>
@@ -1723,8 +2250,14 @@
         <recipe name="Cilantro Seed" count="1" craft_time="2">
             <ingredient name="Cilantro" count="4"/>
         </recipe>
+        <recipe name="Cucumber Seed" count="1" craft_time="2">
+            <ingredient name="Cucumber" count="4"/>
+        </recipe>
         <recipe name="Cumin Seed" count="1" craft_time="2">
             <ingredient name="Cumin" count="4"/>
+        </recipe>
+        <recipe name="Dill Seed" count="1" craft_time="2">
+            <ingredient name="Dill" count="4"/>
         </recipe>
         <recipe name="Floral Hops Seed" count="1" craft_time="2">
             <ingredient name="Floral Hops" count="4"/>
@@ -1735,6 +2268,9 @@
         <recipe name="Ghost Pepper Seed" count="1" craft_time="2">
             <ingredient name="Ghost Pepper" count="4"/>
         </recipe>
+        <recipe name="Green Bean Seed" count="1" craft_time="2">
+            <ingredient name="Green Bean" count="4"/>
+        </recipe>
         <recipe name="Jalapeno Pepper Seed" count="1" craft_time="2">
             <ingredient name="Jalapeno Pepper" count="4"/>
         </recipe>
@@ -1744,8 +2280,14 @@
         <recipe name="Mint Seed" count="1" craft_time="2">
             <ingredient name="Mint" count="4"/>
         </recipe>
+        <recipe name="Okra Seed" count="1" craft_time="2">
+            <ingredient name="Okra" count="4"/>
+        </recipe>
         <recipe name="Onion Seed" count="1" craft_time="2">
             <ingredient name="Onion" count="4"/>
+        </recipe>
+        <recipe name="Oregano Seed" count="1" craft_time="2">
+            <ingredient name="Oregano" count="4"/>
         </recipe>
         <recipe name="Pablano Pepper Seed" count="1" craft_time="2">
             <ingredient name="Pablano Pepper" count="4"/>
@@ -1780,6 +2322,9 @@
         <recipe name="Soy Bean Seed" count="1" craft_time="2">
             <ingredient name="Soy Bean" count="4"/>
         </recipe>
+        <recipe name="Spinach Seed" count="1" craft_time="2">
+            <ingredient name="Spinach" count="4"/>
+        </recipe>
         <recipe name="Squash Seed" count="1" craft_time="2">
             <ingredient name="Squash" count="4"/>
         </recipe>
@@ -1800,6 +2345,914 @@
         </recipe>
         <recipe name="Wheat Seed" count="1" craft_time="2">
             <ingredient name="Wheat" count="4"/>
+        </recipe>
+        <recipe name="The BEST Aged Barrel ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Aging Shelves - Techniques" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: American Fries" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Apple Cider" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Apple Juice ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Apple Pie ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Apples and Cream by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Avocado Spinach Salad by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Advanced - Baked Rigatoni" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Bananna Bread by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Barrel Roaster" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: BBQ Elk Jerky" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: BBQ Pork Ribs" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Bechamel" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Beef Chili" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Guide To: Beef Taco" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Beer Cheap" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Beer Double IPA ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Beer IPA by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Beer Lager" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Beer Stout 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Beet Juice" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Beet Salad" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Biscuit JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Biscuits and Gravy" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Blueberry Ice Cream" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Boiled Linguini by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Boiled Penne" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Boiled Rigatoni" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Boiled Spaghetti JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Bolognese Dish" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Bolognese Sauce" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Bottle Capper" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Bourbon" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Bowl of Rice" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Brazilian Grilled Pineapple" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Bulleeet Rye For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Burger Basket" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Buttery Delmontico" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Cabernet Sauvignon" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Canned Olives" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Chardonne 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Charred Barrel 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Cheddar" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Cheese Pizza" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Cheese Press" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Cheeseburger" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Cherry Ice Cream" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Cherry Pie 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Chicken Tamale - YOU Can Too" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Chile Relleno" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Chilled Cucumber Yogurt Soup" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Chips and Salsa" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Chopped Romaine Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Chopped Walnuts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Coconut Ice Cream by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Coffee Elk Jerky - YOU Can Too" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Cooked Bacon" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Cooked Black Bean by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Cooked Kidney Bean" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Cooked Pinto Bean ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Corn Tortillas JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Country Boy Breakfast Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Crunchy Celery 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Crushed Tomato" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Cut Green Beans" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Damascus Knife" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Denver Omelette" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Diced Carrot ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Diced Dill - YOU Can Too" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Diced Green Peppers" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Diced Mint" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Diced Tomatos" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Egg Noodle Soup" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Eggs Benedict JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Elk Jerky 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Advanced - English Muffin" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Guide To: Fajitas Platter" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Floor Corker" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Florentine Omelette" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Flour Tortillas" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Food Processor" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Fried Eggs 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Fried Ham Steak For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Fried Okra JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Fruit Pancakes - YOU Can Too" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Fruit Smoothie For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: Fuego en el Culo" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Full Stack 'o Pancakes" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Advanced - Garlic Green Beans" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: Grain Miller" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Grandma's Omelette" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Grated Cucumber ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Grilled Squash ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grits For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Ground Beef ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Ground Veal ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Guac and Chips" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Guacamole" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Ham Steak" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Hamburger - Ancient Arts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Hamburger Bun" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Hashbrowns" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Jar Airlock - Ancient Arts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Joel's Breakfast - YOU Can Too" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Ketchup" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Lemon Lime Coolaid" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Linguini - Ancient Arts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Liquid Veg Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Maple Syrup - YOU Can Too" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Marinara JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Masher JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Meat Grinder" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Meatballs 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Merlot 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Mexican Black Beans" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mexican Combo 3 by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mexican Combo 69 by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Milk" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Minced Onion" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Miso Paste 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Miso Soup" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Mixed Greens Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: Mixing Cask" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Mojito" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Oak Barrel ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Old Timer's Breakfast 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Orange Juice" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: Pancake" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Pancetta" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Guide To: Pancetta Linguini" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: Parmesan" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Parmesan Crusted Chicken" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Pasta Helper by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Penne - Ancient Arts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Penne Pesto 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Pesto" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Pickled Ginger" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Pina Colada" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Pink Rose" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Pizza Cutter" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Plain Ice Cream" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Plain Kefir 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Plain Yogurt" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Poached Eggs 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Guide To: Pork Chimichanga" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Port Wine - Ancient Arts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Pulled Chicken - Techniques" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Pulled Pork" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Queso Fresco For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Raspberry Ice Cream" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Red Wine and Peppercorn Porterhouse Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Guide To: Refried Beans" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Rigatoni" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Risotto by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Roasted Brussels Sprouts ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Roasted Carrot - Techniques" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Roland's Breakfast - YOU Can Too" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Romaine Salad" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Rump Roast Stew JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Sauerkraut" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sausage Gravy by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sausage Patty 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Advanced - Sauteed Onions" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Scotch 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Shredded Cabbage ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Shredded Carrot" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Shredded Cheddar ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Shredded Lettuce" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Side of Bacon" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Simple Syrup" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sliced Apples 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sliced Avocado 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Sliced Beets" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sliced Bread JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Sliced Broccoli" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Sliced Ginger" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sliced Green Bell 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Sliced Ham" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Advanced - Sliced Jalapeno" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Sliced Mushrooms" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Sliced Okra" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sliced Pear For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Sliced Red Bell" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sliced Squash For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sliced Steak - Ancient Arts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Sliced Yellow Bell" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Smoked Chicken" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: Smoked Pork Ribs" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Spaghetti and Meatballs" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Advanced - Spanish Rice" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Spicy BBQ Sauce by stasis78" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Spicy Chicken Wings 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Grandmas Best Spicy Elk Jerky" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Spicy Salsa - Techniques" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Spirits Vat" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Steak Burrito JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Steamed Broccoli" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Stir Fry Vegetables 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Strawberry Ice Cream 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Sunrise Sampler 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Swiss Cheese JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Tortillas Chips JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Triple Taco Tuesday" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Vegetable Pasta Meal" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Veggie Attachment" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Veggie Mash" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Vodka 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Wheat Bread JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Whipped Cream Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Whiskey - YOU Can Too" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: White Rum" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To White Zin" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Wine Filter ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Wine Tank" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Advanced - Wok" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Zhang Cleaver" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Brew Cooker Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Brew Station Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Chopping Board Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Cold Smoker Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Farm Life Sign Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Fermentor Bench Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Gas Cooktop Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Gas Oven Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="KitchNaid Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Wood Grill Volume 1" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="bucketEmpty" count="1" craft_area="workbench">
             <ingredient name="resourceScrapIron" count="50"/>

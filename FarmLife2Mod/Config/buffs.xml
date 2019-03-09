@@ -2715,6 +2715,15 @@
                 <passive_effect name="StaminaChangeOT" operation="perc_add" value="0.35"/>
             </effect_group>
         </buff>
+        <buff name="Beetroot" name_key="Vitamin B" description_key="Beetroot gives increased Stamina regeneration and a heal over time." icon="ui_game_symbol_cardio">
+            <damage_type value="Disease"/>
+            <stack_type value="replace"/>
+            <duration value="120"/>
+            <effect_group>
+                <passive_effect name="StaminaChangeOT" operation="perc_add" value="0.1"/>
+                <passive_effect name="HealthMaxModifierOT" operation="base_add" value="1"/>
+            </effect_group>
+        </buff>
         <buff name="Sugar Rush" name_key="Sugar Rush" description_key="Coolaid gives you a boost to your carry capacity." icon="ui_game_symbol_muscle">
             <damage_type value="Disease"/>
             <stack_type value="replace"/>
@@ -2747,6 +2756,565 @@
                 <!-- <triggered_effect trigger="onSelfBuffUpdate" action="Ragdoll" target="self" duration="1" /> -->
                 <triggered_effect trigger="onSelfBuffRemove" action="Ragdoll" target="self" duration="1"/>
                 <triggered_effect trigger="onSelfBuffFinish" action="Ragdoll" target="self" duration="1"/>
+            </effect_group>
+        </buff>
+        <buff name="Salty Starch" name_key="Salty Starch" description_key="Increases Olympic Swimmer by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkOlympicSwimmer"/>
+            </effect_group>
+        </buff>
+        <buff name="American Pie" name_key="American Pie" description_key="Increases Light Armor by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkLightArmor"/>
+            </effect_group>
+        </buff>
+        <buff name="Afternoon Delight" name_key="Afternoon Delight" description_key="Increases Pack Mule by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkPackMule"/>
+            </effect_group>
+        </buff>
+        <buff name="Light Lunch" name_key="Light Lunch" description_key="Increases Burning Molotov resistance by 13%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.13" tags="buffBurningMolotov"/>
+            </effect_group>
+        </buff>
+        <buff name="Southern Favorite" name_key="Southern Favorite" description_key="Increases Run Speed by 12%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="RunSpeed" operation="perc_add" value="0.12"/>
+            </effect_group>
+        </buff>
+        <buff name="Riga Me This" name_key="Riga Me This" description_key="Increases Master Chef by 3. Increases Shocked resistance by 42%. Increases Mobility by 42%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="3.00" tags="perkMasterChef"/>
+                <passive_effect name="BuffResistance" operation="base_add" value="0.42" tags="buffShocked"/>
+                <passive_effect name="Mobility" operation="perc_add" value="0.42"/>
+            </effect_group>
+        </buff>
+        <buff name="Grandma's Recipe" name_key="Grandma's Recipe" description_key="Increases Health Change OT by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="HealthChangeOT" operation="base_add" value="1.00"/>
+            </effect_group>
+        </buff>
+        <buff name="Beefy" name_key="Beefy" description_key="Increases Burning Flaming Arrow resistance by 13%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.13" tags="buffBurningFlamingArrow"/>
+            </effect_group>
+        </buff>
+        <buff name="Yo Quiero" name_key="Yo Quiero" description_key="Increases Intellect by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="AttributeLevel" operation="base_add" value="1.00" tags="attIntellect"/>
+            </effect_group>
+        </buff>
+        <buff name="Beet me!" name_key="Beet me!" description_key="Increases Explosive Weapons by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkExplosiveWeapons"/>
+            </effect_group>
+        </buff>
+        <buff name="Limp Bisquit" name_key="Limp Bisquit" description_key="Increases Automatic Weapons by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkAutomaticWeapons"/>
+            </effect_group>
+        </buff>
+        <buff name="Shit n Shingles" name_key="Shit n Shingles" description_key="Increases Stay Down by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkStayDown"/>
+            </effect_group>
+        </buff>
+        <buff name="Blue Tongue" name_key="Blue Tongue" description_key="Increases Stamina Max Modifier OT by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="StaminaMaxModifierOT" operation="base_add" value="1.00"/>
+            </effect_group>
+        </buff>
+        <buff name="Ricer" name_key="Ricer" description_key="Increases Injury Bleeding resistance by 7%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.07" tags="buffInjuryBleeding"/>
+            </effect_group>
+        </buff>
+        <buff name="Buenos Aires" name_key="Buenos Aires" description_key="Increases Injury Concussion resistance by 5%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.05" tags="buffInjuryConcussion"/>
+            </effect_group>
+        </buff>
+        <buff name="Diner Food" name_key="Diner Food" description_key="Increases Player Exp Gain by 5%. Increases Secret Stash by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PlayerExpGain" operation="perc_add" value="0.05"/>
+                <passive_effect name="SecretStash" operation="base_add" value="2.00"/>
+            </effect_group>
+        </buff>
+        <buff name="You ate these?" name_key="You ate these?" description_key="Increases Armor Shredding resistance by 10%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.10" tags="buffArmorShredding"/>
+            </effect_group>
+        </buff>
+        <buff name="Cheesy Za" name_key="Cheesy Za" description_key="Increases Arm Sprained resistance by 20%. Increases Stamina Max by 23." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.20" tags="buffArmSprained"/>
+                <passive_effect name="StaminaMax" operation="base_add" value="23.00"/>
+            </effect_group>
+        </buff>
+        <buff name="With Cheese" name_key="With Cheese" description_key="Increases Hammer Forge by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkHammerForge"/>
+            </effect_group>
+        </buff>
+        <buff name="Little Tart" name_key="Little Tart" description_key="Increases Burning resistance by 13%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.13" tags="buffBurning"/>
+            </effect_group>
+        </buff>
+        <buff name="She's my cherry pie" name_key="She's my cherry pie" description_key="Increases Burning Environment resistance by 9%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.09" tags="buffBurningEnvironment"/>
+            </effect_group>
+        </buff>
+        <buff name="No mal Tamale" name_key="No mal Tamale" description_key="Increases Ill Infection0 resistance by 6%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.06" tags="buffIllInfection0"/>
+            </effect_group>
+        </buff>
+        <buff name="Peppery Goodness" name_key="Peppery Goodness" description_key="Increases Leg Broken resistance by 17%. Increases Stamina Max Modifier OT by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.17" tags="buffLegBroken"/>
+                <passive_effect name="StaminaMaxModifierOT" operation="base_add" value="2.00"/>
+            </effect_group>
+        </buff>
+        <buff name="Cool Soup" name_key="Cool Soup" description_key="Increases Well Insulated by 2. Increases Dead Eye by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkWellInsulated"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkDeadEye"/>
+            </effect_group>
+        </buff>
+        <buff name="Where's the guac?" name_key="Where's the guac?" description_key="Increases Living Off The Land by 2. Increases Heavy Armor by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkLivingOffTheLand"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkHeavyArmor"/>
+            </effect_group>
+        </buff>
+        <buff name="No nut coconut" name_key="No nut coconut" description_key="Increases Arm Broken resistance by 13%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.13" tags="buffArmBroken"/>
+            </effect_group>
+        </buff>
+        <buff name="BACON" name_key="BACON" description_key="Increases Olympic Swimmer by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkOlympicSwimmer"/>
+            </effect_group>
+        </buff>
+        <buff name="Country Boy" name_key="Country Boy" description_key="Increases Intellect by 2. Increases Injury Bleeding resistance by 20%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="AttributeLevel" operation="base_add" value="2.00" tags="attIntellect"/>
+                <passive_effect name="BuffResistance" operation="base_add" value="0.20" tags="buffInjuryBleeding"/>
+            </effect_group>
+        </buff>
+        <buff name="Rotten Eggs" name_key="Rotten Eggs" description_key="Increases Run And Gun by 2. Increases Ill Infection0 resistance by 21%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkRunAndGun"/>
+                <passive_effect name="BuffResistance" operation="base_add" value="0.21" tags="buffIllInfection0"/>
+            </effect_group>
+        </buff>
+        <buff name="Gooey Gold" name_key="Gooey Gold" description_key="Increases Skull Crusher by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkSkullCrusher"/>
+            </effect_group>
+        </buff>
+        <buff name="Jerky Boy" name_key="Jerky Boy" description_key="Increases Player Exp Gain by 1%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PlayerExpGain" operation="perc_add" value="0.01"/>
+            </effect_group>
+        </buff>
+        <buff name="4 eggs, your way" name_key="4 eggs, your way" description_key="Increases Carry Capacity by 5. Increases Mobility by 29%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="CarryCapacity" operation="base_add" value="5.00"/>
+                <passive_effect name="Mobility" operation="perc_add" value="0.29"/>
+            </effect_group>
+        </buff>
+        <buff name="Sunny Side Up" name_key="Sunny Side Up" description_key="Increases Heavy Armor by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkHeavyArmor"/>
+            </effect_group>
+        </buff>
+        <buff name="Ham. Steak." name_key="Ham. Steak." description_key="Increases Player Exp Gain by 1%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PlayerExpGain" operation="perc_add" value="0.01"/>
+            </effect_group>
+        </buff>
+        <buff name="Deep South" name_key="Deep South" description_key="Increases Pain Tolerance by 2. Increases Run And Gun by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkPainTolerance"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkRunAndGun"/>
+            </effect_group>
+        </buff>
+        <buff name="Fruity Cake" name_key="Fruity Cake" description_key="Increases Miner69r by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkMiner69r"/>
+            </effect_group>
+        </buff>
+        <buff name="Cake boy" name_key="Cake boy" description_key="Increases Pain Tolerance by 2. Increases Healing Factor by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkPainTolerance"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkHealingFactor"/>
+            </effect_group>
+        </buff>
+        <buff name="Yummy in mah tummy" name_key="Yummy in mah tummy" description_key="Increases Pack Mule by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkPackMule"/>
+            </effect_group>
+        </buff>
+        <buff name="Grandma's dead" name_key="Grandma's dead" description_key="Increases Drowning1 resistance by 29%. Increases Injury Stunned1 resistance by 29%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.29" tags="buffDrowning1"/>
+                <passive_effect name="BuffResistance" operation="base_add" value="0.29" tags="buffInjuryStunned1"/>
+            </effect_group>
+        </buff>
+        <buff name="Sqush. Grilled.." name_key="Sqush. Grilled.." description_key="Increases Master Chef by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkMasterChef"/>
+            </effect_group>
+        </buff>
+        <buff name="Southern Bell" name_key="Southern Bell" description_key="Increases Automatic Weapons by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkAutomaticWeapons"/>
+            </effect_group>
+        </buff>
+        <buff name="Wheres the salsa?" name_key="Wheres the salsa?" description_key="Increases Arm Broken resistance by 30%. Increases Heavy Metal by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.30" tags="buffArmBroken"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkHeavyMetal"/>
+            </effect_group>
+        </buff>
+        <buff name="Without Cheese" name_key="Without Cheese" description_key="Increases Injury Concussion resistance by 10%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.10" tags="buffInjuryConcussion"/>
+            </effect_group>
+        </buff>
+        <buff name="Whats taters precious?" name_key="Whats taters precious?" description_key="Increases Hidden Strike by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkHiddenStrike"/>
+            </effect_group>
+        </buff>
+        <buff name="METED" name_key="METED" description_key="Increases Archery by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkArchery"/>
+            </effect_group>
+        </buff>
+        <buff name="Diarrhea CHA CHA CHA" name_key="Diarrhea CHA CHA CHA" description_key="Increases Physician by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkPhysician"/>
+            </effect_group>
+        </buff>
+        <buff name="Forgot the seaweed.." name_key="Forgot the seaweed.." description_key="Increases Carry Capacity by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="CarryCapacity" operation="base_add" value="2.00"/>
+            </effect_group>
+        </buff>
+        <buff name="Rabbit Food" name_key="Rabbit Food" description_key="Increases Carry Capacity by 3." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="CarryCapacity" operation="base_add" value="3.00"/>
+            </effect_group>
+        </buff>
+        <buff name="Old Timers are all dead.." name_key="Old Timers are all dead.." description_key="Increases Better Barter by 2. Increases Burning Molotov resistance by 18%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkBetterBarter"/>
+                <passive_effect name="BuffResistance" operation="base_add" value="0.18" tags="buffBurningMolotov"/>
+            </effect_group>
+        </buff>
+        <buff name="Pamcakes" name_key="Pamcakes" description_key="Increases Explosive Weapons by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkExplosiveWeapons"/>
+            </effect_group>
+        </buff>
+        <buff name="Luigi" name_key="Luigi" description_key="Increases Lucky Looter by 3. Increases Harvest Count by 95%. Increases Advanced Engineering by 3." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="3.00" tags="perkLuckyLooter"/>
+                <passive_effect name="HarvestCount" operation="perc_add" value="0.95"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="3.00" tags="perkAdvancedEngineering"/>
+            </effect_group>
+        </buff>
+        <buff name="Chicka-chicka-boom" name_key="Chicka-chicka-boom" description_key="Increases Armor Shredding resistance by 11%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.11" tags="buffArmorShredding"/>
+            </effect_group>
+        </buff>
+        <buff name="Basil and more basil" name_key="Basil and more basil" description_key="Increases Hammer Forge by 2. Increases Burning Environment resistance by 29%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkHammerForge"/>
+                <passive_effect name="BuffResistance" operation="base_add" value="0.29" tags="buffBurningEnvironment"/>
+            </effect_group>
+        </buff>
+        <buff name="Blurp" name_key="Blurp" description_key="Increases Master Chef by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkMasterChef"/>
+            </effect_group>
+        </buff>
+        <buff name="Boring.." name_key="Boring.." description_key="Increases Self Medicated by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkSelfMedicated"/>
+            </effect_group>
+        </buff>
+        <buff name="Gut bomb" name_key="Gut bomb" description_key="Increases Charging Bull by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkChargingBull"/>
+            </effect_group>
+        </buff>
+        <buff name="Healthy Breakfast" name_key="Healthy Breakfast" description_key="Increases Stamina Max Modifier OT by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="StaminaMaxModifierOT" operation="base_add" value="1.00"/>
+            </effect_group>
+        </buff>
+        <buff name="Needs more H sauce" name_key="Needs more H sauce" description_key="Increases Grease Monkey by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkGreaseMonkey"/>
+            </effect_group>
+        </buff>
+        <buff name="Chimicurri?" name_key="Chimicurri?" description_key="Increases From The Shadows by 2. Increases Living Off The Land by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkFromTheShadows"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkLivingOffTheLand"/>
+            </effect_group>
+        </buff>
+        <buff name="RASSSSPBERRY" name_key="RASSSSPBERRY" description_key="Increases Automatic Weapons by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkAutomaticWeapons"/>
+            </effect_group>
+        </buff>
+        <buff name="Fried times 2" name_key="Fried times 2" description_key="Increases Parkour by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkParkour"/>
+            </effect_group>
+        </buff>
+        <buff name="Euro rice" name_key="Euro rice" description_key="Increases Gunslinger by 2. Increases Flurry Of Blows by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkGunslinger"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkFlurryOfBlows"/>
+            </effect_group>
+        </buff>
+        <buff name="Burnt like a witch" name_key="Burnt like a witch" description_key="Increases Shotgun Messiah by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkShotgunMessiah"/>
+            </effect_group>
+        </buff>
+        <buff name="Bunny Food" name_key="Bunny Food" description_key="Increases Health Max Modifier OT by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="HealthMaxModifierOT" operation="base_add" value="2.00"/>
+            </effect_group>
+        </buff>
+        <buff name="Smokey flavor" name_key="Smokey flavor" description_key="Reduces Treasure Radius by 2. Increases Player Exp Gain by 4%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="TreasureRadius" operation="base_subtract" value="2.00"/>
+                <passive_effect name="PlayerExpGain" operation="perc_add" value="0.04"/>
+            </effect_group>
+        </buff>
+        <buff name="BACONNNN" name_key="BACONNNN" description_key="Increases Stamina Max by 13." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="StaminaMax" operation="base_add" value="13.00"/>
+            </effect_group>
+        </buff>
+        <buff name="A classic dish" name_key="A classic dish" description_key="Increases Daring Adventurer by 2. Increases Shotgun Messiah by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkDaringAdventurer"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkShotgunMessiah"/>
+            </effect_group>
+        </buff>
+        <buff name="More beans.." name_key="More beans.." description_key="Increases Self Medicated by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkSelfMedicated"/>
+            </effect_group>
+        </buff>
+        <buff name="Bdubs can't do these" name_key="Bdubs can't do these" description_key="Increases Bartering Buying by 10%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BarteringBuying" operation="base_add" value="0.10"/>
+            </effect_group>
+        </buff>
+        <buff name="Burro" name_key="Burro" description_key="Increases Burning Molotov resistance by 22%. Increases Automatic Weapons by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.22" tags="buffBurningMolotov"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkAutomaticWeapons"/>
+            </effect_group>
+        </buff>
+        <buff name="Boring" name_key="Boring" description_key="Increases Miner69r by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkMiner69r"/>
+            </effect_group>
+        </buff>
+        <buff name="Sweetness times 2" name_key="Sweetness times 2" description_key="Increases Slow Metabolism by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkSlowMetabolism"/>
+            </effect_group>
+        </buff>
+        <buff name="Suns out Guns out" name_key="Suns out Guns out" description_key="Increases Stamina Max by 22. Increases Health Max Modifier OT by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="StaminaMax" operation="base_add" value="22.00"/>
+                <passive_effect name="HealthMaxModifierOT" operation="base_add" value="2.00"/>
+            </effect_group>
+        </buff>
+        <buff name="Triple Bathroom Wednesday" name_key="Triple Bathroom Wednesday" description_key="Increases Headshot by 3. Increases Explosive Weapons by 3. Increases Reload Speed Multiplier by 28%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="3.00" tags="perkHeadshot"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="3.00" tags="perkExplosiveWeapons"/>
+                <passive_effect name="ReloadSpeedMultiplier" operation="perc_add" value="0.28"/>
+            </effect_group>
+        </buff>
+        <buff name="Veggie, eeeewwww" name_key="Veggie, eeeewwww" description_key="Increases Leg Broken resistance by 30%. Increases Heavy Armor by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.30" tags="buffLegBroken"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkHeavyArmor"/>
+            </effect_group>
+        </buff>
+        <buff name="Would go great with meat" name_key="Would go great with meat" description_key="Increases Injury Crippled1 resistance by 10%." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="BuffResistance" operation="base_add" value="0.10" tags="buffInjuryCrippled1"/>
             </effect_group>
         </buff>
     </append>

@@ -31,7 +31,7 @@
                 </grid>
             </rect>
         </window>
-        <window name="windowToolsKitchenAid" width="228" height="271" panel="Right" cursor_area="true">
+        <window name="windowToolsKitchNaid" width="228" height="271" panel="Right" cursor_area="true">
             <panel style="header.panel">
                 <sprite style="header.icon" sprite="ui_game_symbol_cookware"/>
                 <label style="header.name" text="KITCHNAID" text_key="KITCHNAID"/>
@@ -100,10 +100,10 @@
         <window name="windowToolsFermentorBench" width="228" height="196" panel="Right" cursor_area="true">
             <panel style="header.panel">
                 <sprite style="header.icon" sprite="ui_game_symbol_cookware"/>
-                <label style="header.name" text="SMOKER" text_key="SMOKER"/>
+                <label style="header.name" text="FERMENTOR" text_key="FERMENTOR"/>
             </panel>
             <rect name="content" depth="0" pos="0,-46" height="150" disablefallthrough="true" on_press="true">
-                <grid name="inventory" rows="1" cols="3" pos="3,-3" cell_width="75" cell_height="75" controller="WorkstationToolGrid" repeat_content="true" allow_sort_order="false" required_tools="Jar Airlock,Clay Pot,Aging Shelves,Cheese Press" required_tools_only="true">
+                <grid name="inventory" rows="2" cols="3" pos="3,-3" cell_width="75" cell_height="75" controller="WorkstationToolGrid" repeat_content="true" allow_sort_order="false" required_tools="Jar Airlock,Clay Pot,Aging Shelves,Cheese Press" required_tools_only="true">
                     <required_item_stack name="0"/>
                 </grid>
             </rect>
