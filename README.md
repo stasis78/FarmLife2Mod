@@ -54,3 +54,7 @@ FarmLifeMod is a community project and anyone is free to offer suggestions on th
 ## syn7572's
 
 This mod contains icons and models that are the result of **syn7572**'s very hard work! They have full credit for all their work on assets. I'm very grateful for their willingness to contribute to this mod.
+
+## Screen shots.
+
+![Hero Shot1](https://drive.google.com/file/d/1lN027djZiscSnSOuCTJoDCvDI_2llFxM/view?usp=sharing)
