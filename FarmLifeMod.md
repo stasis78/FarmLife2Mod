@@ -3,7 +3,7 @@
 
 ## What is Farm Life?
 
-Farm Life is a mod that adds more items to the game that focused on farming, raising livestock, and (of course) everyone's favorite cooking! This mod does not attempt to modify any of the existing food recipes in the game. Those systems are left in place on purpose for a couple of reasons.
+Farm Life is a mod that adds more items to the game which focus on farming, raising livestock, and (of course) everyone's favorite cooking! This mod does not attempt to modify any of the existing food recipes in the game. Those systems are left in place on purpose for a couple of reasons.
 
 First, my goal is always more options. While I appreciate what the Pimps have done for vanilla cooking and crafting, I want more. I'm tired of making meat stew and bacon and eggs. I want options, I want complicated recipes, I want MORE things to do at night in my base.
 
