@@ -29,7 +29,7 @@ The Chopping Board is a primary tool for the kitchen. You will need it for many 
 
 - Fermentor Bench
 
-With the addition of fermentation to food, there is now a special crafting station used for aging foods. It iss a must have for things like Cheese and Sauerkraut.
+With the addition of fermentation to food, there is now a special crafting station used for aging foods. It is a must have for things like Cheese and Sauerkraut.
 
 ## Notes
 
