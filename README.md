@@ -1,3 +1,9 @@
+# This repo requires LFS!
+
+If you clone or fork this you will need to install LFS:
+
+https://git-lfs.github.com
+ 
 # Not compatible with the original FarmLifeMod
 
 This mod is a replacement and supercedes FarmLifeMod. You can not run with both mods installed. 
