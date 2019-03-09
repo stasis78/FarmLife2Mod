@@ -11976,6 +11976,23 @@
             <property name="Weight" value="5"/>
             <property name="DescriptionKey" value="farmLifeZhangHandleDesc"/>
         </item>
+        <item name="The Brewing Method">
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="brewing_guide_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="The BEST Aged Barrel ever!">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
@@ -12027,7 +12044,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Apple Cider">
+        <item name="Apple Cider by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12078,7 +12095,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Apples and Cream by stasis78">
+        <item name="Grandmas Best Apples and Cream">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12095,7 +12112,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Avocado Spinach Salad by stasis78">
+        <item name="Grandmas Best Avocado Spinach Salad">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12129,7 +12146,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Bananna Bread by stasis78">
+        <item name="Grandmas Best Bananna Bread">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12197,7 +12214,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Bechamel">
+        <item name="Bechamel by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12282,7 +12299,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Beer IPA by stasis78">
+        <item name="Grandmas Best Beer IPA">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12418,7 +12435,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Boiled Linguini by stasis78">
+        <item name="Grandmas Best Boiled Linguini">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12537,7 +12554,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Bourbon">
+        <item name="Bourbon by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12724,7 +12741,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Cheese Pizza">
+        <item name="Cheese Pizza by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12758,7 +12775,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Cheeseburger">
+        <item name="Cheeseburger by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12911,7 +12928,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Coconut Ice Cream by stasis78">
+        <item name="Grandmas Best Coconut Ice Cream">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12962,7 +12979,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Cooked Black Bean by stasis78">
+        <item name="Grandmas Best Cooked Black Bean">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13115,7 +13132,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Denver Omelette">
+        <item name="Denver Omelette by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13948,7 +13965,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Mexican Combo 3 by stasis78">
+        <item name="Grandmas Best Mexican Combo 3">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13965,7 +13982,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Mexican Combo 69 by stasis78">
+        <item name="Grandmas Best Mexican Combo 69">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14237,7 +14254,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Pasta Helper by stasis78">
+        <item name="Grandmas Best Pasta Helper">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14407,7 +14424,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Plain Yogurt">
+        <item name="Plain Yogurt by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14594,7 +14611,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Risotto by stasis78">
+        <item name="Grandmas Best Risotto">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14662,7 +14679,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Romaine Salad">
+        <item name="Romaine Salad by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14713,7 +14730,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Sausage Gravy by stasis78">
+        <item name="Grandmas Best Sausage Gravy">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15155,7 +15172,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Smoked Chicken">
+        <item name="Smoked Chicken by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15223,7 +15240,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Spicy BBQ Sauce by stasis78">
+        <item name="Grandmas Best Spicy BBQ Sauce">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15257,7 +15274,7 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
-        <item name="Grandmas Best Spicy Elk Jerky">
+        <item name="Spicy Elk Jerky by stasis78">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15662,6 +15679,57 @@
             <property class="Action0">
                 <property name="Class" value="Quest"/>
                 <property name="QuestGiven" value="item_zhang_cleaver_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="The Basics: Livestock">
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="livestock_pens_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Best Approaches: Farming Crops">
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="seeds_plant_seeds_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Growing Trees by stasis78">
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="seeds_tree_seeds_1"/>
                 <property name="Delay" value="0"/>
             </property>
         </item>

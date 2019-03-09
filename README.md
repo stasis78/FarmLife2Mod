@@ -5,9 +5,37 @@ To install FarmLifeMod you *must* copy it into your `Mods` folder. Locations for
 - [Mac OS X](https://7daystodie.com/forums/showthread.php?101570-modlets-on-Mac)
 - [Windows](https://7daystodie.gamepedia.com/How_to_Install_Modlets)
 
+### Localizations
+
+Localizations strings are available for Farm Life. The changes must be manually applied.
+
+#### On Mac
+
+- Find and open the `Localization.txt` file at this path.
+
+    "~/Library/Application Support/Steam/steamapps/common/7 Days To Die/7DaysToDie.app/Data/Config"
+    
+- Open the `Localization.txt` file from `FarmLife2Mod/Localization.txt`
+- Copy all the contents of `FarmLife2Mod/Localization.txt`
+- Paste them at the end of the `7DaysToDie.app/Data/Config/Localization.txt`
+- Save changes to `7DaysToDie.app/Data/Config/Localization.txt`
+
+
+#### On Windows
+
+See [Windows Mod Folder](https://7daystodie.gamepedia.com/How_to_Install_Modlets) to find the path to the game
+
+- Find and open the `Localization.txt` file in your game folder under `Data\Config`
+- Open the `Localization.txt` file from `FarmLife2Mod/Localization.txt`
+- Copy all the contents of `FarmLife2Mod\Localization.txt`
+- Paste them at the end of the `Data\Config\Localization.txt`
+- Save changes to `Data\Config\Localization.txt`
+
+
 ### Dedicated Server Notes
 
 This mod must be installed on both the server and the client.
+
 
 ## About
 

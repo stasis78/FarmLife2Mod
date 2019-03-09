@@ -2346,6 +2346,10 @@
         <recipe name="Wheat Seed" count="1" craft_time="2">
             <ingredient name="Wheat" count="4"/>
         </recipe>
+        <recipe name="The Brewing Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="The BEST Aged Barrel ever!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2358,7 +2362,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Apple Cider" count="1">
+        <recipe name="Apple Cider by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2370,11 +2374,11 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Apples and Cream by stasis78" count="1">
+        <recipe name="Grandmas Best Apples and Cream" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Avocado Spinach Salad by stasis78" count="1">
+        <recipe name="Grandmas Best Avocado Spinach Salad" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2382,7 +2386,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Bananna Bread by stasis78" count="1">
+        <recipe name="Grandmas Best Bananna Bread" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2398,7 +2402,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Bechamel" count="1">
+        <recipe name="Bechamel by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2418,7 +2422,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Beer IPA by stasis78" count="1">
+        <recipe name="Grandmas Best Beer IPA" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2450,7 +2454,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Boiled Linguini by stasis78" count="1">
+        <recipe name="Grandmas Best Boiled Linguini" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2478,7 +2482,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Bourbon" count="1">
+        <recipe name="Bourbon by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2522,7 +2526,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Cheese Pizza" count="1">
+        <recipe name="Cheese Pizza by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2530,7 +2534,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Cheeseburger" count="1">
+        <recipe name="Cheeseburger by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2566,7 +2570,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Coconut Ice Cream by stasis78" count="1">
+        <recipe name="Grandmas Best Coconut Ice Cream" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2578,7 +2582,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Cooked Black Bean by stasis78" count="1">
+        <recipe name="Grandmas Best Cooked Black Bean" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2614,7 +2618,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Denver Omelette" count="1">
+        <recipe name="Denver Omelette by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2810,11 +2814,11 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Mexican Combo 3 by stasis78" count="1">
+        <recipe name="Grandmas Best Mexican Combo 3" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Mexican Combo 69 by stasis78" count="1">
+        <recipe name="Grandmas Best Mexican Combo 69" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2878,7 +2882,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Pasta Helper by stasis78" count="1">
+        <recipe name="Grandmas Best Pasta Helper" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2918,7 +2922,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Plain Yogurt" count="1">
+        <recipe name="Plain Yogurt by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2962,7 +2966,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Risotto by stasis78" count="1">
+        <recipe name="Grandmas Best Risotto" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2978,7 +2982,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Romaine Salad" count="1">
+        <recipe name="Romaine Salad by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2990,7 +2994,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Sausage Gravy by stasis78" count="1">
+        <recipe name="Grandmas Best Sausage Gravy" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3094,7 +3098,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Smoked Chicken" count="1">
+        <recipe name="Smoked Chicken by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3110,7 +3114,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Spicy BBQ Sauce by stasis78" count="1">
+        <recipe name="Grandmas Best Spicy BBQ Sauce" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3118,7 +3122,7 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Grandmas Best Spicy Elk Jerky" count="1">
+        <recipe name="Spicy Elk Jerky by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3211,6 +3215,18 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="How-To Zhang Cleaver" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Basics: Livestock" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Best Approaches: Farming Crops" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Growing Trees by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
