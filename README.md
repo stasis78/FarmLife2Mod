@@ -31,6 +31,8 @@ Localization strings are available for Farm Life. The changes must be manually a
 
 #### On Windows
 
+I have only tested this with Notepad++. Do **not** use the default windows text editor.
+
 See [Windows Mod Folder](https://7daystodie.gamepedia.com/How_to_Install_Modlets) to find the path to the game
 
 - Find and open the `Localization.txt` file in your game folder under `Data\Config`
