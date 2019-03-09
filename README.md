@@ -57,4 +57,4 @@ This mod contains icons and models that are the result of **syn7572**'s very har
 
 ## Screen shots.
 
-![HeroShot1](https://drive.google.com/file/d/1lN027djZiscSnSOuCTJoDCvDI_2llFxM/view?usp=sharing)
+[The Farm](https://drive.google.com/file/d/1lN027djZiscSnSOuCTJoDCvDI_2llFxM/view?usp=sharing)
