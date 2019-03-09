@@ -15,7 +15,7 @@ To install FarmLifeMod you *must* copy it into your `Mods` folder. Locations for
 
 ### Localizations
 
-Localizations strings are available for Farm Life. The changes must be manually applied.
+Localization strings are available for Farm Life. The changes must be manually applied.
 
 #### On Mac
 
