@@ -4,7 +4,7 @@ Farm Life v2 is finally out!
 
 [FAQs](https://github.com/stasis78/FarmLife2Mod/blob/master/FAQs.md)
 
-[What is Farm Life?)[https://github.com/stasis78/FarmLife2Mod/blob/master/FarmLifeMod.md]
+[What is Farm Life?][https://github.com/stasis78/FarmLife2Mod/blob/master/FarmLifeMod.md]
 
 ## Changed
 
