@@ -63,7 +63,7 @@
             <ingredient name="resourceAnimalFat" count="1"/>
             <ingredient name="drinkJarBoiledWater" count="1"/>
         </recipe>
-        <recipe name="Apple Woodchips" count="2" craft_time="2" craft_area="tableSaw">
+        <recipe name="Apple Woodchips" count="2" craft_time="2" craft_area="tablesaw">
             <ingredient name="Apple Wood Plank" count="1"/>
         </recipe>
         <recipe name="Apples and Cream" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
@@ -511,7 +511,7 @@
             <ingredient name="resourceAnimalFat" count="1"/>
             <ingredient name="drinkJarBoiledWater" count="1"/>
         </recipe>
-        <recipe name="Cherry Woodchips" count="2" craft_time="2" craft_area="tableSaw">
+        <recipe name="Cherry Woodchips" count="2" craft_time="2" craft_area="tablesaw">
             <ingredient name="Cherry Wood Plank" count="1"/>
         </recipe>
         <recipe name="Chicken Feed" count="1" craft_time="2">
@@ -596,7 +596,7 @@
         <recipe name="Chopped Walnuts" count="5" craft_time="2" craft_area="KitchNaid" craft_tool="Food Processor">
             <ingredient name="Walnut" count="3"/>
         </recipe>
-        <recipe name="Chopping Board" count="1" craft_time="2" craft_area="tableSaw">
+        <recipe name="Chopping Board" count="1" craft_time="2" craft_area="tablesaw">
             <ingredient name="Walnut Wood Plank" count="10"/>
         </recipe>
         <recipe name="Clay Pot" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolForgeCrucible">
@@ -870,7 +870,7 @@
         <recipe name="Feeding Trough" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="14"/>
         </recipe>
-        <recipe name="Fermentor Bench" count="1" craft_time="2" craft_area="tableSaw">
+        <recipe name="Fermentor Bench" count="1" craft_time="2" craft_area="tablesaw">
             <ingredient name="Walnut Wood Plank" count="5"/>
             <ingredient name="Walnut Shelve" count="5"/>
             <ingredient name="resourceNail" count="50"/>
@@ -1258,7 +1258,7 @@
         <recipe name="Maple Syrup" count="10" craft_time="2" craft_area="Brew Cooker" craft_tool="Boiler">
             <ingredient name="Maple Sap" count="40"/>
         </recipe>
-        <recipe name="Maple Woodchips" count="2" craft_time="2" craft_area="tableSaw">
+        <recipe name="Maple Woodchips" count="2" craft_time="2" craft_area="tablesaw">
             <ingredient name="Maple Wood Plank" count="1"/>
         </recipe>
         <recipe name="Marinara" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
@@ -1513,7 +1513,7 @@
             <ingredient name="Pizza Handle" count="1"/>
             <ingredient name="Pizza Blade" count="1"/>
         </recipe>
-        <recipe name="Pizza Handle" count="1" craft_time="2" craft_area="tableSaw">
+        <recipe name="Pizza Handle" count="1" craft_time="2" craft_area="tablesaw">
             <ingredient name="Maple Wood Plank" count="5"/>
         </recipe>
         <recipe name="Pizza Stone" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolForgeCrucible">
@@ -2125,10 +2125,10 @@
             <ingredient name="foodCropPotato" count="20"/>
             <ingredient name="drinkJarBoiledWater" count="15"/>
         </recipe>
-        <recipe name="Walnut Shelve" count="1" craft_time="2" craft_area="tableSaw">
+        <recipe name="Walnut Shelve" count="1" craft_time="2" craft_area="tablesaw">
             <ingredient name="Walnut Wood Plank" count="5"/>
         </recipe>
-        <recipe name="Walnut Woodchips" count="2" craft_time="2" craft_area="tableSaw">
+        <recipe name="Walnut Woodchips" count="2" craft_time="2" craft_area="tablesaw">
             <ingredient name="Walnut Wood Plank" count="1"/>
         </recipe>
         <recipe name="Wheat Bread" count="1" craft_time="2" craft_area="Gas Oven" craft_tool="Baking Sheet">
