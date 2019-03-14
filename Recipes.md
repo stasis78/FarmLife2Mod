@@ -791,6 +791,7 @@ Station: **Brew Station** - Tool: **Floor Corker**
 - 1 [Filtered Chardonne](#Filtered_Chardonne)
 
 ## <a name="Charred_Barrel_Barrel_Roaster_Oak_Barrel____"></a><a name="Charred_Barrel"></a>Charred Barrel - 1
+![image](FarmLife2Mod/ItemIcons/Charred%20Barrel.png)
 
 Station: **Brew Cooker** - Tool: **Barrel Roaster**
 
@@ -2252,6 +2253,14 @@ Station: **KitchNaid** - Tool: **Veggie Attachment**
 - 2 resourceCropAloeLeaf
 - 1 drinkJarEmpty
 
+## <a name="Live_Trap_toolWorkbench_resourceForgedIron_resourceMechanicalParts___"></a><a name="Live_Trap"></a>Live Trap - 1
+![image](FarmLife2Mod/ItemIcons/Live%20Trap.png)
+
+Station: **workbench** - Tool: **none**
+
+- 10 resourceForgedIron
+- 5 resourceMechanicalParts
+
 ## <a name="Malting_Trays_toolAnvil_unit_iron_unit_clay___"></a><a name="Malting_Trays"></a>Malting Trays - 1
 ![image](FarmLife2Mod/ItemIcons/Malting%20Trays.png)
 
@@ -2699,6 +2708,30 @@ Station: **KitchNaid** - Tool: **Ice Cream Bowl**
 Station: **Brew Station** - Tool: **Floor Corker**
 
 - 1 [Filtered Pink Rose](#Filtered_Pink_Rose)
+
+## <a name="Pinup_Girl_One_toolWorkbench_resourcePaint_resourcePaper___"></a><a name="Pinup_Girl_One"></a>Pinup Girl One - 1
+![image](FarmLife2Mod/ItemIcons/Pinup%20Girl%20One.png)
+
+Station: **workbench** - Tool: **none**
+
+- 10 resourcePaint
+- 10 resourcePaper
+
+## <a name="Pinup_Girl_Three_toolWorkbench_resourcePaint_resourcePaper___"></a><a name="Pinup_Girl_Three"></a>Pinup Girl Three - 1
+![image](FarmLife2Mod/ItemIcons/Pinup%20Girl%20Three.png)
+
+Station: **workbench** - Tool: **none**
+
+- 10 resourcePaint
+- 10 resourcePaper
+
+## <a name="Pinup_Girl_Two_toolWorkbench_resourcePaint_resourcePaper___"></a><a name="Pinup_Girl_Two"></a>Pinup Girl Two - 1
+![image](FarmLife2Mod/ItemIcons/Pinup%20Girl%20Two.png)
+
+Station: **workbench** - Tool: **none**
+
+- 10 resourcePaint
+- 10 resourcePaper
 
 ## <a name="Pitch_Fork_toolWorkbench_resourceForgedIron_resourceWood___"></a><a name="Pitch_Fork"></a>Pitch Fork - 1
 ![image](FarmLife2Mod/ItemIcons/Pitch%20Fork.png)

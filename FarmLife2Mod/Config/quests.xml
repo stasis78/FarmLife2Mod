@@ -119,6 +119,25 @@
             <objective type="FetchKeep" id="Porterhouse" value="1" phase="1"/>
             <reward type="Item" id="Cattle Feed" value="10" chainreward="true"/>
         </quest>
+        <quest id="mouser_1">
+            <property name="name" value="Farm Cat"/>
+            <property name="subtitle" value="Tom Cat"/>
+            <property name="group_name" value="Farm Cat"/>
+            <property name="description" value="Want a farm cat? Well we can lure and live trap a Tom Cat which you can place on your base to watch him play….growl."/>
+            <property name="offer" value="Want a farm cat? Well we can lure and live trap a Tom Cat which you can place on your base to watch him play….growl."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="true"/>
+            <property name="category_key" value="quest"/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="foodCanCatfood" value="4" phase="1"/>
+            <objective type="Craft">
+                <property name="phase" value="1"/>
+                <property name="item" value="Live Trap"/>
+                <property name="count" value="1"/>
+            </objective>
+            <reward type="Item" id="Tom Cat" value="1"/>
+        </quest>
         <quest id="seeds_plant_seeds_1">
             <property name="name" value="Farming Tools"/>
             <property name="subtitle" value="Tools"/>
@@ -195,18 +214,6 @@
             <property name="shareable" value="false"/>
             <objective type="BlockPlace" id="treePlantedOak1m" value="1" phase="1"/>
             <reward type="Item" id="Tree Seeds Crate" value="1" chainreward="true"/>
-        </quest>
-        <quest id="workstation_farm_life_sign_1">
-            <property name="name" value="Farm Life Sign"/>
-            <property name="subtitle" value="Tools - 1"/>
-            <property name="group_name" value="Farm Life Sign Tools 1"/>
-            <property name="description" value="Craft or fetch all the tools required for a Farm Life Sign"/>
-            <property name="offer" value="Craft or fetch all the tools required for a Farm Life Sign"/>
-            <property name="icon" value="ui_game_symbol_quest"/>
-            <property name="repeatable" value="true"/>
-            <property name="category_key" value="quest"/>
-            <property name="difficulty" value="easy"/>
-            <property name="shareable" value="false"/>
         </quest>
         <quest id="workstation_fermentor_bench_1">
             <property name="name" value="Fermentor Bench"/>

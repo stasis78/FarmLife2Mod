@@ -1251,6 +1251,10 @@
             <ingredient name="resourceCropAloeLeaf" count="2"/>
             <ingredient name="drinkJarEmpty" count="1"/>
         </recipe>
+        <recipe name="Live Trap" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceForgedIron" count="10"/>
+            <ingredient name="resourceMechanicalParts" count="5"/>
+        </recipe>
         <recipe name="Malting Trays" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolAnvil">
             <ingredient name="unit_iron" count="1000"/>
             <ingredient name="unit_clay" count="100"/>
@@ -1500,6 +1504,18 @@
         </recipe>
         <recipe name="Pink Rose" count="15" craft_time="2" craft_area="Brew Station" craft_tool="Floor Corker">
             <ingredient name="Filtered Pink Rose" count="1"/>
+        </recipe>
+        <recipe name="Pinup Girl One" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourcePaint" count="10"/>
+            <ingredient name="resourcePaper" count="10"/>
+        </recipe>
+        <recipe name="Pinup Girl Three" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourcePaint" count="10"/>
+            <ingredient name="resourcePaper" count="10"/>
+        </recipe>
+        <recipe name="Pinup Girl Two" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourcePaint" count="10"/>
+            <ingredient name="resourcePaper" count="10"/>
         </recipe>
         <recipe name="Pitch Fork" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="16"/>
@@ -3222,6 +3238,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Mastering: Farm Cat" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Best Approaches: Farming Crops" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -3243,10 +3263,6 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Cold Smoker Volume 1" count="1">
-            <ingredient name="resourceCoal" count="1"/>
-            <ingredient name="resourcePaper" count="1"/>
-        </recipe>
-        <recipe name="Farm Life Sign Volume 1" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
