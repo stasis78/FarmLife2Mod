@@ -18,7 +18,6 @@
         <item name="Aged Bourbon">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -35,7 +34,6 @@
         <item name="Aged Bulleeet">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -77,7 +75,6 @@
         <item name="Aged Double IPA ">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -94,7 +91,6 @@
         <item name="Aged Port Wine">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -111,7 +107,6 @@
         <item name="Aged Scotch">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -128,7 +123,6 @@
         <item name="Aged Wheat Flour">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -159,7 +153,6 @@
         <item name="Air of Scotland">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -174,7 +167,6 @@
         <item name="Alkaline Solution">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -216,7 +208,6 @@
         <item name="American Fries Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -291,7 +282,6 @@
         <item name="Apple Cider">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -375,7 +365,6 @@
         <item name="Apple Wood Plank">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -390,7 +379,6 @@
         <item name="Apple Woodchips">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -566,7 +554,6 @@
         <item name="Baked Rigatoni Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -583,7 +570,6 @@
         <item name="Baked Rigatoni Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -668,7 +654,6 @@
         <item name="Bananna Bread Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -685,7 +670,6 @@
         <item name="Bananna Bread Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -733,7 +717,6 @@
         <item name="Barley Malt">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -843,7 +826,6 @@
         <item name="Beef Chili Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -860,7 +842,6 @@
         <item name="Beef Chili Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -877,7 +858,6 @@
         <item name="Beef Chili Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -919,7 +899,6 @@
         <item name="Beer Cheap">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -944,7 +923,6 @@
         <item name="Beer Cheap Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -961,7 +939,6 @@
         <item name="Beer Cheap Raw">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -978,7 +955,6 @@
         <item name="Beer Cheap Wort">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -995,13 +971,12 @@
         <item name="Beer Double IPA">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Mglass"/>
             <property name="Stacknumber" value="15"/>
-            <property name="EconomicValue" value="57"/>
+            <property name="EconomicValue" value="58"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
             <property name="Weight" value="10"/>
@@ -1022,7 +997,6 @@
         <item name="Beer IPA">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1047,7 +1021,6 @@
         <item name="Beer IPA Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1064,7 +1037,6 @@
         <item name="Beer IPA Raw">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1081,7 +1053,6 @@
         <item name="Beer IPA Wort">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1098,7 +1069,6 @@
         <item name="Beer Lager">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1123,7 +1093,6 @@
         <item name="Beer Lager Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1140,7 +1109,6 @@
         <item name="Beer Lager Raw">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1157,7 +1125,6 @@
         <item name="Beer Lager Wort">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1174,7 +1141,6 @@
         <item name="Beer Stout">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1199,7 +1165,6 @@
         <item name="Beer Stout Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1216,7 +1181,6 @@
         <item name="Beer Stout Raw">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1233,7 +1197,6 @@
         <item name="Beer Stout Wort">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1339,7 +1302,6 @@
         <item name="Beet Salad Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1381,7 +1343,6 @@
         <item name="Biscuit Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1398,7 +1359,6 @@
         <item name="Biscuit Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1415,7 +1375,6 @@
         <item name="Biscuit Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1517,7 +1476,6 @@
         <item name="Black Pepper">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1587,7 +1545,6 @@
         <item name="Boiled Egg Noodles">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1779,7 +1736,6 @@
         <item name="Bolognese Sauce Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1796,7 +1752,6 @@
         <item name="Bolognese Sauce Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1813,7 +1768,6 @@
         <item name="Bolognese Sauce Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1830,7 +1784,6 @@
         <item name="Bottle Cap">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1859,7 +1812,6 @@
         <item name="Bourbon">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1884,7 +1836,6 @@
         <item name="Bourbon Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1952,7 +1903,6 @@
         <item name="Bread Dough">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1967,7 +1917,6 @@
         <item name="Breadcrumbs">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1982,7 +1931,6 @@
         <item name="Breadcrumbs Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -1999,7 +1947,6 @@
         <item name="Brined Coffee Elk">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2016,7 +1963,6 @@
         <item name="Brined Spicy Elk">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2033,7 +1979,6 @@
         <item name="Briney Water">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2108,7 +2053,6 @@
         <item name="Bulleeet Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2125,7 +2069,6 @@
         <item name="Bulleeet Rye">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2175,7 +2118,6 @@
         <item name="Butter">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2244,7 +2186,6 @@
         <item name="Cabernet Sauvignon">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2269,7 +2210,6 @@
         <item name="Calf Stomache">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2366,7 +2306,6 @@
         <item name="Cattle Feed">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2424,7 +2363,6 @@
         <item name="Chardonne">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2458,8 +2396,6 @@
             <property name="EconomicBundleSize" value="1"/>
             <property name="CraftingIngredientTime" value="50"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="Oak Barrel"/>
-            <property name="CustomIconTint" value="929292"/>
             <property name="DescriptionKey" value="farmLifeCharredBarrelDesc"/>
         </item>
         <item name="Cheddar">
@@ -2490,7 +2426,6 @@
         <item name="Cheddar Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2507,7 +2442,6 @@
         <item name="Cheddar Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2524,7 +2458,6 @@
         <item name="Cheddar Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2541,7 +2474,6 @@
         <item name="Cheddar Step 4">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2558,7 +2490,6 @@
         <item name="Cheddar Step 5">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2575,7 +2506,6 @@
         <item name="Cheese Cloth">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2590,7 +2520,6 @@
         <item name="Cheese Culture">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2750,7 +2679,6 @@
         <item name="Cherry Wood Plank">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2765,7 +2693,6 @@
         <item name="Cherry Woodchips">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2811,7 +2738,6 @@
         <item name="Chicken Feed">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2828,7 +2754,6 @@
         <item name="Chicken Stock">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2868,7 +2793,6 @@
         <item name="Chicken Tamale Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2885,7 +2809,6 @@
         <item name="Chicken Tamale Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2902,7 +2825,6 @@
         <item name="Chicken Tamale Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2919,7 +2841,6 @@
         <item name="Chicken Tamale Step 4">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -2936,7 +2857,6 @@
         <item name="Chicken Tamale Step 5">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3007,7 +2927,6 @@
         <item name="Chile Relleno Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3024,7 +2943,6 @@
         <item name="Chile Relleno Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3041,7 +2959,6 @@
         <item name="Chile Relleno Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3058,7 +2975,6 @@
         <item name="Chilled Cucumber Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3204,7 +3120,6 @@
         <item name="Cinnamon Bark">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3369,7 +3284,6 @@
         <item name="Cooked Ham">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3440,7 +3354,6 @@
         <item name="Cooking Vinegar">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3455,7 +3368,6 @@
         <item name="Corn Husk">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3470,7 +3382,6 @@
         <item name="Corn Masa">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3485,7 +3396,6 @@
         <item name="Corn Masa Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3502,7 +3412,6 @@
         <item name="Corn Masa Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3544,7 +3453,6 @@
         <item name="Corn Tortillas Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3561,7 +3469,6 @@
         <item name="Corn Tortillas Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3711,7 +3618,6 @@
         <item name="Cured Ham">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3726,7 +3632,6 @@
         <item name="Cured Pancetta">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3768,7 +3673,6 @@
         <item name="Damascus Blade">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3783,7 +3687,6 @@
         <item name="Damascus Handle">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3812,7 +3715,6 @@
         <item name="Dark Malt">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3883,7 +3785,6 @@
         <item name="Denver Omelette Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3925,7 +3826,6 @@
         <item name="Diced Celery">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -3940,7 +3840,6 @@
         <item name="Diced Cilantro">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4005,7 +3904,6 @@
         <item name="Diced Ham">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4045,7 +3943,6 @@
         <item name="Diced Onions">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4114,7 +4011,6 @@
         <item name="Distilled Bourbon">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4131,7 +4027,6 @@
         <item name="Distilled Bulleeet">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4148,7 +4043,6 @@
         <item name="Distilled Scotch">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4165,7 +4059,6 @@
         <item name="Distilled Vodka">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4182,7 +4075,6 @@
         <item name="Distilled Whiskey">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4199,7 +4091,6 @@
         <item name="Distilled White Rum">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4216,7 +4107,6 @@
         <item name="Double IPA Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4233,7 +4123,6 @@
         <item name="Double IPA Raw">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4250,7 +4139,6 @@
         <item name="Double IPA Wort">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4281,7 +4169,6 @@
         <item name="Dried Husk">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4335,7 +4222,6 @@
         <item name="Egg Noodle Soup Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4352,7 +4238,6 @@
         <item name="Egg Noodles">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4367,7 +4252,6 @@
         <item name="Egg Noodles Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4384,7 +4268,6 @@
         <item name="Egg Noodles Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4505,7 +4388,6 @@
         <item name="English Muffin Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4522,7 +4404,6 @@
         <item name="English Muffin Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4567,7 +4448,6 @@
         <item name="Fajitas Platter Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4584,7 +4464,6 @@
         <item name="Fajitas Platter Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4601,7 +4480,6 @@
         <item name="Fajitas Platter Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4618,7 +4496,6 @@
         <item name="Feeding Trough">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4633,7 +4510,6 @@
         <item name="Filtered Cabernet">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4650,7 +4526,6 @@
         <item name="Filtered Chardonne">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4667,7 +4542,6 @@
         <item name="Filtered Merlot">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4684,7 +4558,6 @@
         <item name="Filtered Pink Rose">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4701,7 +4574,6 @@
         <item name="Filtered White Zin">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4788,7 +4660,6 @@
         <item name="Florentine Omelette Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4830,7 +4701,6 @@
         <item name="Flour Tortillas Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4938,7 +4808,6 @@
         <item name="Fried Okra Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -4955,7 +4824,6 @@
         <item name="Fried Okra Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5141,7 +5009,6 @@
         <item name="Garlic Green Beans Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5219,7 +5086,6 @@
         <item name="Golden Malt">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5275,7 +5141,6 @@
         <item name="Grandma's Omelette Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5321,7 +5186,6 @@
         <item name="Grape Extract">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5336,7 +5200,6 @@
         <item name="Grape Pulp">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5405,7 +5268,6 @@
         <item name="Green Beans Bacon Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5422,7 +5284,6 @@
         <item name="Green Beans Bacon Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5439,7 +5300,6 @@
         <item name="Green Beans with Bacon">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5533,7 +5393,6 @@
         <item name="Ground Ancho ">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5573,7 +5432,6 @@
         <item name="Ground Cinnamon">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5588,7 +5446,6 @@
         <item name="Ground Cumin">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5603,7 +5460,6 @@
         <item name="Ground Ginger">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5618,7 +5474,6 @@
         <item name="Ground Hot Pepper">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5633,7 +5488,6 @@
         <item name="Ground Oregano">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5648,7 +5502,6 @@
         <item name="Ground Pork">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5738,7 +5591,6 @@
         <item name="Guacamole Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5755,7 +5607,6 @@
         <item name="Guacamole Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5893,7 +5744,6 @@
         <item name="Hamburger Fixings">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5908,7 +5758,6 @@
         <item name="Hamburger Patty">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5948,7 +5797,6 @@
         <item name="Hollandaise">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5963,7 +5811,6 @@
         <item name="Hollandaise Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -5980,7 +5827,6 @@
         <item name="Hollandaise Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6011,7 +5857,6 @@
         <item name="Italian Sausage">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6026,7 +5871,6 @@
         <item name="Italian Sausage Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6043,7 +5887,6 @@
         <item name="Italian Sausage Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6134,7 +5977,6 @@
         <item name="Kefir Culture">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6176,7 +6018,6 @@
         <item name="Ketchup Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6222,7 +6063,6 @@
         <item name="Koji Culture">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6237,7 +6077,6 @@
         <item name="Lard">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6252,7 +6091,6 @@
         <item name="Lard Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6304,7 +6142,6 @@
         <item name="Light Malt">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6407,6 +6244,20 @@
             </effect_group>
             <property name="DescriptionKey" value="farmLifeLiquidVegDesc"/>
         </item>
+        <item name="Live Trap">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="DescriptionKey" value="farmLifeLiveTrapDesc"/>
+        </item>
         <item name="Malting Trays">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
@@ -6424,7 +6275,6 @@
         <item name="Maple Sap">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6466,7 +6316,6 @@
         <item name="Maple Wood Plank">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6481,7 +6330,6 @@
         <item name="Maple Woodchips">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6523,7 +6371,6 @@
         <item name="Marinated BBQ Elk">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6607,7 +6454,6 @@
         <item name="Meatballs Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6624,7 +6470,6 @@
         <item name="Merlot">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6649,7 +6494,6 @@
         <item name="Mesquite Woodchips">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6666,7 +6510,6 @@
         <item name="Metal Cabinet Door">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6706,7 +6549,6 @@
         <item name="Mexican Black Beans Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6843,7 +6685,6 @@
         <item name="Minced Garlic">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6883,7 +6724,6 @@
         <item name="Mint">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6923,7 +6763,6 @@
         <item name="Miso Paste Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -6940,7 +6779,6 @@
         <item name="Miso Paste Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7007,7 +6845,6 @@
         <item name="Mixed Herbs">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7050,7 +6887,6 @@
         <item name="Mojito">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7172,7 +7008,6 @@
         <item name="Olive Oil">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7187,7 +7022,6 @@
         <item name="Olive Paste">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7202,7 +7036,6 @@
         <item name="Omelette Batter">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7393,7 +7226,6 @@
         <item name="Pancake Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7460,7 +7292,6 @@
         <item name="Pancetta Linguini Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7477,7 +7308,6 @@
         <item name="Pancetta Linguini Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7494,7 +7324,6 @@
         <item name="Pancetta Linguini Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7656,7 +7485,6 @@
         <item name="Penne Pesto Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7723,7 +7551,6 @@
         <item name="Pickled Ginger Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7740,7 +7567,6 @@
         <item name="Pickled Ginger Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7757,7 +7583,6 @@
         <item name="Pina Colada">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7811,7 +7636,6 @@
         <item name="Pink Rose">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7865,7 +7689,6 @@
         <item name="Pizza Blade">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -7894,7 +7717,6 @@
         <item name="Pizza Handle">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8077,7 +7899,6 @@
         <item name="Pork Chimichanga Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8094,7 +7915,6 @@
         <item name="Pork Chimichanga Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8111,7 +7931,6 @@
         <item name="Pork Fat">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8155,7 +7974,6 @@
         <item name="Port Wine">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8327,7 +8145,6 @@
         <item name="Queso Fresco Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8344,7 +8161,6 @@
         <item name="Queso Fresco Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8361,7 +8177,6 @@
         <item name="Queso Fresco Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8432,7 +8247,6 @@
         <item name="Raw Bourbon">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8449,7 +8263,6 @@
         <item name="Raw Bulleeet">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8466,7 +8279,6 @@
         <item name="Raw Cabernet">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8483,7 +8295,6 @@
         <item name="Raw Chardonne">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8500,7 +8311,6 @@
         <item name="Raw Merlot">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8517,7 +8327,6 @@
         <item name="Raw Milk">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8534,7 +8343,6 @@
         <item name="Raw Pink Rose">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8551,7 +8359,6 @@
         <item name="Raw Scotch">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8568,7 +8375,6 @@
         <item name="Raw Sugar">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8583,7 +8389,6 @@
         <item name="Raw Vodka">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8600,7 +8405,6 @@
         <item name="Raw Whiskey">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8617,7 +8421,6 @@
         <item name="Raw White Rum">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8634,7 +8437,6 @@
         <item name="Raw White Zin">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8730,7 +8532,6 @@
         <item name="Refried Beans Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8747,7 +8548,6 @@
         <item name="Refried Beans Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8764,7 +8564,6 @@
         <item name="Rennet">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8779,7 +8578,6 @@
         <item name="Rennet Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8796,7 +8594,6 @@
         <item name="Rennet Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8892,7 +8689,6 @@
         <item name="Risotto Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8909,7 +8705,6 @@
         <item name="Risotto Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8926,7 +8721,6 @@
         <item name="Risotto Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -8943,7 +8737,6 @@
         <item name="Risotto Step 4">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9206,7 +8999,6 @@
         <item name="Rye Malt">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9223,7 +9015,6 @@
         <item name="Salt">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9253,7 +9044,6 @@
         <item name="Salt and Pepper">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9295,7 +9085,6 @@
         <item name="Sauerkraut Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9312,7 +9101,6 @@
         <item name="Sauerkraut Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9329,7 +9117,6 @@
         <item name="Sauerkraut Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9371,7 +9158,6 @@
         <item name="Sausage Gravy Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9388,7 +9174,6 @@
         <item name="Sausage Gravy Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9405,7 +9190,6 @@
         <item name="Sausage Gravy Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9472,7 +9256,6 @@
         <item name="Scotch">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="45"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="#@modfolder:Resources/FarmLife.unity3d?ScotchPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9497,7 +9280,6 @@
         <item name="Scotch Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -9823,7 +9605,6 @@
         <item name="Sliced Chicken">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10116,7 +9897,6 @@
         <item name="Smoked Bacon">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10156,7 +9936,6 @@
         <item name="Smoked Ham">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10272,7 +10051,6 @@
         <item name="Spaghetti">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10337,7 +10115,6 @@
         <item name="Spanish Rice Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10354,7 +10131,6 @@
         <item name="Spanish Rice Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10533,7 +10309,6 @@
         <item name="Spouted Barley">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10549,7 +10324,6 @@
         <item name="Spouted Rye">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10565,7 +10339,6 @@
         <item name="Spouted Sorghum">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10635,7 +10408,6 @@
         <item name="Steak Burrito Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10652,7 +10424,6 @@
         <item name="Steak Burrito Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10694,7 +10465,6 @@
         <item name="Steeped Barley">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10711,7 +10481,6 @@
         <item name="Steeped Rye">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10728,7 +10497,6 @@
         <item name="Steeped Sorghum">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10892,7 +10660,6 @@
         <item name="Sunrise Sampler Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10934,7 +10701,6 @@
         <item name="Swiss Cheese Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10951,7 +10717,6 @@
         <item name="Swiss Cheese Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10968,7 +10733,6 @@
         <item name="Swiss Cheese Step 3">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -10985,7 +10749,6 @@
         <item name="Swiss Cheese Step 4">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11002,7 +10765,6 @@
         <item name="Swiss Cheese Step 5">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11019,7 +10781,6 @@
         <item name="Swiss Cheese Step 6">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11036,7 +10797,6 @@
         <item name="Swiss Cheese Step 7">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11053,7 +10813,6 @@
         <item name="Swiss Cheese Step 8">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11221,7 +10980,6 @@
         <item name="Tortillas Chips Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11238,7 +10996,6 @@
         <item name="Tortillas Chips Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11323,7 +11080,6 @@
         <item name="Vegetable Oil">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11338,7 +11094,6 @@
         <item name="Vegetable Oil Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11419,7 +11174,6 @@
         <item name="Vodka">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11444,7 +11198,6 @@
         <item name="Vodka Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11490,7 +11243,6 @@
         <item name="Walnut Shelve">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11505,36 +11257,20 @@
         <item name="Walnut Wood Plank">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="500"/>
             <property name="EconomicValue" value="4"/>
             <property name="EconomicBundleSize" value="5"/>
-            <property name="CraftingIngredientTime" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property class="Action0">
-                <property name="Class" value="Eat"/>
-                <property name="Delay" value="1.0"/>
-                <property name="Sound_start" value="player_eating"/>
-            </property>
-            <effect_group tiered="false">
-                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="10"/>
-                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
-                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
-                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffIllFoodPoisoning0">
-                    <requirement name="RandomRoll" seed_type="Random" target="self" min_max="0,100" operation="LTE" value="10"/>
-                </triggered_effect>
-                <display_value name="FoodPoisoningRisk" value=".1"/>
-            </effect_group>
             <property name="DescriptionKey" value="farmLifeWalnutWoodPlankDesc"/>
         </item>
         <item name="Walnut Woodchips">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11605,7 +11341,6 @@
         <item name="Wheat Flour">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11645,7 +11380,6 @@
         <item name="Whiskey">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11670,7 +11404,6 @@
         <item name="Whiskey Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11687,7 +11420,6 @@
         <item name="White Oak Plank">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11702,7 +11434,6 @@
         <item name="White Rum">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11729,7 +11460,6 @@
         <item name="White Rum Mash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11746,7 +11476,6 @@
         <item name="White Zin">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="3"/>
-            <property name="DisplayType" value="water"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Food/bottled_waterPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11842,7 +11571,6 @@
         <item name="Wood Ash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11886,7 +11614,6 @@
         <item name="Yogurt Culture">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11901,7 +11628,6 @@
         <item name="Yogurt Step 1">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11918,7 +11644,6 @@
         <item name="Yogurt Step 2">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11935,7 +11660,6 @@
         <item name="Zhang Blade">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -11964,7 +11688,6 @@
         <item name="Zhang Handle">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
-            <property name="DisplayType" value="food"/>
             <property name="Group" value="Food/Cooking"/>
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
@@ -15699,6 +15422,40 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="The Tom Cat Method">
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="mouser_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="The BEST Mesquite ever!">
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="mysterious_mesquite_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Best Approaches: Farming Crops">
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
@@ -15798,23 +15555,6 @@
             <property class="Action0">
                 <property name="Class" value="Quest"/>
                 <property name="QuestGiven" value="workstation_cold_smoker_1"/>
-                <property name="Delay" value="0"/>
-            </property>
-        </item>
-        <item name="Farm Life Sign Volume 1">
-            <property name="CustomIcon" value="questMaster"/>
-            <property name="CreativeMode" value="Player"/>
-            <property name="HoldType" value="21"/>
-            <property name="Group" value="Special Items"/>
-            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
-            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
-            <property name="Material" value="Mpaper"/>
-            <property name="SellableToTrader" value="false"/>
-            <property name="Weight" value="2"/>
-            <property name="FuelValue" value="2"/>
-            <property class="Action0">
-                <property name="Class" value="Quest"/>
-                <property name="QuestGiven" value="workstation_farm_life_sign_1"/>
                 <property name="Delay" value="0"/>
             </property>
         </item>

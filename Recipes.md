@@ -311,11 +311,12 @@ Station: **Brew Cooker** - Tool: **Boiler**
 
 - 1 [Beer Cheap Mash](#Beer_Cheap_Mash)
 
-## <a name="Beer_Double_IPA_Bottle_Capper_Aged_Double_IPA_____"></a><a name="Beer_Double_IPA"></a>Beer Double IPA - 15
+## <a name="Beer_Double_IPA_Bottle_Capper_Aged_Double_IPA__Bottle_Cap___"></a><a name="Beer_Double_IPA"></a>Beer Double IPA - 15
 
 Station: **Brew Station** - Tool: **Bottle Capper**
 
 - 1 [Aged Double IPA ](#Aged_Double_IPA_)
+- 5 Bottle Cap
 
 ## <a name="Beer_IPA_Bottle_Capper_Beer_IPA_Raw____"></a><a name="Beer_IPA"></a>Beer IPA - 15
 ![image](FarmLife2Mod/ItemIcons/Beer%20IPA.png)
@@ -664,6 +665,34 @@ Station: **workbench** - Tool: **none**
 - 10 resourceMechanicalParts
 - 10 resourceScrapPolymers
 
+## <a name="Brick_Planter_toolWorkbench_resourceClayLump____"></a><a name="Brick_Planter"></a>Brick Planter - 1
+![image](FarmLife2Mod/ItemIcons/Brick%20Planter.png)
+
+Station: **workbench** - Tool: **none**
+
+- 100 resourceClayLump
+
+## <a name="Brick_Planter_2_toolWorkbench_resourceClayLump____"></a><a name="Brick_Planter_2"></a>Brick Planter 2 - 1
+![image](FarmLife2Mod/ItemIcons/Brick%20Planter%202.png)
+
+Station: **workbench** - Tool: **none**
+
+- 100 resourceClayLump
+
+## <a name="Brick_Planter_3_toolWorkbench_resourceClayLump____"></a><a name="Brick_Planter_3"></a>Brick Planter 3 - 1
+![image](FarmLife2Mod/ItemIcons/Brick%20Planter%203.png)
+
+Station: **workbench** - Tool: **none**
+
+- 100 resourceClayLump
+
+## <a name="Brick_Planter_4_toolWorkbench_resourceClayLump____"></a><a name="Brick_Planter_4"></a>Brick Planter 4 - 1
+![image](FarmLife2Mod/ItemIcons/Brick%20Planter%204.png)
+
+Station: **workbench** - Tool: **none**
+
+- 100 resourceClayLump
+
 ## <a name="Brined_Coffee_Elk_Mixing_Bowl_Elk_Scraps_Salt_and_Pepper_resourceCropCoffeeBeans_Cooking_Vinegar_drinkJarCoffee"></a><a name="Brined_Coffee_Elk"></a>Brined Coffee Elk - 1
 
 Station: **KitchNaid** - Tool: **Mixing Bowl**
@@ -791,6 +820,7 @@ Station: **Brew Station** - Tool: **Floor Corker**
 - 1 [Filtered Chardonne](#Filtered_Chardonne)
 
 ## <a name="Charred_Barrel_Barrel_Roaster_Oak_Barrel____"></a><a name="Charred_Barrel"></a>Charred Barrel - 1
+![image](FarmLife2Mod/ItemIcons/Charred%20Barrel.png)
 
 Station: **Brew Cooker** - Tool: **Barrel Roaster**
 
@@ -2252,6 +2282,14 @@ Station: **KitchNaid** - Tool: **Veggie Attachment**
 - 2 resourceCropAloeLeaf
 - 1 drinkJarEmpty
 
+## <a name="Live_Trap_toolWorkbench_resourceForgedIron_resourceMechanicalParts___"></a><a name="Live_Trap"></a>Live Trap - 1
+![image](FarmLife2Mod/ItemIcons/Live%20Trap.png)
+
+Station: **workbench** - Tool: **none**
+
+- 10 resourceForgedIron
+- 5 resourceMechanicalParts
+
 ## <a name="Malting_Trays_toolAnvil_unit_iron_unit_clay___"></a><a name="Malting_Trays"></a>Malting Trays - 1
 ![image](FarmLife2Mod/ItemIcons/Malting%20Trays.png)
 
@@ -2699,6 +2737,30 @@ Station: **KitchNaid** - Tool: **Ice Cream Bowl**
 Station: **Brew Station** - Tool: **Floor Corker**
 
 - 1 [Filtered Pink Rose](#Filtered_Pink_Rose)
+
+## <a name="Pinup_Girl_One_toolWorkbench_resourcePaint_resourcePaper___"></a><a name="Pinup_Girl_One"></a>Pinup Girl One - 1
+![image](FarmLife2Mod/ItemIcons/Pinup%20Girl%20One.png)
+
+Station: **workbench** - Tool: **none**
+
+- 10 resourcePaint
+- 10 resourcePaper
+
+## <a name="Pinup_Girl_Three_toolWorkbench_resourcePaint_resourcePaper___"></a><a name="Pinup_Girl_Three"></a>Pinup Girl Three - 1
+![image](FarmLife2Mod/ItemIcons/Pinup%20Girl%20Three.png)
+
+Station: **workbench** - Tool: **none**
+
+- 10 resourcePaint
+- 10 resourcePaper
+
+## <a name="Pinup_Girl_Two_toolWorkbench_resourcePaint_resourcePaper___"></a><a name="Pinup_Girl_Two"></a>Pinup Girl Two - 1
+![image](FarmLife2Mod/ItemIcons/Pinup%20Girl%20Two.png)
+
+Station: **workbench** - Tool: **none**
+
+- 10 resourcePaint
+- 10 resourcePaper
 
 ## <a name="Pitch_Fork_toolWorkbench_resourceForgedIron_resourceWood___"></a><a name="Pitch_Fork"></a>Pitch Fork - 1
 ![image](FarmLife2Mod/ItemIcons/Pitch%20Fork.png)
@@ -3395,6 +3457,14 @@ Station: **Chopping Board** - Tool: **Damascus Knife**
 
 - 3 Yellow Bell
 
+## <a name="Small_Fern_toolWorkbench_resourceYuccaFibers_resourceClayLump___"></a><a name="Small_Fern"></a>Small Fern - 1
+![image](FarmLife2Mod/ItemIcons/Small%20Fern.png)
+
+Station: **workbench** - Tool: **none**
+
+- 10 resourceYuccaFibers
+- 10 resourceClayLump
+
 ## <a name="Smoked_Bacon_Smoker_Mat_Pork_Belly_Apple_Woodchips_Walnut_Woodchips__"></a><a name="Smoked_Bacon"></a>Smoked Bacon - 10
 ![image](FarmLife2Mod/ItemIcons/Smoked%20Bacon.png)
 
@@ -3734,6 +3804,21 @@ Station: **Gas Oven** - Tool: **Baking Sheet**
 
 - 1 [Corn Tortillas Step 2](#Corn_Tortillas_Step_2)
 
+## <a name="Terracotta_Planter_toolWorkbench_resourceClayLump____"></a><a name="Terracotta_Planter"></a>Terracotta Planter - 1
+![image](FarmLife2Mod/ItemIcons/Terracotta%20Planter.png)
+
+Station: **workbench** - Tool: **none**
+
+- 100 resourceClayLump
+
+## <a name="Tom_Cat_toolWorkbench_foodCanCatfood_Live_Trap___"></a><a name="Tom_Cat"></a>Tom Cat - 1
+![image](FarmLife2Mod/ItemIcons/Tom%20Cat.png)
+
+Station: **workbench** - Tool: **none**
+
+- 5 foodCanCatfood
+- 1 [Live Trap](#Live_Trap)
+
 ## <a name="Tongs_toolAnvil_unit_iron_unit_clay___"></a><a name="Tongs"></a>Tongs - 1
 ![image](FarmLife2Mod/ItemIcons/Tongs.png)
 
@@ -3996,6 +4081,13 @@ Station: **workbench** - Tool: **none**
 
 - 10 resourceForgedIron
 - 1 toolCookingGrill
+
+## <a name="Wood_Planter_toolWorkbench_resourceClayLump____"></a><a name="Wood_Planter"></a>Wood Planter - 1
+![image](FarmLife2Mod/ItemIcons/Wood%20Planter.png)
+
+Station: **workbench** - Tool: **none**
+
+- 100 resourceClayLump
 
 ## <a name="Yogurt_Culture_toolFermentor_Raw_Milk_drinkJarEmpty_Cheese_Cloth__"></a><a name="Yogurt_Culture"></a>Yogurt Culture - 15
 ![image](FarmLife2Mod/ItemIcons/Yogurt%20Culture.png)

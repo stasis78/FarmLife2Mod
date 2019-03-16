@@ -31,7 +31,7 @@
             <drop event="Destroy" count="1" name="Apple Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeAppleSeedDesc"/>
             <property name="PlantGrowing.Next" value="Apple Growing 1"/>
@@ -66,7 +66,7 @@
             <drop event="Destroy" count="1" name="Apple Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Apple Tree"/>
         </block>
@@ -98,9 +98,9 @@
             <property name="PlantGrowing.IsRandom" value="false"/>
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Apple Seed"/>
-            <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitTreeBlock"/>
             <property name="MultiBlockDim" value="1,7,1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?AppleTreePrefab"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Apple Seed"/>
             <drop event="Harvest" name="Apple" count="1" tag="cropHarvest"/>
@@ -136,7 +136,7 @@
             <drop event="Destroy" count="1" name="Avocado Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeAvocadoSeedDesc"/>
             <property name="PlantGrowing.Next" value="Avocado Growing 1"/>
@@ -171,7 +171,7 @@
             <drop event="Destroy" count="1" name="Avocado Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Avocado Tree"/>
         </block>
@@ -204,7 +204,7 @@
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Avocado Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitTreeBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?FruitTreeBlock"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Avocado Seed"/>
@@ -305,9 +305,10 @@
             <property name="PlantGrowing.IsRandom" value="false"/>
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Banana Seed"/>
+            <property name="MultiBlockDim" value="1,7,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Path" value="solid"/>
-            <property name="Model" value="Entities/Plants/plant_yucca_harvestPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?BananaTreePrefab"/>
+            <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Banana Seed"/>
             <drop event="Harvest" name="Banana" count="1" tag="cropHarvest"/>
         </block>
@@ -335,7 +336,7 @@
             <property name="CustomIcon" value="Sorghum Seed"/>
             <property name="CustomIconTint" value="fffc00"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumSeedBlock"/>
             <property name="MultiBlockDim" value="1,1,1"/>
             <property name="DescriptionKey" value="farmLifeBarleySeedDesc"/>
             <property name="PlantGrowing.Next" value="Barley Growing 1"/>
@@ -362,7 +363,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Barley Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumGrowingBlock"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="PlantGrowing.Next" value="Barley Plant"/>
         </block>
@@ -388,7 +389,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Barley Seed"/>
             <drop event="Harvest" name="Barley" count="1" tag="cropHarvest"/>
@@ -466,7 +467,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HerbBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?HerbBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Basil Seed"/>
             <drop event="Harvest" name="Basil" count="1" tag="cropHarvest"/>
@@ -544,7 +545,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?BeetPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?BeetPlantBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Beet Seed"/>
             <drop event="Harvest" name="Beet" count="1" tag="cropHarvest"/>
@@ -623,7 +624,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
             <property name="DowngradeBlock" value="Bell Pepper Seed"/>
             <drop event="Harvest" name="Green Bell" count="1" tag="cropHarvest"/>
             <drop event="Harvest" name="Yellow Bell" count="1" tag="cropHarvest"/>
@@ -866,6 +867,78 @@
             <property name="DowngradeBlock" value="Black Pepper Seed"/>
             <drop event="Harvest" name="Black Pepper Corn" count="1" tag="cropHarvest"/>
         </block>
+        <block name="Brick Planter">
+            <property name="Material" value="Mfarmland"/>
+            <property name="ImposterExclude" value="true"/>
+            <property name="CanMobsSpawnOn" value="false"/>
+            <property class="RepairItems">
+                <property name="resourceClayLump" value="14"/>
+            </property>
+            <drop event="Harvest" name="resourceClayLump" count="22" tag="oreWoodHarvest"/>
+            <drop event="Destroy" count="1" name="Brick Planter"/>
+            <property name="FilterTags" value="fterrain"/>
+            <property name="SortOrder1" value="d0m0"/>
+            <property name="SortOrder2" value="0050"/>
+            <property name="DisplayType" value="blockTerrainFertile"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeOtherBlocks.unity3d?BrickPlanterPrefab"/>
+            <property name="MultiBlockDim" value="1,1,1"/>
+            <property name="DescriptionKey" value="farmLifeBrickPlanterDesc"/>
+        </block>
+        <block name="Brick Planter 2">
+            <property name="Material" value="Mfarmland"/>
+            <property name="ImposterExclude" value="true"/>
+            <property name="CanMobsSpawnOn" value="false"/>
+            <property class="RepairItems">
+                <property name="resourceClayLump" value="14"/>
+            </property>
+            <drop event="Harvest" name="resourceClayLump" count="22" tag="oreWoodHarvest"/>
+            <drop event="Destroy" count="1" name="Brick Planter 2"/>
+            <property name="FilterTags" value="fterrain"/>
+            <property name="SortOrder1" value="d0m0"/>
+            <property name="SortOrder2" value="0050"/>
+            <property name="DisplayType" value="blockTerrainFertile"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeOtherBlocks.unity3d?BrickPlanterTwoPrefab"/>
+            <property name="MultiBlockDim" value="1,1,1"/>
+            <property name="DescriptionKey" value="farmLifeBrickPlanter2Desc"/>
+        </block>
+        <block name="Brick Planter 3">
+            <property name="Material" value="Mfarmland"/>
+            <property name="ImposterExclude" value="true"/>
+            <property name="CanMobsSpawnOn" value="false"/>
+            <property class="RepairItems">
+                <property name="resourceClayLump" value="14"/>
+            </property>
+            <drop event="Harvest" name="resourceClayLump" count="22" tag="oreWoodHarvest"/>
+            <drop event="Destroy" count="1" name="Brick Planter 3"/>
+            <property name="FilterTags" value="fterrain"/>
+            <property name="SortOrder1" value="d0m0"/>
+            <property name="SortOrder2" value="0050"/>
+            <property name="DisplayType" value="blockTerrainFertile"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeOtherBlocks.unity3d?BrickPlanterThreePrefab"/>
+            <property name="MultiBlockDim" value="1,1,1"/>
+            <property name="DescriptionKey" value="farmLifeBrickPlanter3Desc"/>
+        </block>
+        <block name="Brick Planter 4">
+            <property name="Material" value="Mfarmland"/>
+            <property name="ImposterExclude" value="true"/>
+            <property name="CanMobsSpawnOn" value="false"/>
+            <property class="RepairItems">
+                <property name="resourceClayLump" value="14"/>
+            </property>
+            <drop event="Harvest" name="resourceClayLump" count="22" tag="oreWoodHarvest"/>
+            <drop event="Destroy" count="1" name="Brick Planter 4"/>
+            <property name="FilterTags" value="fterrain"/>
+            <property name="SortOrder1" value="d0m0"/>
+            <property name="SortOrder2" value="0050"/>
+            <property name="DisplayType" value="blockTerrainFertile"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeOtherBlocks.unity3d?BrickPlanterFourPrefab"/>
+            <property name="MultiBlockDim" value="1,1,1"/>
+            <property name="DescriptionKey" value="farmLifeBrickPlanter4Desc"/>
+        </block>
         <block name="Broccoli Seed" farmLifeGrowing="true">
             <property name="CreativeMode" value="Player"/>
             <property name="DisplayInfo" value="Name"/>
@@ -1043,7 +1116,7 @@
             <drop event="Destroy" count="1" name="Cabbage Seed"/>
             <property name="Shape" value="ModelEntity"/>
             <property name="Path" value="solid"/>
-            <property name="Model" value="Entities/Plants/plant_yucca_sproutPrefab"/>
+            <property name="Model" value="Entities/Plants/plant_aloe1_Prefab"/>
             <property name="DescriptionKey" value="farmLifeCabbageSeedDesc"/>
             <property name="PlantGrowing.Next" value="Cabbage Growing 1"/>
         </block>
@@ -1070,7 +1143,7 @@
             <drop event="Destroy" count="1" name="Cabbage Seed"/>
             <property name="Shape" value="ModelEntity"/>
             <property name="Path" value="solid"/>
-            <property name="Model" value="Entities/Plants/plant_yucca_growthPrefab"/>
+            <property name="Model" value="Entities/Plants/plant_aloe2_Prefab"/>
             <property name="PlantGrowing.Next" value="Cabbage Plant"/>
         </block>
         <block name="Cabbage Plant" farmLifeGrown="true">
@@ -1096,7 +1169,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
             <property name="Path" value="solid"/>
-            <property name="Model" value="Entities/Plants/plant_yucca_harvestPrefab"/>
+            <property name="Model" value="Entities/Plants/plant_aloe_harvestPrefab"/>
             <property name="DowngradeBlock" value="Cabbage Seed"/>
             <drop event="Harvest" name="Cabbage" count="1" tag="cropHarvest"/>
         </block>
@@ -1284,7 +1357,7 @@
             <drop event="Destroy" count="1" name="Cherry Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeCherrySeedDesc"/>
             <property name="PlantGrowing.Next" value="Cherry Growing 1"/>
@@ -1319,7 +1392,7 @@
             <drop event="Destroy" count="1" name="Cherry Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Cherry Tree"/>
         </block>
@@ -1352,7 +1425,7 @@
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Cherry Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?CherryTreeBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?CherryTreeBlock"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Cherry Seed"/>
@@ -1432,7 +1505,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HerbBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?HerbBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Cilantro Seed"/>
             <drop event="Harvest" name="Cilantro" count="1" tag="cropHarvest"/>
@@ -1467,7 +1540,7 @@
             <drop event="Destroy" count="1" name="Cinnamon Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeCinnamonSeedDesc"/>
             <property name="PlantGrowing.Next" value="Cinnamon Growing 1"/>
@@ -1502,7 +1575,7 @@
             <drop event="Destroy" count="1" name="Cinnamon Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Cinnamon Tree"/>
         </block>
@@ -1535,7 +1608,7 @@
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Cinnamon Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitTreeBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?FruitTreeBlock"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Cinnamon Seed"/>
@@ -1792,7 +1865,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HerbBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?HerbBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Cumin Seed"/>
             <drop event="Harvest" name="Cumin" count="1" tag="cropHarvest"/>
@@ -1870,10 +1943,22 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HerbBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?HerbBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Dill Seed"/>
             <drop event="Harvest" name="Dill" count="1" tag="cropHarvest"/>
+        </block>
+        <block name="Farm Life Sign">
+            <property name="OnlySimpleRotations" value="true"/>
+            <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+            <property name="TakeDelay" value="15"/>
+            <property name="Material" value="Miron_scrap"/>
+            <property name="MaxDamage" value="250"/>
+            <property name="Stacknumber" value="1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeSigns.unity3d?FarmLifeSignPrefab"/>
+            <property name="Place" value="TowardsPlacerInverted"/>
+            <property name="DescriptionKey" value="farmLifeFarmLifeSignDesc"/>
         </block>
         <block name="Floral Hops Seed" farmLifeGrowing="true">
             <property name="CreativeMode" value="Player"/>
@@ -2029,7 +2114,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?OnionPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?OnionPlantBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Garlic Seed"/>
             <drop event="Harvest" name="Garlic" count="1" tag="cropHarvest"/>
@@ -2108,7 +2193,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
             <property name="DowngradeBlock" value="Ghost Pepper Seed"/>
             <drop event="Harvest" name="Ghost Pepper" count="1" tag="cropHarvest"/>
         </block>
@@ -2185,7 +2270,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?OnionPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?OnionPlantBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Ginger Seed"/>
             <drop event="Harvest" name="Ginger Root" count="1" tag="cropHarvest"/>
@@ -2220,7 +2305,7 @@
             <drop event="Destroy" count="1" name="Grape Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeGrapeSeedDesc"/>
             <property name="PlantGrowing.Next" value="Grape Growing 1"/>
@@ -2255,7 +2340,7 @@
             <drop event="Destroy" count="1" name="Grape Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Grape Tree"/>
         </block>
@@ -2289,7 +2374,7 @@
             <drop event="Destroy" count="1" name="Grape Seed"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?GrapeTreeBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?GrapeTreeBlock"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Grape Seed"/>
             <drop event="Harvest" name="Grape" count="1" tag="cropHarvest"/>
@@ -2396,7 +2481,7 @@
             <property name="CustomIcon" value="woodFrameMaster"/>
             <property name="CustomIconTint" value="222222"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HungryAngusPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?HungryAngusPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DescriptionKey" value="farmLifeHungryAngusPenDesc"/>
             <property name="UpgradeRated.ToBlock" value="Feeding Angus Pen 1"/>
@@ -2418,7 +2503,7 @@
             </property>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FeedingAngusPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FeedingAngusPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="UpgradeRated.ToBlock" value="Full Angus Pen"/>
         </block>
@@ -2436,7 +2521,7 @@
             <drop event="Destroy" count="0"/>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FullAngusPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FullAngusPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DowngradeBlock" value="Hungry Angus Pen"/>
             <drop event="Harvest" name="bucketEmpty" count="2" tag="allHarvest"/>
@@ -2471,7 +2556,7 @@
             <property name="CustomIcon" value="woodFrameMaster"/>
             <property name="CustomIconTint" value="DAF7A6"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HungryChickenCoop"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?HungryChickenCoop"/>
             <property name="MultiBlockDim" value="3,1,3"/>
             <property name="DescriptionKey" value="farmLifeHungryChickenCoopDesc"/>
             <property name="UpgradeRated.ToBlock" value="Feeding Chicken Coop 1"/>
@@ -2493,7 +2578,7 @@
             </property>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FeedingChickenCoop"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FeedingChickenCoop"/>
             <property name="MultiBlockDim" value="3,1,3"/>
             <property name="UpgradeRated.ToBlock" value="Full Chicken Coop"/>
         </block>
@@ -2511,7 +2596,7 @@
             <drop event="Destroy" count="0"/>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FullChickenCoop"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FullChickenCoop"/>
             <property name="MultiBlockDim" value="3,1,3"/>
             <property name="DowngradeBlock" value="Hungry Chicken Coop"/>
             <drop event="Harvest" name="bucketEmpty" count="2" tag="allHarvest"/>
@@ -2546,7 +2631,7 @@
             <property name="CustomIcon" value="woodFrameMaster"/>
             <property name="CustomIconTint" value="500000"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HungryElkPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?HungryElkPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DescriptionKey" value="farmLifeHungryElkPenDesc"/>
             <property name="UpgradeRated.ToBlock" value="Feeding Elk Pen 1"/>
@@ -2568,7 +2653,7 @@
             </property>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FeedingElkPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FeedingElkPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="UpgradeRated.ToBlock" value="Full Elk Pen"/>
         </block>
@@ -2586,7 +2671,7 @@
             <drop event="Destroy" count="0"/>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FullElkPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FullElkPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DowngradeBlock" value="Hungry Elk Pen"/>
             <drop event="Harvest" name="bucketEmpty" count="2" tag="allHarvest"/>
@@ -2619,7 +2704,7 @@
             <property name="CustomIcon" value="woodFrameMaster"/>
             <property name="CustomIconTint" value="FFFFFF"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HungryHolsteinPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?HungryHolsteinPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DescriptionKey" value="farmLifeHungryHolsteinPenDesc"/>
             <property name="UpgradeRated.ToBlock" value="Feeding Holstein Pen 1"/>
@@ -2641,7 +2726,7 @@
             </property>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FeedingHolsteinPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FeedingHolsteinPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="UpgradeRated.ToBlock" value="Full Holstein Pen"/>
         </block>
@@ -2659,7 +2744,7 @@
             <drop event="Destroy" count="0"/>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FullHolsteinPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FullHolsteinPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DowngradeBlock" value="Hungry Holstein Pen"/>
             <drop event="Harvest" name="bucketEmpty" count="2" tag="allHarvest"/>
@@ -2690,7 +2775,7 @@
             <property name="CustomIcon" value="woodFrameMaster"/>
             <property name="CustomIconTint" value="F1948A"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HungryPigPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?HungryPigPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DescriptionKey" value="farmLifeHungryPigPenDesc"/>
             <property name="UpgradeRated.ToBlock" value="Feeding Pig Pen 1"/>
@@ -2712,7 +2797,7 @@
             </property>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FeedingPigPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FeedingPigPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="UpgradeRated.ToBlock" value="Full Pig Pen"/>
         </block>
@@ -2730,7 +2815,7 @@
             <drop event="Destroy" count="0"/>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FullPigPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FullPigPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DowngradeBlock" value="Hungry Pig Pen"/>
             <drop event="Harvest" name="bucketEmpty" count="2" tag="allHarvest"/>
@@ -2765,7 +2850,7 @@
             <property name="CustomIcon" value="woodFrameMaster"/>
             <property name="CustomIconTint" value="F1948A"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HungryVealPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?HungryVealPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DescriptionKey" value="farmLifeHungryVealPenDesc"/>
             <property name="UpgradeRated.ToBlock" value="Feeding Veal Pen 1"/>
@@ -2787,7 +2872,7 @@
             </property>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FeedingVealPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FeedingVealPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="UpgradeRated.ToBlock" value="Full Veal Pen"/>
         </block>
@@ -2805,7 +2890,7 @@
             <drop event="Destroy" count="0"/>
             <property name="UpgradeRated.Rate" value="60"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FullVealPenPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePens.unity3d?FullVealPenPrefab"/>
             <property name="MultiBlockDim" value="4,1,4"/>
             <property name="DowngradeBlock" value="Hungry Veal Pen"/>
             <drop event="Harvest" name="bucketEmpty" count="2" tag="allHarvest"/>
@@ -2888,7 +2973,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
             <property name="DowngradeBlock" value="Jalapeno Pepper Seed"/>
             <drop event="Harvest" name="Jalapeno Pepper" count="1" tag="cropHarvest"/>
         </block>
@@ -2999,7 +3084,7 @@
             <drop event="Destroy" count="1" name="Lime Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeLimeSeedDesc"/>
             <property name="PlantGrowing.Next" value="Lime Growing 1"/>
@@ -3034,7 +3119,7 @@
             <drop event="Destroy" count="1" name="Lime Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Lime Tree"/>
         </block>
@@ -3067,7 +3152,7 @@
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Lime Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitTreeBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?FruitTreeBlock"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Lime Seed"/>
@@ -3103,7 +3188,7 @@
             <drop event="Destroy" count="1" name="Meyer Lemon Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeMeyerLemonSeedDesc"/>
             <property name="PlantGrowing.Next" value="Meyer Lemon Growing 1"/>
@@ -3138,7 +3223,7 @@
             <drop event="Destroy" count="1" name="Meyer Lemon Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Meyer Lemon Tree"/>
         </block>
@@ -3171,7 +3256,7 @@
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Meyer Lemon Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitTreeBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?MeyerLemonPrefab"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Meyer Lemon Seed"/>
@@ -3250,7 +3335,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HerbBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?HerbBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Mint Seed"/>
             <drop event="Harvest" name="Mint" count="1" tag="cropHarvest"/>
@@ -3362,7 +3447,7 @@
             <drop event="Destroy" count="1" name="Olive Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeOliveSeedDesc"/>
             <property name="PlantGrowing.Next" value="Olive Growing 1"/>
@@ -3397,7 +3482,7 @@
             <drop event="Destroy" count="1" name="Olive Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Olive Tree"/>
         </block>
@@ -3430,11 +3515,11 @@
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Olive Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitTreeBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?FruitTreeBlock"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Olive Seed"/>
-            <drop event="Harvest" name="Olive" count="2,8" tag="cropHarvest"/>
+            <drop event="Harvest" name="Olive" count="2,3" tag="cropHarvest"/>
         </block>
         <block name="Onion Seed" farmLifeGrowing="true">
             <property name="CreativeMode" value="Player"/>
@@ -3509,7 +3594,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?OnionPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?OnionPlantBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Onion Seed"/>
             <drop event="Harvest" name="Onion" count="1" tag="cropHarvest"/>
@@ -3544,7 +3629,7 @@
             <drop event="Destroy" count="1" name="Orange Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeOrangeSeedDesc"/>
             <property name="PlantGrowing.Next" value="Orange Growing 1"/>
@@ -3579,7 +3664,7 @@
             <drop event="Destroy" count="1" name="Orange Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Orange Tree"/>
         </block>
@@ -3611,9 +3696,9 @@
             <property name="PlantGrowing.IsRandom" value="false"/>
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Orange Seed"/>
-            <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitTreeBlock"/>
             <property name="MultiBlockDim" value="1,7,1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?OrangeTreeBlock"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Orange Seed"/>
             <drop event="Harvest" name="Orange" count="1" tag="cropHarvest"/>
@@ -3691,7 +3776,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HerbBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?HerbBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Oregano Seed"/>
             <drop event="Harvest" name="Oregano" count="1" tag="cropHarvest"/>
@@ -3770,7 +3855,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
             <property name="DowngradeBlock" value="Pablano Pepper Seed"/>
             <drop event="Harvest" name="Pablano Pepper" count="1" tag="cropHarvest"/>
             <drop event="Harvest" name="Ancho Pepper" count="1" tag="cropHarvest"/>
@@ -3805,7 +3890,7 @@
             <drop event="Destroy" count="1" name="Pear Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifePearSeedDesc"/>
             <property name="PlantGrowing.Next" value="Pear Growing 1"/>
@@ -3840,7 +3925,7 @@
             <drop event="Destroy" count="1" name="Pear Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Pear Tree"/>
         </block>
@@ -3873,7 +3958,7 @@
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Pear Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitTreeBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?FruitTreeBlock"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Pear Seed"/>
@@ -4036,6 +4121,48 @@
             <property name="DowngradeBlock" value="Pinto Bean Seed"/>
             <drop event="Harvest" name="Pinto Bean" count="1" tag="cropHarvest"/>
         </block>
+        <block name="Pinup Girl One">
+            <property name="OnlySimpleRotations" value="true"/>
+            <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+            <property name="TakeDelay" value="15"/>
+            <property name="Material" value="Miron_scrap"/>
+            <property name="MaxDamage" value="250"/>
+            <property name="Stacknumber" value="1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeSigns.unity3d?PinUpGirl1Prefab"/>
+            <property name="Place" value="TowardsPlacerInverted"/>
+            <property name="MultiBlockDim" value="1,2,1"/>
+            <property name="ModelOffset" value="0.0,0.75,0.0"/>
+            <property name="DescriptionKey" value="farmLifePinupGirlOneDesc"/>
+        </block>
+        <block name="Pinup Girl Three">
+            <property name="OnlySimpleRotations" value="true"/>
+            <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+            <property name="TakeDelay" value="15"/>
+            <property name="Material" value="Miron_scrap"/>
+            <property name="MaxDamage" value="250"/>
+            <property name="Stacknumber" value="1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeSigns.unity3d?PinUpGirl3Prefab"/>
+            <property name="Place" value="TowardsPlacerInverted"/>
+            <property name="MultiBlockDim" value="1,2,1"/>
+            <property name="ModelOffset" value="0.0,0.75,0.0"/>
+            <property name="DescriptionKey" value="farmLifePinupGirlThreeDesc"/>
+        </block>
+        <block name="Pinup Girl Two">
+            <property name="OnlySimpleRotations" value="true"/>
+            <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+            <property name="TakeDelay" value="15"/>
+            <property name="Material" value="Miron_scrap"/>
+            <property name="MaxDamage" value="250"/>
+            <property name="Stacknumber" value="1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeSigns.unity3d?PinUpGirl2Prefab"/>
+            <property name="Place" value="TowardsPlacerInverted"/>
+            <property name="MultiBlockDim" value="1,2,1"/>
+            <property name="ModelOffset" value="0.0,0.75,0.0"/>
+            <property name="DescriptionKey" value="farmLifePinupGirlTwoDesc"/>
+        </block>
         <block name="Raspberry Seed" farmLifeGrowing="true">
             <property name="CreativeMode" value="Player"/>
             <property name="DisplayInfo" value="Name"/>
@@ -4110,7 +4237,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
             <property name="DowngradeBlock" value="Raspberry Seed"/>
             <drop event="Harvest" name="Raspberry" count="1" tag="cropHarvest"/>
         </block>
@@ -4136,7 +4263,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Rice Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumSeedBlock"/>
             <property name="MultiBlockDim" value="1,1,1"/>
             <property name="DescriptionKey" value="farmLifeRiceSeedDesc"/>
             <property name="PlantGrowing.Next" value="Rice Growing 1"/>
@@ -4163,7 +4290,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Rice Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumGrowingBlock"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="PlantGrowing.Next" value="Rice Plant"/>
         </block>
@@ -4189,7 +4316,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Rice Seed"/>
             <drop event="Harvest" name="Rice" count="1" tag="cropHarvest"/>
@@ -4344,7 +4471,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?HerbBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?HerbBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Rosemary Seed"/>
             <drop event="Harvest" name="Rosemary" count="1" tag="cropHarvest"/>
@@ -4373,7 +4500,7 @@
             <property name="CustomIcon" value="Sorghum Seed"/>
             <property name="CustomIconTint" value="00fb92"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumSeedBlock"/>
             <property name="MultiBlockDim" value="1,1,1"/>
             <property name="DescriptionKey" value="farmLifeRyeSeedDesc"/>
             <property name="PlantGrowing.Next" value="Rye Growing 1"/>
@@ -4400,7 +4527,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Rye Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumGrowingBlock"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="PlantGrowing.Next" value="Rye Plant"/>
         </block>
@@ -4426,7 +4553,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Rye Seed"/>
             <drop event="Harvest" name="Rye" count="1" tag="cropHarvest"/>
@@ -4506,10 +4633,22 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?OnionPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?OnionPlantBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Shallot Seed"/>
             <drop event="Harvest" name="Shallot" count="1" tag="cropHarvest"/>
+        </block>
+        <block name="Small Fern">
+            <property name="OnlySimpleRotations" value="true"/>
+            <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+            <property name="TakeDelay" value="15"/>
+            <property name="Material" value="Mplants"/>
+            <property name="MaxDamage" value="50"/>
+            <property name="Stacknumber" value="1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FernPrefab"/>
+            <property name="MultiBlockDim" value="1,1,1"/>
+            <property name="DescriptionKey" value="farmLifeSmallFernDesc"/>
         </block>
         <block name="Sorghum Seed" farmLifeGrowing="true">
             <property name="CreativeMode" value="Player"/>
@@ -4533,7 +4672,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Sorghum Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumSeedBlock"/>
             <property name="MultiBlockDim" value="1,1,1"/>
             <property name="DescriptionKey" value="farmLifeSorghumSeedDesc"/>
             <property name="PlantGrowing.Next" value="Sorghum Growing 1"/>
@@ -4560,7 +4699,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Sorghum Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumGrowingBlock"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="PlantGrowing.Next" value="Sorghum Plant"/>
         </block>
@@ -4586,7 +4725,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Sorghum Seed"/>
             <drop event="Harvest" name="Sorghum" count="1" tag="cropHarvest"/>
@@ -4924,7 +5063,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Sugar Cane Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumSeedBlock"/>
             <property name="MultiBlockDim" value="1,1,1"/>
             <property name="DescriptionKey" value="farmLifeSugarCaneSeedDesc"/>
             <property name="PlantGrowing.Next" value="Sugar Cane Growing 1"/>
@@ -4951,7 +5090,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Sugar Cane Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumGrowingBlock"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="PlantGrowing.Next" value="Sugar Cane Plant"/>
         </block>
@@ -4977,7 +5116,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Sugar Cane Seed"/>
             <drop event="Harvest" name="Sugar Cane" count="1" tag="cropHarvest"/>
@@ -5012,7 +5151,7 @@
             <drop event="Destroy" count="1" name="Sugar Maple Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeSugarMapleSeedDesc"/>
             <property name="PlantGrowing.Next" value="Sugar Maple Growing 1"/>
@@ -5047,7 +5186,7 @@
             <drop event="Destroy" count="1" name="Sugar Maple Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Sugar Maple Tree"/>
         </block>
@@ -5080,12 +5219,30 @@
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Sugar Maple Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?MapleTreeBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?MapleTreeBlock"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Sugar Maple Seed"/>
             <drop event="Harvest" name="Maple Sap" count="2,6" tag="cropHarvest"/>
             <drop event="Harvest" name="Maple Wood Plank" count="1" tag="cropHarvest"/>
+        </block>
+        <block name="Terracotta Planter">
+            <property name="Material" value="Mfarmland"/>
+            <property name="ImposterExclude" value="true"/>
+            <property name="CanMobsSpawnOn" value="false"/>
+            <property class="RepairItems">
+                <property name="resourceClayLump" value="14"/>
+            </property>
+            <drop event="Harvest" name="resourceClayLump" count="22" tag="oreWoodHarvest"/>
+            <drop event="Destroy" count="1" name="Terracotta Planter"/>
+            <property name="FilterTags" value="fterrain"/>
+            <property name="SortOrder1" value="d0m0"/>
+            <property name="SortOrder2" value="0050"/>
+            <property name="DisplayType" value="blockTerrainFertile"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeOtherBlocks.unity3d?TerracottaPlanterPrefab"/>
+            <property name="MultiBlockDim" value="1,1,1"/>
+            <property name="DescriptionKey" value="farmLifeTerracottaPlanterDesc"/>
         </block>
         <block name="Thyme Seed" farmLifeGrowing="true">
             <property name="CreativeMode" value="Player"/>
@@ -5166,6 +5323,19 @@
             <property name="DowngradeBlock" value="Thyme Seed"/>
             <drop event="Harvest" name="Thyme" count="1" tag="cropHarvest"/>
         </block>
+        <block name="Tom Cat">
+            <property name="OnlySimpleRotations" value="true"/>
+            <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+            <property name="TakeDelay" value="15"/>
+            <property name="Material" value="Morganic"/>
+            <property name="MaxDamage" value="50"/>
+            <property name="Stacknumber" value="1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeAnimals.unity3d?FarmCatPrefab"/>
+            <property name="Place" value="TowardsPlacerInverted"/>
+            <property name="MultiBlockDim" value="1,1,1"/>
+            <property name="DescriptionKey" value="farmLifeTomCatDesc"/>
+        </block>
         <block name="Tomatillo Seed" farmLifeGrowing="true">
             <property name="CreativeMode" value="Player"/>
             <property name="DisplayInfo" value="Name"/>
@@ -5240,7 +5410,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
             <property name="DowngradeBlock" value="Tomatillo Seed"/>
             <drop event="Harvest" name="Tomatillo" count="1" tag="cropHarvest"/>
         </block>
@@ -5318,7 +5488,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
             <property name="DowngradeBlock" value="Tomato Seed"/>
             <drop event="Harvest" name="Tomato" count="1" tag="cropHarvest"/>
         </block>
@@ -5352,7 +5522,7 @@
             <drop event="Destroy" count="1" name="Walnut Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeWalnutSeedDesc"/>
             <property name="PlantGrowing.Next" value="Walnut Growing 1"/>
@@ -5387,7 +5557,7 @@
             <drop event="Destroy" count="1" name="Walnut Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="Walnut Tree"/>
         </block>
@@ -5425,7 +5595,7 @@
             <property name="ModelOffset" value="0,-0.5,0"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Walnut Seed"/>
-            <drop event="Harvest" name="Walnut" count="2,4" tag="cropHarvest"/>
+            <drop event="Harvest" name="Walnut" count="2,3" tag="cropHarvest"/>
             <drop event="Harvest" name="Walnut Wood Plank" count="1" tag="cropHarvest"/>
             <drop event="Harvest" name="" count="0" tag="cropHarvest"/>
         </block>
@@ -5451,7 +5621,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Wheat Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumSeedBlock"/>
             <property name="MultiBlockDim" value="1,1,1"/>
             <property name="DescriptionKey" value="farmLifeWheatSeedDesc"/>
             <property name="PlantGrowing.Next" value="Wheat Growing 1"/>
@@ -5478,7 +5648,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Wheat Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumGrowingBlock"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="PlantGrowing.Next" value="Wheat Plant"/>
         </block>
@@ -5504,7 +5674,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?SorghumBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SorghumBlock"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Wheat Seed"/>
             <drop event="Harvest" name="Wheat" count="1" tag="cropHarvest"/>
@@ -5541,7 +5711,7 @@
             <property name="CustomIconTint" value="797979"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeSeedBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeSeedBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="DescriptionKey" value="farmLifeWhiteOakSeedDesc"/>
             <property name="PlantGrowing.Next" value="White Oak Growing 1"/>
@@ -5576,7 +5746,7 @@
             <drop event="Destroy" count="1" name="White Oak Seed"/>
             <property name="MultiBlockDim" value="1,2,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?TreeGrowingBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?TreeGrowingBlock"/>
             <property name="ParticleOnDeath" value="treeGib_sapling"/>
             <property name="PlantGrowing.Next" value="White Oak Tree"/>
         </block>
@@ -5610,22 +5780,28 @@
             <drop event="Destroy" count="1" name="White Oak Seed"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?WhiteOakBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?WhiteOakPrefab"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="White Oak Seed"/>
             <drop event="Harvest" name="White Oak Plank" count="1" tag="cropHarvest"/>
         </block>
-        <block name="Farm Life Sign">
-            <property name="OnlySimpleRotations" value="true"/>
-            <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
-            <property name="TakeDelay" value="15"/>
-            <property name="EconomicValue" value="1544"/>
-            <property name="Material" value="Miron_scrap"/>
-            <property name="MaxDamage" value="800"/>
+        <block name="Wood Planter">
+            <property name="Material" value="Mfarmland"/>
+            <property name="ImposterExclude" value="true"/>
+            <property name="CanMobsSpawnOn" value="false"/>
+            <property class="RepairItems">
+                <property name="resourceClayLump" value="14"/>
+            </property>
+            <drop event="Harvest" name="resourceClayLump" count="22" tag="oreWoodHarvest"/>
+            <drop event="Destroy" count="1" name="Wood Planter"/>
+            <property name="FilterTags" value="fterrain"/>
+            <property name="SortOrder1" value="d0m0"/>
+            <property name="SortOrder2" value="0050"/>
+            <property name="DisplayType" value="blockTerrainFertile"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FarmLifeSignPrefab"/>
-            <property name="Place" value="TowardsPlacerInverted"/>
-            <property name="Stacknumber" value="1"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeOtherBlocks.unity3d?WoodPlanterPrefab"/>
+            <property name="MultiBlockDim" value="1,1,1"/>
+            <property name="DescriptionKey" value="farmLifeWoodPlanterDesc"/>
         </block>
         <block name="Fermentor Bench">
             <property name="OnlySimpleRotations" value="true"/>
@@ -5643,7 +5819,7 @@
             <property name="MaxDamage" value="800"/>
             <property name="StabilitySupport" value="false"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLife2.unity3d?FermentorBenchPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeStations.unity3d?FermentorBenchPrefab"/>
             <property name="MultiBlockDim" value="3,2,1"/>
             <property name="Place" value="TowardsPlacerInverted"/>
             <property name="Stacknumber" value="1"/>
@@ -6058,5 +6234,14 @@
     </append>
     <append xpath="/blocks/block[@name='plantedCorn3HarvestPlayer']">
         <drop event="Harvest" name="Corn Husk" count="1" tag="cropHarvest"/>
+    </append>
+    <append xpath="/blocks/block[@name='driftwood']">
+        <drop event="Destroy" name="Mesquite Woodchips" count="2,4"/>
+    </append>
+    <append xpath="/blocks/block[@name='driftwood2']">
+        <drop event="Destroy" name="Mesquite Woodchips" count="2,4"/>
+    </append>
+    <append xpath="/blocks/block[@name='terrStone']">
+        <drop event="Harvest" name="Halite" count="1" prob=".1" tag="oreWoodHarvest"/>
     </append>
 </configs>
