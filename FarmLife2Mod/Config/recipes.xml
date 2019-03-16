@@ -182,6 +182,7 @@
         </recipe>
         <recipe name="Beer Double IPA" count="15" craft_time="2" craft_area="Brew Station" craft_tool="Bottle Capper">
             <ingredient name="Aged Double IPA " count="1"/>
+            <ingredient name="Bottle Cap" count="5"/>
         </recipe>
         <recipe name="Beer IPA" count="15" craft_time="2" craft_area="Brew Station" craft_tool="Bottle Capper">
             <ingredient name="Beer IPA Raw" count="1"/>
@@ -377,6 +378,18 @@
             <ingredient name="resourceForgedIron" count="20"/>
             <ingredient name="resourceMechanicalParts" count="10"/>
             <ingredient name="resourceScrapPolymers" count="10"/>
+        </recipe>
+        <recipe name="Brick Planter" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceClayLump" count="100"/>
+        </recipe>
+        <recipe name="Brick Planter 2" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceClayLump" count="100"/>
+        </recipe>
+        <recipe name="Brick Planter 3" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceClayLump" count="100"/>
+        </recipe>
+        <recipe name="Brick Planter 4" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceClayLump" count="100"/>
         </recipe>
         <recipe name="Brined Coffee Elk" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
             <ingredient name="Elk Scraps" count="10"/>
@@ -1877,6 +1890,10 @@
         <recipe name="Sliced Yellow Bell" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Yellow Bell" count="3"/>
         </recipe>
+        <recipe name="Small Fern" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceYuccaFibers" count="10"/>
+            <ingredient name="resourceClayLump" count="10"/>
+        </recipe>
         <recipe name="Smoked Bacon" count="10" craft_time="2" craft_area="Cold Smoker" craft_tool="Smoker Mat">
             <ingredient name="Pork Belly" count="1"/>
             <ingredient name="Apple Woodchips" count="4"/>
@@ -2070,6 +2087,13 @@
         <recipe name="Taco Shell" count="10" craft_time="2" craft_area="Gas Oven" craft_tool="Baking Sheet">
             <ingredient name="Corn Tortillas Step 2" count="1"/>
         </recipe>
+        <recipe name="Terracotta Planter" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceClayLump" count="100"/>
+        </recipe>
+        <recipe name="Tom Cat" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="foodCanCatfood" count="5"/>
+            <ingredient name="Live Trap" count="1"/>
+        </recipe>
         <recipe name="Tongs" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolAnvil">
             <ingredient name="unit_iron" count="25"/>
             <ingredient name="unit_clay" count="5"/>
@@ -2206,6 +2230,9 @@
         <recipe name="Wood Grill" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="10"/>
             <ingredient name="toolCookingGrill" count="1"/>
+        </recipe>
+        <recipe name="Wood Planter" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceClayLump" count="100"/>
         </recipe>
         <recipe name="Yogurt Culture" count="15" craft_time="2" craft_area="Fermentor Bench">
             <ingredient name="Raw Milk" count="5"/>
@@ -3238,7 +3265,11 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
-        <recipe name="Mastering: Farm Cat" count="1">
+        <recipe name="The Tom Cat Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST Mesquite ever!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
