@@ -467,7 +467,7 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?HerbBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?BasilPlantPrefab"/>
             <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Basil Seed"/>
             <drop event="Harvest" name="Basil" count="1" tag="cropHarvest"/>
@@ -572,7 +572,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Bell Pepper Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_sproutPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantSeedPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DescriptionKey" value="farmLifeBellPepperSeedDesc"/>
             <property name="PlantGrowing.Next" value="Bell Pepper Growing 1"/>
         </block>
@@ -598,7 +599,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Bell Pepper Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_growthPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantGrowingPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="PlantGrowing.Next" value="Bell Pepper Plant"/>
         </block>
         <block name="Bell Pepper Plant" farmLifeGrown="true">
@@ -624,7 +626,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?BellPlantPrefab"/>
             <property name="DowngradeBlock" value="Bell Pepper Seed"/>
             <drop event="Harvest" name="Green Bell" count="1" tag="cropHarvest"/>
             <drop event="Harvest" name="Yellow Bell" count="1" tag="cropHarvest"/>
@@ -1168,8 +1170,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Path" value="solid"/>
-            <property name="Model" value="Entities/Plants/plant_aloe_harvestPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CabbagePrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Cabbage Seed"/>
             <drop event="Harvest" name="Cabbage" count="1" tag="cropHarvest"/>
         </block>
@@ -1710,8 +1712,9 @@
             <property name="PlantGrowing.FertileLevel" value="1"/>
             <drop event="Destroy" count="1" name="Coconut Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Path" value="solid"/>
-            <property name="Model" value="Entities/Plants/plant_yucca_harvestPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifeTrees.unity3d?CoconutTreePrefab"/>
+            <property name="MultiBlockDim" value="1,7,1"/>
+            <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Coconut Seed"/>
             <drop event="Harvest" name="Coconut" count="1" tag="cropHarvest"/>
         </block>
@@ -2193,7 +2196,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?BellPlantPrefab"/>
             <property name="DowngradeBlock" value="Ghost Pepper Seed"/>
             <drop event="Harvest" name="Ghost Pepper" count="1" tag="cropHarvest"/>
         </block>
@@ -2921,7 +2924,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Jalapeno Pepper Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_sproutPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantSeedPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DescriptionKey" value="farmLifeJalapenoPepperSeedDesc"/>
             <property name="PlantGrowing.Next" value="Jalapeno Pepper Growing 1"/>
         </block>
@@ -2947,7 +2951,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Jalapeno Pepper Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_growthPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantGrowingPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="PlantGrowing.Next" value="Jalapeno Pepper Plant"/>
         </block>
         <block name="Jalapeno Pepper Plant" farmLifeGrown="true">
@@ -2973,7 +2978,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?BellPlantPrefab"/>
             <property name="DowngradeBlock" value="Jalapeno Pepper Seed"/>
             <drop event="Harvest" name="Jalapeno Pepper" count="1" tag="cropHarvest"/>
         </block>
@@ -3803,7 +3808,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Pablano Pepper Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_sproutPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantSeedPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DescriptionKey" value="farmLifePablanoPepperSeedDesc"/>
             <property name="PlantGrowing.Next" value="Pablano Pepper Growing 1"/>
         </block>
@@ -3829,7 +3835,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Pablano Pepper Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_growthPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantGrowingPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="PlantGrowing.Next" value="Pablano Pepper Plant"/>
         </block>
         <block name="Pablano Pepper Plant" farmLifeGrown="true">
@@ -3855,7 +3862,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?BellPlantPrefab"/>
             <property name="DowngradeBlock" value="Pablano Pepper Seed"/>
             <drop event="Harvest" name="Pablano Pepper" count="1" tag="cropHarvest"/>
             <drop event="Harvest" name="Ancho Pepper" count="1" tag="cropHarvest"/>
@@ -4039,8 +4046,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Path" value="solid"/>
-            <property name="Model" value="Entities/Plants/plant_yucca_harvestPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?PineapplePlantPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Pineapple Seed"/>
             <drop event="Harvest" name="Pineapple" count="1" tag="cropHarvest"/>
         </block>
@@ -4185,7 +4192,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Raspberry Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_sproutPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?LatticeSeedPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DescriptionKey" value="farmLifeRaspberrySeedDesc"/>
             <property name="PlantGrowing.Next" value="Raspberry Growing 1"/>
         </block>
@@ -4211,7 +4219,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Raspberry Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_growthPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?LatticeSeedPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="PlantGrowing.Next" value="Raspberry Plant"/>
         </block>
         <block name="Raspberry Plant" farmLifeGrown="true">
@@ -4235,9 +4244,9 @@
             <property name="PlantGrowing.IsRandom" value="false"/>
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
-            <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?RaspberryPlantPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Raspberry Seed"/>
             <drop event="Harvest" name="Raspberry" count="1" tag="cropHarvest"/>
         </block>
@@ -4394,7 +4403,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_harvestPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?RomaineLettucePrefab"/>
+            <property name="MultiBlockDim" value="1,1,1"/>
             <property name="DowngradeBlock" value="Romaine Seed"/>
             <drop event="Harvest" name="Romaine" count="1" tag="cropHarvest"/>
         </block>
@@ -4880,7 +4890,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_harvestPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SpinachPlantPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Spinach Seed"/>
             <drop event="Harvest" name="Spinach" count="1" tag="cropHarvest"/>
         </block>
@@ -4906,7 +4917,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Squash Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_sproutPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?LatticeSeedPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DescriptionKey" value="farmLifeSquashSeedDesc"/>
             <property name="PlantGrowing.Next" value="Squash Growing 1"/>
         </block>
@@ -4932,7 +4944,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Squash Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_growthPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?LatticeGrowingPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="PlantGrowing.Next" value="Squash Plant"/>
         </block>
         <block name="Squash Plant" farmLifeGrown="true">
@@ -4957,7 +4970,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_harvestPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?SquashPlantPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Squash Seed"/>
             <drop event="Harvest" name="Squash" count="1" tag="cropHarvest"/>
         </block>
@@ -5358,7 +5372,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Tomatillo Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_sproutPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantSeedPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DescriptionKey" value="farmLifeTomatilloSeedDesc"/>
             <property name="PlantGrowing.Next" value="Tomatillo Growing 1"/>
         </block>
@@ -5384,7 +5399,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Tomatillo Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_growthPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantGrowingPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="PlantGrowing.Next" value="Tomatillo Plant"/>
         </block>
         <block name="Tomatillo Plant" farmLifeGrown="true">
@@ -5410,7 +5426,7 @@
             <drop event="Destroy" count="0"/>
             <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?BellPlantPrefab"/>
             <property name="DowngradeBlock" value="Tomatillo Seed"/>
             <drop event="Harvest" name="Tomatillo" count="1" tag="cropHarvest"/>
         </block>
@@ -5436,7 +5452,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Tomato Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_sproutPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantSeedPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DescriptionKey" value="farmLifeTomatoSeedDesc"/>
             <property name="PlantGrowing.Next" value="Tomato Growing 1"/>
         </block>
@@ -5462,7 +5479,8 @@
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="1" name="Tomato Seed"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Plants/potato_plant_growthPrefab"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?CagePlantGrowingPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="PlantGrowing.Next" value="Tomato Plant"/>
         </block>
         <block name="Tomato Plant" farmLifeGrown="true">
@@ -5486,9 +5504,9 @@
             <property name="PlantGrowing.IsRandom" value="false"/>
             <property name="HarvestOverdamage" value="false"/>
             <drop event="Destroy" count="0"/>
-            <property name="Shape" value="New"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?FruitPlantBlock"/>
+            <property name="Model" value="#@modfolder:Resources/FarmLifePlants.unity3d?TomatoPLantPrefab"/>
+            <property name="MultiBlockDim" value="1,4,1"/>
             <property name="DowngradeBlock" value="Tomato Seed"/>
             <drop event="Harvest" name="Tomato" count="1" tag="cropHarvest"/>
         </block>

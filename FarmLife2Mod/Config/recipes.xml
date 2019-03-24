@@ -2429,6 +2429,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="The Way To Baking Sheet" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Grandmas Best Bananna Bread" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2513,6 +2517,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="The Boiler Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="The Basics: Bolognese Dish" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2554,6 +2562,18 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Everything About: Canned Olives" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Carboy - Ancient Arts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Guide To: Caste Iron Skillet" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Ceramic Dutch Oven 101" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2610,6 +2630,10 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="The Basics: Chopped Walnuts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Clay Pot" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2682,6 +2706,14 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Making an Expert: Diced Tomatos" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Dough Hook 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: Drying Pan" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2805,6 +2837,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="The BEST Ice Cream Bowl ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Jar Airlock - Ancient Arts" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2829,6 +2865,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Best Approaches: Malting Trays" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Maple Syrup - YOU Can Too" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2842,6 +2882,10 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Best Approaches: Meat Grinder" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Meat Hanger" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2882,6 +2926,10 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="The Mixed Greens Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Mixing Bowl" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2957,6 +3005,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="The Way To Pizza Stone" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="The Way To Plain Ice Cream" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2986,6 +3038,10 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="The Way To Pulled Pork" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST PyreX Bakeware ever!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3149,11 +3205,19 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Smoker Mat For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Best Approaches: Spaghetti and Meatballs" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Advanced - Spanish Rice" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Spatula" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3185,6 +3249,14 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Steeping Tun For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Still" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Stir Fry Vegetables 1-2-3s" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -3201,11 +3273,19 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Tongs 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Tortillas Chips JUST DO IT!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Best Approaches: Triple Taco Tuesday" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Turkey Rack - Ancient Arts" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>

@@ -203,6 +203,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="2"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Salty Starch"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeAmericanFriesDesc"/>
         </item>
         <item name="American Fries Step 1">
@@ -360,6 +363,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="6"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="American Pie"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeApplePieDesc"/>
         </item>
         <item name="Apple Wood Plank">
@@ -415,6 +421,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="2"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Afternoon Delight"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeApplesandCreamDesc"/>
         </item>
         <item name="Avocado">
@@ -468,6 +477,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="28"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="10"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Light Lunch"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeAvocadoSpinachSaladDesc"/>
         </item>
@@ -524,6 +536,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="3"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Southern Favorite"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeBBQPorkRibsDesc"/>
         </item>
         <item name="Baked Rigatoni">
@@ -548,6 +563,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="77"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="38"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Riga Me This"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeBakedRigatoniDesc"/>
         </item>
@@ -648,6 +666,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="13"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="2"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Grandma's Recipe"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeBanannaBreadDesc"/>
         </item>
@@ -821,6 +842,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="7"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Beefy"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeBeefChiliDesc"/>
         </item>
         <item name="Beef Chili Step 1">
@@ -893,6 +917,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="16"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="4"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Yo Quiero"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeBeefTacoDesc"/>
         </item>
@@ -1297,6 +1324,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="10"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Beet me!"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeBeetSaladDesc"/>
         </item>
         <item name="Beet Salad Step 1">
@@ -1337,6 +1367,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Limp Bisquit"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeBiscuitDesc"/>
         </item>
@@ -1410,6 +1443,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="18"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="4"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Shit n Shingles"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeBiscuitsandGravyDesc"/>
         </item>
@@ -1539,6 +1575,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="12"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Blue Tongue"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeBlueberryIceCreamDesc"/>
         </item>
@@ -1873,6 +1912,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="3"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Ricer"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeBowlofRiceDesc"/>
         </item>
         <item name="Brazilian Grilled Pineapple">
@@ -1897,6 +1939,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Buenos Aires"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeBrazilianGrilledPineappleDesc"/>
         </item>
@@ -2113,6 +2158,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="20"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Diner Food"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeBurgerBasketDesc"/>
         </item>
         <item name="Butter">
@@ -2243,6 +2291,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="23"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="8"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="You ate these?"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeCannedOlivesDesc"/>
         </item>
@@ -2556,6 +2607,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="17"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Cheesy Za"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeCheesePizzaDesc"/>
         </item>
         <item name="Cheese Press">
@@ -2594,6 +2648,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="24"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="8"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="With Cheese"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeCheeseburgerDesc"/>
         </item>
@@ -2649,6 +2706,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Little Tart"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeCherryIceCreamDesc"/>
         </item>
         <item name="Cherry Pie">
@@ -2673,6 +2733,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="20"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="6"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="She's my cherry pie"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeCherryPieDesc"/>
         </item>
@@ -2787,6 +2850,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="13"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="2"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="No mal Tamale"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeChickenTamaleDesc"/>
         </item>
@@ -2922,6 +2988,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="13"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Peppery Goodness"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeChileRellenoDesc"/>
         </item>
         <item name="Chile Relleno Step 1">
@@ -3011,6 +3080,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="21"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Cool Soup"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeChilledCucumberYogurtSoupDesc"/>
         </item>
         <item name="Chips and Salsa">
@@ -3035,6 +3107,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="58"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="27"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Where's the guac?"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeChipsandSalsaDesc"/>
         </item>
@@ -3197,6 +3272,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="No nut coconut"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeCoconutIceCreamDesc"/>
         </item>
         <item name="Coffee Elk Jerky">
@@ -3251,6 +3329,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="12"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="BACON"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeCookedBaconDesc"/>
         </item>
@@ -3504,6 +3585,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="41"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="18"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Country Boy"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeCountryBoyBreakfastDesc"/>
         </item>
@@ -3779,6 +3863,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="39"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="16"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Rotten Eggs"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeDenverOmeletteDesc"/>
         </item>
@@ -4304,6 +4391,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="6"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Gooey Gold"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeEggsBenedictDesc"/>
         </item>
         <item name="Elk Jerky">
@@ -4328,6 +4418,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Jerky Boy"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeElkJerkyDesc"/>
         </item>
@@ -4655,6 +4748,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="20"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="4 eggs, your way"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeFlorentineOmeletteDesc"/>
         </item>
         <item name="Florentine Omelette Step 1">
@@ -4751,6 +4847,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="3"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Sunny Side Up"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeFriedEggsDesc"/>
         </item>
         <item name="Fried Ham Steak">
@@ -4778,6 +4877,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Ham. Steak."/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeFriedHamSteakDesc"/>
         </item>
         <item name="Fried Okra">
@@ -4802,6 +4904,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="37"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="16"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Deep South"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeFriedOkraDesc"/>
         </item>
@@ -4859,6 +4964,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="24"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="8"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Fruity Cake"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeFruitPancakesDesc"/>
         </item>
@@ -4950,6 +5058,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="17"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Cake boy"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeFullStackoPancakesDesc"/>
         </item>
         <item name="Garlic">
@@ -5003,6 +5114,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="28"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="10"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Yummy in mah tummy"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeGarlicGreenBeansDesc"/>
         </item>
@@ -5135,6 +5249,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="49"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="22"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Grandma's dead"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeGrandmasOmeletteDesc"/>
         </item>
@@ -5363,6 +5480,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="3"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Sqush. Grilled.."/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeGrilledSquashDesc"/>
         </item>
         <item name="Grits">
@@ -5387,6 +5507,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Southern Bell"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeGritsDesc"/>
         </item>
@@ -5561,6 +5684,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="26"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Wheres the salsa?"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeGuacandChipsDesc"/>
         </item>
         <item name="Guacamole">
@@ -5714,6 +5840,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="7"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Without Cheese"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeHamburgerDesc"/>
         </item>
         <item name="Hamburger Bun">
@@ -5791,6 +5920,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="14"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="2"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Whats taters precious?"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeHashbrownsDesc"/>
         </item>
@@ -6449,6 +6581,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="METED"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeMeatballsDesc"/>
         </item>
         <item name="Meatballs Step 1">
@@ -6543,6 +6678,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="17"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="4"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Diarrhea CHA CHA CHA"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeMexicanBlackBeansDesc"/>
         </item>
@@ -6815,6 +6953,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="5"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Forgot the seaweed.."/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeMisoSoupDesc"/>
         </item>
         <item name="Mixed Greens">
@@ -6839,6 +6980,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="28"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="10"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Rabbit Food"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeMixedGreensDesc"/>
         </item>
@@ -6973,6 +7117,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="37"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="15"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Old Timers are all dead.."/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeOldTimersBreakfastDesc"/>
         </item>
@@ -7221,6 +7368,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Pamcakes"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifePancakeDesc"/>
         </item>
         <item name="Pancake Step 1">
@@ -7286,6 +7436,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="85"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="43"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Luigi"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifePancettaLinguiniDesc"/>
         </item>
@@ -7387,6 +7540,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="7"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Chicka-chicka-boom"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeParmesanCrustedChickenDesc"/>
         </item>
         <item name="Pasta Helper">
@@ -7480,6 +7636,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="28"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Basil and more basil"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifePennePestoDesc"/>
         </item>
         <item name="Penne Pesto Step 1">
@@ -7545,6 +7704,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Blurp"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifePickledGingerDesc"/>
         </item>
@@ -7765,6 +7927,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Boring.."/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifePlainIceCreamDesc"/>
         </item>
         <item name="Plain Kefir">
@@ -7789,6 +7954,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Gut bomb"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifePlainKefirDesc"/>
         </item>
@@ -7815,6 +7983,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Healthy Breakfast"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifePlainYogurtDesc"/>
         </item>
         <item name="Poached Eggs">
@@ -7839,6 +8010,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="14"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="2"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Needs more H sauce"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifePoachedEggsDesc"/>
         </item>
@@ -7893,6 +8067,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="39"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="17"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Chimicurri?"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifePorkChimichangaDesc"/>
         </item>
@@ -8242,6 +8419,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="RASSSSPBERRY"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeRaspberryIceCreamDesc"/>
         </item>
         <item name="Raw Bourbon">
@@ -8527,6 +8707,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="3"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Fried times 2"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeRefriedBeansDesc"/>
         </item>
         <item name="Refried Beans Step 1">
@@ -8684,6 +8867,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="27"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Euro rice"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeRisottoDesc"/>
         </item>
         <item name="Risotto Step 1">
@@ -8772,6 +8958,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="26"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="9"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Burnt like a witch"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeRoastedBrusselsSproutsDesc"/>
         </item>
@@ -8880,6 +9069,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="10"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Bunny Food"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeRomaineSaladDesc"/>
         </item>
         <item name="Rosemary">
@@ -8962,6 +9154,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="47"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="21"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Smokey flavor"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeRumpRoastStewDesc"/>
         </item>
@@ -9446,6 +9641,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="19"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="5"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="BACONNNN"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeSideofBaconDesc"/>
         </item>
@@ -10085,6 +10283,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="23"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="A classic dish"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeSpaghettiandMeatballsDesc"/>
         </item>
         <item name="Spanish Rice">
@@ -10109,6 +10310,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="15"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="3"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="More beans.."/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeSpanishRiceDesc"/>
         </item>
@@ -10205,6 +10409,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="16"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="4"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Bdubs can't do these"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeSpicyChickenWingsDesc"/>
         </item>
@@ -10403,6 +10610,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="17"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Burro"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeSteakBurritoDesc"/>
         </item>
         <item name="Steak Burrito Step 1">
@@ -10561,6 +10771,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="8"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Boring"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeStirFryVegetablesDesc"/>
         </item>
         <item name="Strawberry">
@@ -10615,6 +10828,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Sweetness times 2"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeStrawberryIceCreamDesc"/>
         </item>
         <item name="Sugar Cane">
@@ -10654,6 +10870,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="38"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="16"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Suns out Guns out"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeSunriseSamplerDesc"/>
         </item>
@@ -11032,6 +11251,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="40"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Triple Bathroom Wednesday"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeTripleTacoTuesdayDesc"/>
         </item>
         <item name="Turkey Rack">
@@ -11130,6 +11352,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="31"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Veggie, eeeewwww"/>
+            </effect_group>
             <property name="DescriptionKey" value="farmLifeVegetablePastaMealDesc"/>
         </item>
         <item name="Veggie Attachment">
@@ -11168,6 +11393,9 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="22"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="7"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Would go great with meat"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeVeggieMashDesc"/>
         </item>
@@ -11700,6 +11928,7 @@
             <property name="DescriptionKey" value="farmLifeZhangHandleDesc"/>
         </item>
         <item name="The Brewing Method">
+            <property name="DescriptionKey" value="farmLifeTheBrewingMethodDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11717,6 +11946,7 @@
             </property>
         </item>
         <item name="The BEST Aged Barrel ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTAgedBarrelever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11734,6 +11964,7 @@
             </property>
         </item>
         <item name="Aging Shelves - Techniques">
+            <property name="DescriptionKey" value="farmLifeAgingShelves-TechniquesDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11751,6 +11982,7 @@
             </property>
         </item>
         <item name="Understanding: American Fries">
+            <property name="DescriptionKey" value="farmLifeUnderstanding:AmericanFriesDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11768,6 +12000,7 @@
             </property>
         </item>
         <item name="Apple Cider by stasis78">
+            <property name="DescriptionKey" value="farmLifeAppleCiderbystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11785,6 +12018,7 @@
             </property>
         </item>
         <item name="The BEST Apple Juice ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTAppleJuiceever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11802,6 +12036,7 @@
             </property>
         </item>
         <item name="The BEST Apple Pie ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTApplePieever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11819,6 +12054,7 @@
             </property>
         </item>
         <item name="Grandmas Best Apples and Cream">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestApplesandCreamDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11836,6 +12072,7 @@
             </property>
         </item>
         <item name="Grandmas Best Avocado Spinach Salad">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestAvocadoSpinachSaladDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11853,6 +12090,7 @@
             </property>
         </item>
         <item name="Advanced - Baked Rigatoni">
+            <property name="DescriptionKey" value="farmLifeAdvanced-BakedRigatoniDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11869,7 +12107,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="The Way To Baking Sheet">
+            <property name="DescriptionKey" value="farmLifeTheWayToBakingSheetDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_baking_sheet_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Grandmas Best Bananna Bread">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestBanannaBreadDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11887,6 +12144,7 @@
             </property>
         </item>
         <item name="Making an Expert: Barrel Roaster">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:BarrelRoasterDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11904,6 +12162,7 @@
             </property>
         </item>
         <item name="Making an Expert: BBQ Elk Jerky">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:BBQElkJerkyDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11921,6 +12180,7 @@
             </property>
         </item>
         <item name="Making an Expert: BBQ Pork Ribs">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:BBQPorkRibsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11938,6 +12198,7 @@
             </property>
         </item>
         <item name="Bechamel by stasis78">
+            <property name="DescriptionKey" value="farmLifeBechamelbystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11955,6 +12216,7 @@
             </property>
         </item>
         <item name="Best Approaches: Beef Chili">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:BeefChiliDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11972,6 +12234,7 @@
             </property>
         </item>
         <item name="Guide To: Beef Taco">
+            <property name="DescriptionKey" value="farmLifeGuideTo:BeefTacoDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -11989,6 +12252,7 @@
             </property>
         </item>
         <item name="Mastering: Beer Cheap">
+            <property name="DescriptionKey" value="farmLifeMastering:BeerCheapDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12006,6 +12270,7 @@
             </property>
         </item>
         <item name="The BEST Beer Double IPA ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTBeerDoubleIPAever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12023,6 +12288,7 @@
             </property>
         </item>
         <item name="Grandmas Best Beer IPA">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestBeerIPADesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12040,6 +12306,7 @@
             </property>
         </item>
         <item name="The Way To Beer Lager">
+            <property name="DescriptionKey" value="farmLifeTheWayToBeerLagerDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12057,6 +12324,7 @@
             </property>
         </item>
         <item name="Beer Stout 101">
+            <property name="DescriptionKey" value="farmLifeBeerStout101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12074,6 +12342,7 @@
             </property>
         </item>
         <item name="Mastering: Beet Juice">
+            <property name="DescriptionKey" value="farmLifeMastering:BeetJuiceDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12091,6 +12360,7 @@
             </property>
         </item>
         <item name="How-To Beet Salad">
+            <property name="DescriptionKey" value="farmLifeHow-ToBeetSaladDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12108,6 +12378,7 @@
             </property>
         </item>
         <item name="Biscuit JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeBiscuitJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12125,6 +12396,7 @@
             </property>
         </item>
         <item name="How-To Biscuits and Gravy">
+            <property name="DescriptionKey" value="farmLifeHow-ToBiscuitsandGravyDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12142,6 +12414,7 @@
             </property>
         </item>
         <item name="Mastering: Blueberry Ice Cream">
+            <property name="DescriptionKey" value="farmLifeMastering:BlueberryIceCreamDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12159,6 +12432,7 @@
             </property>
         </item>
         <item name="Grandmas Best Boiled Linguini">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestBoiledLinguiniDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12176,6 +12450,7 @@
             </property>
         </item>
         <item name="How-To Boiled Penne">
+            <property name="DescriptionKey" value="farmLifeHow-ToBoiledPenneDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12193,6 +12468,7 @@
             </property>
         </item>
         <item name="Best Approaches: Boiled Rigatoni">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:BoiledRigatoniDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12210,6 +12486,7 @@
             </property>
         </item>
         <item name="Boiled Spaghetti JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeBoiledSpaghettiJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12226,7 +12503,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="The Boiler Method">
+            <property name="DescriptionKey" value="farmLifeTheBoilerMethodDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_boiler_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="The Basics: Bolognese Dish">
+            <property name="DescriptionKey" value="farmLifeTheBasics:BologneseDishDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12244,6 +12540,7 @@
             </property>
         </item>
         <item name="Mastering: Bolognese Sauce">
+            <property name="DescriptionKey" value="farmLifeMastering:BologneseSauceDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12261,6 +12558,7 @@
             </property>
         </item>
         <item name="The Basics: Bottle Capper">
+            <property name="DescriptionKey" value="farmLifeTheBasics:BottleCapperDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12278,6 +12576,7 @@
             </property>
         </item>
         <item name="Bourbon by stasis78">
+            <property name="DescriptionKey" value="farmLifeBourbonbystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12295,6 +12594,7 @@
             </property>
         </item>
         <item name="Making an Expert: Bowl of Rice">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:BowlofRiceDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12312,6 +12612,7 @@
             </property>
         </item>
         <item name="Making an Expert: Brazilian Grilled Pineapple">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:BrazilianGrilledPineappleDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12329,6 +12630,7 @@
             </property>
         </item>
         <item name="Bulleeet Rye For Dumbfucks">
+            <property name="DescriptionKey" value="farmLifeBulleeetRyeForDumbfucksDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12346,6 +12648,7 @@
             </property>
         </item>
         <item name="The Basics: Burger Basket">
+            <property name="DescriptionKey" value="farmLifeTheBasics:BurgerBasketDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12363,6 +12666,7 @@
             </property>
         </item>
         <item name="The Basics: Buttery Delmontico">
+            <property name="DescriptionKey" value="farmLifeTheBasics:ButteryDelmonticoDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12380,6 +12684,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Cabernet Sauvignon">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:CabernetSauvignonDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12397,6 +12702,7 @@
             </property>
         </item>
         <item name="Everything About: Canned Olives">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:CannedOlivesDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12413,7 +12719,62 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Carboy - Ancient Arts">
+            <property name="DescriptionKey" value="farmLifeCarboy-AncientArtsDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_carboy_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Guide To: Caste Iron Skillet">
+            <property name="DescriptionKey" value="farmLifeGuideTo:CasteIronSkilletDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_caste_iron_skillet_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Ceramic Dutch Oven 101">
+            <property name="DescriptionKey" value="farmLifeCeramicDutchOven101Desc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_ceramic_dutch_oven_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Chardonne 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeChardonne1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12431,6 +12792,7 @@
             </property>
         </item>
         <item name="Charred Barrel 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeCharredBarrel1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12448,6 +12810,7 @@
             </property>
         </item>
         <item name="Making an Expert: Cheddar">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:CheddarDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12465,6 +12828,7 @@
             </property>
         </item>
         <item name="Cheese Pizza by stasis78">
+            <property name="DescriptionKey" value="farmLifeCheesePizzabystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12482,6 +12846,7 @@
             </property>
         </item>
         <item name="The Way To Cheese Press">
+            <property name="DescriptionKey" value="farmLifeTheWayToCheesePressDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12499,6 +12864,7 @@
             </property>
         </item>
         <item name="Cheeseburger by stasis78">
+            <property name="DescriptionKey" value="farmLifeCheeseburgerbystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12516,6 +12882,7 @@
             </property>
         </item>
         <item name="The Basics: Cherry Ice Cream">
+            <property name="DescriptionKey" value="farmLifeTheBasics:CherryIceCreamDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12533,6 +12900,7 @@
             </property>
         </item>
         <item name="Cherry Pie 101">
+            <property name="DescriptionKey" value="farmLifeCherryPie101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12550,6 +12918,7 @@
             </property>
         </item>
         <item name="Chicken Tamale - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeChickenTamale-YOUCanTooDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12567,6 +12936,7 @@
             </property>
         </item>
         <item name="Everything About: Chile Relleno">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:ChileRellenoDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12584,6 +12954,7 @@
             </property>
         </item>
         <item name="Mastering: Chilled Cucumber Yogurt Soup">
+            <property name="DescriptionKey" value="farmLifeMastering:ChilledCucumberYogurtSoupDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12601,6 +12972,7 @@
             </property>
         </item>
         <item name="Best Approaches: Chips and Salsa">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:ChipsandSalsaDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12618,6 +12990,7 @@
             </property>
         </item>
         <item name="The Chopped Romaine Method">
+            <property name="DescriptionKey" value="farmLifeTheChoppedRomaineMethodDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12635,6 +13008,7 @@
             </property>
         </item>
         <item name="The Basics: Chopped Walnuts">
+            <property name="DescriptionKey" value="farmLifeTheBasics:ChoppedWalnutsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12651,7 +13025,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Everything About: Clay Pot">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:ClayPotDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_clay_pot_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Grandmas Best Coconut Ice Cream">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestCoconutIceCreamDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12669,6 +13062,7 @@
             </property>
         </item>
         <item name="Coffee Elk Jerky - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeCoffeeElkJerky-YOUCanTooDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12686,6 +13080,7 @@
             </property>
         </item>
         <item name="Making an Expert: Cooked Bacon">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:CookedBaconDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12703,6 +13098,7 @@
             </property>
         </item>
         <item name="Grandmas Best Cooked Black Bean">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestCookedBlackBeanDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12720,6 +13116,7 @@
             </property>
         </item>
         <item name="How-To Cooked Kidney Bean">
+            <property name="DescriptionKey" value="farmLifeHow-ToCookedKidneyBeanDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12737,6 +13134,7 @@
             </property>
         </item>
         <item name="The BEST Cooked Pinto Bean ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTCookedPintoBeanever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12754,6 +13152,7 @@
             </property>
         </item>
         <item name="Corn Tortillas JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeCornTortillasJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12771,6 +13170,7 @@
             </property>
         </item>
         <item name="The Country Boy Breakfast Method">
+            <property name="DescriptionKey" value="farmLifeTheCountryBoyBreakfastMethodDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12788,6 +13188,7 @@
             </property>
         </item>
         <item name="Crunchy Celery 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeCrunchyCelery1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12805,6 +13206,7 @@
             </property>
         </item>
         <item name="How-To Crushed Tomato">
+            <property name="DescriptionKey" value="farmLifeHow-ToCrushedTomatoDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12822,6 +13224,7 @@
             </property>
         </item>
         <item name="Making an Expert: Cut Green Beans">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:CutGreenBeansDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12839,6 +13242,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Damascus Knife">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:DamascusKnifeDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12856,6 +13260,7 @@
             </property>
         </item>
         <item name="Denver Omelette by stasis78">
+            <property name="DescriptionKey" value="farmLifeDenverOmelettebystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12873,6 +13278,7 @@
             </property>
         </item>
         <item name="The BEST Diced Carrot ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTDicedCarrotever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12890,6 +13296,7 @@
             </property>
         </item>
         <item name="Diced Dill - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeDicedDill-YOUCanTooDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12907,6 +13314,7 @@
             </property>
         </item>
         <item name="Making an Expert: Diced Green Peppers">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:DicedGreenPeppersDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12924,6 +13332,7 @@
             </property>
         </item>
         <item name="Mastering: Diced Mint">
+            <property name="DescriptionKey" value="farmLifeMastering:DicedMintDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12941,6 +13350,7 @@
             </property>
         </item>
         <item name="Making an Expert: Diced Tomatos">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:DicedTomatosDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12957,7 +13367,44 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Dough Hook 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeDoughHook1-2-3sDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_dough_hook_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Understanding: Drying Pan">
+            <property name="DescriptionKey" value="farmLifeUnderstanding:DryingPanDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_drying_pan_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Mastering: Egg Noodle Soup">
+            <property name="DescriptionKey" value="farmLifeMastering:EggNoodleSoupDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12975,6 +13422,7 @@
             </property>
         </item>
         <item name="Eggs Benedict JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeEggsBenedictJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -12992,6 +13440,7 @@
             </property>
         </item>
         <item name="Elk Jerky 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeElkJerky1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13009,6 +13458,7 @@
             </property>
         </item>
         <item name="Advanced - English Muffin">
+            <property name="DescriptionKey" value="farmLifeAdvanced-EnglishMuffinDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13026,6 +13476,7 @@
             </property>
         </item>
         <item name="Guide To: Fajitas Platter">
+            <property name="DescriptionKey" value="farmLifeGuideTo:FajitasPlatterDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13043,6 +13494,7 @@
             </property>
         </item>
         <item name="Making an Expert: Floor Corker">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:FloorCorkerDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13060,6 +13512,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Florentine Omelette">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:FlorentineOmeletteDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13077,6 +13530,7 @@
             </property>
         </item>
         <item name="The Way To Flour Tortillas">
+            <property name="DescriptionKey" value="farmLifeTheWayToFlourTortillasDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13094,6 +13548,7 @@
             </property>
         </item>
         <item name="Making an Expert: Food Processor">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:FoodProcessorDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13111,6 +13566,7 @@
             </property>
         </item>
         <item name="Fried Eggs 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeFriedEggs1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13128,6 +13584,7 @@
             </property>
         </item>
         <item name="Fried Ham Steak For Dumbfucks">
+            <property name="DescriptionKey" value="farmLifeFriedHamSteakForDumbfucksDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13145,6 +13602,7 @@
             </property>
         </item>
         <item name="Fried Okra JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeFriedOkraJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13162,6 +13620,7 @@
             </property>
         </item>
         <item name="Fruit Pancakes - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeFruitPancakes-YOUCanTooDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13179,6 +13638,7 @@
             </property>
         </item>
         <item name="Fruit Smoothie For Dumbfucks">
+            <property name="DescriptionKey" value="farmLifeFruitSmoothieForDumbfucksDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13196,6 +13656,7 @@
             </property>
         </item>
         <item name="Understanding: Fuego en el Culo">
+            <property name="DescriptionKey" value="farmLifeUnderstanding:FuegoenelCuloDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13213,6 +13674,7 @@
             </property>
         </item>
         <item name="Best Approaches: Full Stack 'o Pancakes">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:FullStackoPancakesDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13230,6 +13692,7 @@
             </property>
         </item>
         <item name="Advanced - Garlic Green Beans">
+            <property name="DescriptionKey" value="farmLifeAdvanced-GarlicGreenBeansDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13247,6 +13710,7 @@
             </property>
         </item>
         <item name="Understanding: Grain Miller">
+            <property name="DescriptionKey" value="farmLifeUnderstanding:GrainMillerDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13264,6 +13728,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Grandma's Omelette">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:GrandmasOmeletteDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13281,6 +13746,7 @@
             </property>
         </item>
         <item name="The BEST Grated Cucumber ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTGratedCucumberever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13298,6 +13764,7 @@
             </property>
         </item>
         <item name="The BEST Grilled Squash ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTGrilledSquashever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13315,6 +13782,7 @@
             </property>
         </item>
         <item name="Grits For Dumbfucks">
+            <property name="DescriptionKey" value="farmLifeGritsForDumbfucksDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13332,6 +13800,7 @@
             </property>
         </item>
         <item name="The BEST Ground Beef ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTGroundBeefever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13349,6 +13818,7 @@
             </property>
         </item>
         <item name="The BEST Ground Veal ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTGroundVealever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13366,6 +13836,7 @@
             </property>
         </item>
         <item name="Making an Expert: Guac and Chips">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:GuacandChipsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13383,6 +13854,7 @@
             </property>
         </item>
         <item name="Everything About: Guacamole">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:GuacamoleDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13400,6 +13872,7 @@
             </property>
         </item>
         <item name="Everything About: Ham Steak">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:HamSteakDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13417,6 +13890,7 @@
             </property>
         </item>
         <item name="Hamburger - Ancient Arts">
+            <property name="DescriptionKey" value="farmLifeHamburger-AncientArtsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13434,6 +13908,7 @@
             </property>
         </item>
         <item name="How-To Hamburger Bun">
+            <property name="DescriptionKey" value="farmLifeHow-ToHamburgerBunDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13451,6 +13926,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Hashbrowns">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:HashbrownsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13467,7 +13943,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="The BEST Ice Cream Bowl ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTIceCreamBowlever!Desc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_ice_cream_bowl_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Jar Airlock - Ancient Arts">
+            <property name="DescriptionKey" value="farmLifeJarAirlock-AncientArtsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13485,6 +13980,7 @@
             </property>
         </item>
         <item name="Joel's Breakfast - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeJoelsBreakfast-YOUCanTooDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13502,6 +13998,7 @@
             </property>
         </item>
         <item name="Everything About: Ketchup">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:KetchupDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13519,6 +14016,7 @@
             </property>
         </item>
         <item name="The Way To Lemon Lime Coolaid">
+            <property name="DescriptionKey" value="farmLifeTheWayToLemonLimeCoolaidDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13536,6 +14034,7 @@
             </property>
         </item>
         <item name="Linguini - Ancient Arts">
+            <property name="DescriptionKey" value="farmLifeLinguini-AncientArtsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13553,6 +14052,7 @@
             </property>
         </item>
         <item name="The Liquid Veg Method">
+            <property name="DescriptionKey" value="farmLifeTheLiquidVegMethodDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13569,7 +14069,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Best Approaches: Malting Trays">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:MaltingTraysDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_malting_trays_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Maple Syrup - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeMapleSyrup-YOUCanTooDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13587,6 +14106,7 @@
             </property>
         </item>
         <item name="Marinara JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeMarinaraJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13604,6 +14124,7 @@
             </property>
         </item>
         <item name="Masher JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeMasherJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13621,6 +14142,7 @@
             </property>
         </item>
         <item name="Best Approaches: Meat Grinder">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:MeatGrinderDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13637,7 +14159,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Making an Expert: Meat Hanger">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:MeatHangerDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_meat_hanger_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Meatballs 101">
+            <property name="DescriptionKey" value="farmLifeMeatballs101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13655,6 +14196,7 @@
             </property>
         </item>
         <item name="Merlot 101">
+            <property name="DescriptionKey" value="farmLifeMerlot101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13672,6 +14214,7 @@
             </property>
         </item>
         <item name="Best Approaches: Mexican Black Beans">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:MexicanBlackBeansDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13689,6 +14232,7 @@
             </property>
         </item>
         <item name="Grandmas Best Mexican Combo 3">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestMexicanCombo3Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13706,6 +14250,7 @@
             </property>
         </item>
         <item name="Grandmas Best Mexican Combo 69">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestMexicanCombo69Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13723,6 +14268,7 @@
             </property>
         </item>
         <item name="Making an Expert: Milk">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:MilkDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13740,6 +14286,7 @@
             </property>
         </item>
         <item name="Everything About: Minced Onion">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:MincedOnionDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13757,6 +14304,7 @@
             </property>
         </item>
         <item name="Miso Paste 101">
+            <property name="DescriptionKey" value="farmLifeMisoPaste101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13774,6 +14322,7 @@
             </property>
         </item>
         <item name="Mastering: Miso Soup">
+            <property name="DescriptionKey" value="farmLifeMastering:MisoSoupDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13791,6 +14340,7 @@
             </property>
         </item>
         <item name="The Mixed Greens Method">
+            <property name="DescriptionKey" value="farmLifeTheMixedGreensMethodDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13807,7 +14357,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Making an Expert: Mixing Bowl">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:MixingBowlDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_mixing_bowl_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Understanding: Mixing Cask">
+            <property name="DescriptionKey" value="farmLifeUnderstanding:MixingCaskDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13825,6 +14394,7 @@
             </property>
         </item>
         <item name="Mastering: Mojito">
+            <property name="DescriptionKey" value="farmLifeMastering:MojitoDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13842,6 +14412,7 @@
             </property>
         </item>
         <item name="The BEST Oak Barrel ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTOakBarrelever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13859,6 +14430,7 @@
             </property>
         </item>
         <item name="Old Timer's Breakfast 101">
+            <property name="DescriptionKey" value="farmLifeOldTimersBreakfast101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13876,6 +14448,7 @@
             </property>
         </item>
         <item name="The Basics: Orange Juice">
+            <property name="DescriptionKey" value="farmLifeTheBasics:OrangeJuiceDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13893,6 +14466,7 @@
             </property>
         </item>
         <item name="Understanding: Pancake">
+            <property name="DescriptionKey" value="farmLifeUnderstanding:PancakeDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13910,6 +14484,7 @@
             </property>
         </item>
         <item name="How-To Pancetta">
+            <property name="DescriptionKey" value="farmLifeHow-ToPancettaDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13927,6 +14502,7 @@
             </property>
         </item>
         <item name="Guide To: Pancetta Linguini">
+            <property name="DescriptionKey" value="farmLifeGuideTo:PancettaLinguiniDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13944,6 +14520,7 @@
             </property>
         </item>
         <item name="Understanding: Parmesan">
+            <property name="DescriptionKey" value="farmLifeUnderstanding:ParmesanDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13961,6 +14538,7 @@
             </property>
         </item>
         <item name="The Basics: Parmesan Crusted Chicken">
+            <property name="DescriptionKey" value="farmLifeTheBasics:ParmesanCrustedChickenDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13978,6 +14556,7 @@
             </property>
         </item>
         <item name="Grandmas Best Pasta Helper">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestPastaHelperDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -13995,6 +14574,7 @@
             </property>
         </item>
         <item name="Penne - Ancient Arts">
+            <property name="DescriptionKey" value="farmLifePenne-AncientArtsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14012,6 +14592,7 @@
             </property>
         </item>
         <item name="Penne Pesto 101">
+            <property name="DescriptionKey" value="farmLifePennePesto101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14029,6 +14610,7 @@
             </property>
         </item>
         <item name="Best Approaches: Pesto">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:PestoDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14046,6 +14628,7 @@
             </property>
         </item>
         <item name="The Basics: Pickled Ginger">
+            <property name="DescriptionKey" value="farmLifeTheBasics:PickledGingerDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14063,6 +14646,7 @@
             </property>
         </item>
         <item name="Everything About: Pina Colada">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:PinaColadaDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14080,6 +14664,7 @@
             </property>
         </item>
         <item name="Making an Expert: Pink Rose">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:PinkRoseDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14097,6 +14682,7 @@
             </property>
         </item>
         <item name="Mastering: Pizza Cutter">
+            <property name="DescriptionKey" value="farmLifeMastering:PizzaCutterDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14113,7 +14699,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="The Way To Pizza Stone">
+            <property name="DescriptionKey" value="farmLifeTheWayToPizzaStoneDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_pizza_stone_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="The Way To Plain Ice Cream">
+            <property name="DescriptionKey" value="farmLifeTheWayToPlainIceCreamDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14131,6 +14736,7 @@
             </property>
         </item>
         <item name="Plain Kefir 101">
+            <property name="DescriptionKey" value="farmLifePlainKefir101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14148,6 +14754,7 @@
             </property>
         </item>
         <item name="Plain Yogurt by stasis78">
+            <property name="DescriptionKey" value="farmLifePlainYogurtbystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14165,6 +14772,7 @@
             </property>
         </item>
         <item name="Poached Eggs 101">
+            <property name="DescriptionKey" value="farmLifePoachedEggs101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14182,6 +14790,7 @@
             </property>
         </item>
         <item name="Guide To: Pork Chimichanga">
+            <property name="DescriptionKey" value="farmLifeGuideTo:PorkChimichangaDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14199,6 +14808,7 @@
             </property>
         </item>
         <item name="Port Wine - Ancient Arts">
+            <property name="DescriptionKey" value="farmLifePortWine-AncientArtsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14216,6 +14826,7 @@
             </property>
         </item>
         <item name="Pulled Chicken - Techniques">
+            <property name="DescriptionKey" value="farmLifePulledChicken-TechniquesDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14233,6 +14844,7 @@
             </property>
         </item>
         <item name="The Way To Pulled Pork">
+            <property name="DescriptionKey" value="farmLifeTheWayToPulledPorkDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14249,7 +14861,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="The BEST PyreX Bakeware ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTPyreXBakewareever!Desc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_pyrex_bakeware_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Queso Fresco For Dumbfucks">
+            <property name="DescriptionKey" value="farmLifeQuesoFrescoForDumbfucksDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14267,6 +14898,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Raspberry Ice Cream">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:RaspberryIceCreamDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14284,6 +14916,7 @@
             </property>
         </item>
         <item name="The Red Wine and Peppercorn Porterhouse Method">
+            <property name="DescriptionKey" value="farmLifeTheRedWineandPeppercornPorterhouseMethodDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14301,6 +14934,7 @@
             </property>
         </item>
         <item name="Guide To: Refried Beans">
+            <property name="DescriptionKey" value="farmLifeGuideTo:RefriedBeansDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14318,6 +14952,7 @@
             </property>
         </item>
         <item name="Best Approaches: Rigatoni">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:RigatoniDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14335,6 +14970,7 @@
             </property>
         </item>
         <item name="Grandmas Best Risotto">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestRisottoDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14352,6 +14988,7 @@
             </property>
         </item>
         <item name="The BEST Roasted Brussels Sprouts ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTRoastedBrusselsSproutsever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14369,6 +15006,7 @@
             </property>
         </item>
         <item name="Roasted Carrot - Techniques">
+            <property name="DescriptionKey" value="farmLifeRoastedCarrot-TechniquesDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14386,6 +15024,7 @@
             </property>
         </item>
         <item name="Roland's Breakfast - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeRolandsBreakfast-YOUCanTooDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14403,6 +15042,7 @@
             </property>
         </item>
         <item name="Romaine Salad by stasis78">
+            <property name="DescriptionKey" value="farmLifeRomaineSaladbystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14420,6 +15060,7 @@
             </property>
         </item>
         <item name="Rump Roast Stew JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeRumpRoastStewJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14437,6 +15078,7 @@
             </property>
         </item>
         <item name="Best Approaches: Sauerkraut">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:SauerkrautDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14454,6 +15096,7 @@
             </property>
         </item>
         <item name="Grandmas Best Sausage Gravy">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestSausageGravyDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14471,6 +15114,7 @@
             </property>
         </item>
         <item name="Sausage Patty 101">
+            <property name="DescriptionKey" value="farmLifeSausagePatty101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14488,6 +15132,7 @@
             </property>
         </item>
         <item name="Advanced - Sauteed Onions">
+            <property name="DescriptionKey" value="farmLifeAdvanced-SauteedOnionsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14505,6 +15150,7 @@
             </property>
         </item>
         <item name="Scotch 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeScotch1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14522,6 +15168,7 @@
             </property>
         </item>
         <item name="The BEST Shredded Cabbage ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTShreddedCabbageever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14539,6 +15186,7 @@
             </property>
         </item>
         <item name="The Way To Shredded Carrot">
+            <property name="DescriptionKey" value="farmLifeTheWayToShreddedCarrotDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14556,6 +15204,7 @@
             </property>
         </item>
         <item name="The BEST Shredded Cheddar ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTShreddedCheddarever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14573,6 +15222,7 @@
             </property>
         </item>
         <item name="The Basics: Shredded Lettuce">
+            <property name="DescriptionKey" value="farmLifeTheBasics:ShreddedLettuceDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14590,6 +15240,7 @@
             </property>
         </item>
         <item name="How-To Side of Bacon">
+            <property name="DescriptionKey" value="farmLifeHow-ToSideofBaconDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14607,6 +15258,7 @@
             </property>
         </item>
         <item name="How-To Simple Syrup">
+            <property name="DescriptionKey" value="farmLifeHow-ToSimpleSyrupDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14624,6 +15276,7 @@
             </property>
         </item>
         <item name="Sliced Apples 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeSlicedApples1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14641,6 +15294,7 @@
             </property>
         </item>
         <item name="Sliced Avocado 101">
+            <property name="DescriptionKey" value="farmLifeSlicedAvocado101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14658,6 +15312,7 @@
             </property>
         </item>
         <item name="Making an Expert: Sliced Beets">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:SlicedBeetsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14675,6 +15330,7 @@
             </property>
         </item>
         <item name="Sliced Bread JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeSlicedBreadJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14692,6 +15348,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Sliced Broccoli">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:SlicedBroccoliDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14709,6 +15366,7 @@
             </property>
         </item>
         <item name="Mastering: Sliced Ginger">
+            <property name="DescriptionKey" value="farmLifeMastering:SlicedGingerDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14726,6 +15384,7 @@
             </property>
         </item>
         <item name="Sliced Green Bell 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeSlicedGreenBell1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14743,6 +15402,7 @@
             </property>
         </item>
         <item name="How-To Sliced Ham">
+            <property name="DescriptionKey" value="farmLifeHow-ToSlicedHamDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14760,6 +15420,7 @@
             </property>
         </item>
         <item name="Advanced - Sliced Jalapeno">
+            <property name="DescriptionKey" value="farmLifeAdvanced-SlicedJalapenoDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14777,6 +15438,7 @@
             </property>
         </item>
         <item name="Mastering: Sliced Mushrooms">
+            <property name="DescriptionKey" value="farmLifeMastering:SlicedMushroomsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14794,6 +15456,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Sliced Okra">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:SlicedOkraDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14811,6 +15474,7 @@
             </property>
         </item>
         <item name="Sliced Pear For Dumbfucks">
+            <property name="DescriptionKey" value="farmLifeSlicedPearForDumbfucksDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14828,6 +15492,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Sliced Red Bell">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:SlicedRedBellDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14845,6 +15510,7 @@
             </property>
         </item>
         <item name="Sliced Squash For Dumbfucks">
+            <property name="DescriptionKey" value="farmLifeSlicedSquashForDumbfucksDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14862,6 +15528,7 @@
             </property>
         </item>
         <item name="Sliced Steak - Ancient Arts">
+            <property name="DescriptionKey" value="farmLifeSlicedSteak-AncientArtsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14879,6 +15546,7 @@
             </property>
         </item>
         <item name="The Way To Sliced Yellow Bell">
+            <property name="DescriptionKey" value="farmLifeTheWayToSlicedYellowBellDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14896,6 +15564,7 @@
             </property>
         </item>
         <item name="Smoked Chicken by stasis78">
+            <property name="DescriptionKey" value="farmLifeSmokedChickenbystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14913,6 +15582,7 @@
             </property>
         </item>
         <item name="Understanding: Smoked Pork Ribs">
+            <property name="DescriptionKey" value="farmLifeUnderstanding:SmokedPorkRibsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14929,7 +15599,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Smoker Mat For Dumbfucks">
+            <property name="DescriptionKey" value="farmLifeSmokerMatForDumbfucksDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_smoker_mat_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Best Approaches: Spaghetti and Meatballs">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:SpaghettiandMeatballsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14947,6 +15636,7 @@
             </property>
         </item>
         <item name="Advanced - Spanish Rice">
+            <property name="DescriptionKey" value="farmLifeAdvanced-SpanishRiceDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14963,7 +15653,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Everything About: Spatula">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:SpatulaDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_spatula_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Grandmas Best Spicy BBQ Sauce">
+            <property name="DescriptionKey" value="farmLifeGrandmasBestSpicyBBQSauceDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14981,6 +15690,7 @@
             </property>
         </item>
         <item name="Spicy Chicken Wings 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeSpicyChickenWings1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -14998,6 +15708,7 @@
             </property>
         </item>
         <item name="Spicy Elk Jerky by stasis78">
+            <property name="DescriptionKey" value="farmLifeSpicyElkJerkybystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15015,6 +15726,7 @@
             </property>
         </item>
         <item name="Spicy Salsa - Techniques">
+            <property name="DescriptionKey" value="farmLifeSpicySalsa-TechniquesDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15032,6 +15744,7 @@
             </property>
         </item>
         <item name="The Way To Spirits Vat">
+            <property name="DescriptionKey" value="farmLifeTheWayToSpiritsVatDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15049,6 +15762,7 @@
             </property>
         </item>
         <item name="Steak Burrito JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeSteakBurritoJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15066,6 +15780,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Steamed Broccoli">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:SteamedBroccoliDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15082,7 +15797,44 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Steeping Tun For Dumbfucks">
+            <property name="DescriptionKey" value="farmLifeSteepingTunForDumbfucksDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_steeping_tun_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Even Idiots Can Make: Still">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:StillDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_still_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Stir Fry Vegetables 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeStirFryVegetables1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15100,6 +15852,7 @@
             </property>
         </item>
         <item name="Strawberry Ice Cream 101">
+            <property name="DescriptionKey" value="farmLifeStrawberryIceCream101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15117,6 +15870,7 @@
             </property>
         </item>
         <item name="Sunrise Sampler 101">
+            <property name="DescriptionKey" value="farmLifeSunriseSampler101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15134,6 +15888,7 @@
             </property>
         </item>
         <item name="Swiss Cheese JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeSwissCheeseJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15150,7 +15905,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Tongs 101">
+            <property name="DescriptionKey" value="farmLifeTongs101Desc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_tongs_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Tortillas Chips JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeTortillasChipsJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15168,6 +15942,7 @@
             </property>
         </item>
         <item name="Best Approaches: Triple Taco Tuesday">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:TripleTacoTuesdayDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15184,7 +15959,26 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Turkey Rack - Ancient Arts">
+            <property name="DescriptionKey" value="farmLifeTurkeyRack-AncientArtsDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_turkey_rack_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Making an Expert: Vegetable Pasta Meal">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:VegetablePastaMealDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15202,6 +15996,7 @@
             </property>
         </item>
         <item name="Best Approaches: Veggie Attachment">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:VeggieAttachmentDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15219,6 +16014,7 @@
             </property>
         </item>
         <item name="Even Idiots Can Make: Veggie Mash">
+            <property name="DescriptionKey" value="farmLifeEvenIdiotsCanMake:VeggieMashDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15236,6 +16032,7 @@
             </property>
         </item>
         <item name="Vodka 1-2-3s">
+            <property name="DescriptionKey" value="farmLifeVodka1-2-3sDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15253,6 +16050,7 @@
             </property>
         </item>
         <item name="Wheat Bread JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeWheatBreadJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15270,6 +16068,7 @@
             </property>
         </item>
         <item name="The Whipped Cream Method">
+            <property name="DescriptionKey" value="farmLifeTheWhippedCreamMethodDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15287,6 +16086,7 @@
             </property>
         </item>
         <item name="Whiskey - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeWhiskey-YOUCanTooDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15304,6 +16104,7 @@
             </property>
         </item>
         <item name="Understanding: White Rum">
+            <property name="DescriptionKey" value="farmLifeUnderstanding:WhiteRumDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15321,6 +16122,7 @@
             </property>
         </item>
         <item name="The Way To White Zin">
+            <property name="DescriptionKey" value="farmLifeTheWayToWhiteZinDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15338,6 +16140,7 @@
             </property>
         </item>
         <item name="The BEST Wine Filter ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTWineFilterever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15355,6 +16158,7 @@
             </property>
         </item>
         <item name="Best Approaches: Wine Tank">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:WineTankDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15372,6 +16176,7 @@
             </property>
         </item>
         <item name="Advanced - Wok">
+            <property name="DescriptionKey" value="farmLifeAdvanced-WokDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15389,6 +16194,7 @@
             </property>
         </item>
         <item name="How-To Zhang Cleaver">
+            <property name="DescriptionKey" value="farmLifeHow-ToZhangCleaverDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15406,6 +16212,7 @@
             </property>
         </item>
         <item name="The Basics: Livestock">
+            <property name="DescriptionKey" value="farmLifeTheBasics:LivestockDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15423,6 +16230,7 @@
             </property>
         </item>
         <item name="The Tom Cat Method">
+            <property name="DescriptionKey" value="farmLifeTheTomCatMethodDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15440,6 +16248,7 @@
             </property>
         </item>
         <item name="The BEST Mesquite ever!">
+            <property name="DescriptionKey" value="farmLifeTheBESTMesquiteever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15457,6 +16266,7 @@
             </property>
         </item>
         <item name="Best Approaches: Farming Crops">
+            <property name="DescriptionKey" value="farmLifeBestApproaches:FarmingCropsDesc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15474,6 +16284,7 @@
             </property>
         </item>
         <item name="Growing Trees by stasis78">
+            <property name="DescriptionKey" value="farmLifeGrowingTreesbystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15491,6 +16302,7 @@
             </property>
         </item>
         <item name="Brew Cooker Volume 1">
+            <property name="DescriptionKey" value="farmLifeBrewCookerVolume1Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15508,6 +16320,7 @@
             </property>
         </item>
         <item name="Brew Station Volume 1">
+            <property name="DescriptionKey" value="farmLifeBrewStationVolume1Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15525,6 +16338,7 @@
             </property>
         </item>
         <item name="Chopping Board Volume 1">
+            <property name="DescriptionKey" value="farmLifeChoppingBoardVolume1Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15542,6 +16356,7 @@
             </property>
         </item>
         <item name="Cold Smoker Volume 1">
+            <property name="DescriptionKey" value="farmLifeColdSmokerVolume1Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15559,6 +16374,7 @@
             </property>
         </item>
         <item name="Fermentor Bench Volume 1">
+            <property name="DescriptionKey" value="farmLifeFermentorBenchVolume1Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15576,6 +16392,7 @@
             </property>
         </item>
         <item name="Gas Cooktop Volume 1">
+            <property name="DescriptionKey" value="farmLifeGasCooktopVolume1Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15593,6 +16410,7 @@
             </property>
         </item>
         <item name="Gas Oven Volume 1">
+            <property name="DescriptionKey" value="farmLifeGasOvenVolume1Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15610,6 +16428,7 @@
             </property>
         </item>
         <item name="KitchNaid Volume 1">
+            <property name="DescriptionKey" value="farmLifeKitchNaidVolume1Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
@@ -15627,6 +16446,7 @@
             </property>
         </item>
         <item name="Wood Grill Volume 1">
+            <property name="DescriptionKey" value="farmLifeWoodGrillVolume1Desc"/>
             <property name="CustomIcon" value="questMaster"/>
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="21"/>
