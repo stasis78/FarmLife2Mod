@@ -903,6 +903,22 @@
         <recipe name="Filtered White Zin" count="1" craft_time="2" craft_area="Brew Station" craft_tool="Wine Filter">
             <ingredient name="Raw White Zin" count="1"/>
         </recipe>
+        <recipe name="Fish Pellets" count="20" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Fish Pellets Step 2" count="1"/>
+            <ingredient name="Salmon Roe" count="5"/>
+        </recipe>
+        <recipe name="Fish Pellets Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
+            <ingredient name="Wheat" count="5"/>
+            <ingredient name="Broccoli" count="5"/>
+            <ingredient name="Spinach" count="5"/>
+            <ingredient name="Romaine" count="5"/>
+            <ingredient name="Carrot" count="5"/>
+        </recipe>
+        <recipe name="Fish Pellets Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Fish Pellets Step 1" count="1"/>
+            <ingredient name="Ground Pork" count="1"/>
+            <ingredient name="Ground Beef" count="1"/>
+        </recipe>
         <recipe name="Floor Corker" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="20"/>
             <ingredient name="resourceMechanicalParts" count="10"/>
@@ -1038,6 +1054,13 @@
         <recipe name="Green Beans with Bacon" count="10" craft_time="2" craft_area="Chopping Board">
             <ingredient name="Green Beans Bacon Step 1" count="1"/>
             <ingredient name="Green Beans Bacon Step 2" count="1"/>
+        </recipe>
+        <recipe name="Grilled Salmon Steak" count="1" craft_time="2" craft_area="Wood Grill" craft_tool="Tongs">
+            <ingredient name="Salmon Steak" count="2"/>
+            <ingredient name="Corn Husk" count="2"/>
+            <ingredient name="Salt and Pepper" count="2"/>
+            <ingredient name="Rosemary" count="2"/>
+            <ingredient name="Apple Woodchips" count="5"/>
         </recipe>
         <recipe name="Grilled Squash" count="1" craft_time="2" craft_area="Wood Grill" craft_tool="Tongs">
             <ingredient name="Squash" count="1"/>
@@ -1295,6 +1318,18 @@
             <ingredient name="resourceForgedIron" count="20"/>
             <ingredient name="resourceMechanicalParts" count="10"/>
         </recipe>
+        <recipe name="Mayo" count="20" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Mayo Step 2" count="1"/>
+            <ingredient name="Salt" count="2"/>
+        </recipe>
+        <recipe name="Mayo Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="foodEgg" count="5"/>
+            <ingredient name="Meyer Lemon" count="2"/>
+        </recipe>
+        <recipe name="Mayo Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Mayo Step 1" count="1"/>
+            <ingredient name="Olive Oil" count="5"/>
+        </recipe>
         <recipe name="Meat Grinder" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="resourceForgedIron" count="4"/>
             <ingredient name="resourceMechanicalParts" count="4"/>
@@ -1398,6 +1433,19 @@
             <ingredient name="Mint" count="1"/>
             <ingredient name="Simple Syrup" count="1"/>
             <ingredient name="White Rum" count="1"/>
+        </recipe>
+        <recipe name="Nori" count="20" craft_time="2" craft_area="Brew Cooker" craft_tool="Drying Pan">
+            <ingredient name="Nori Step 3" count="1"/>
+        </recipe>
+        <recipe name="Nori Step 1" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
+            <ingredient name="Seaweed" count="5"/>
+        </recipe>
+        <recipe name="Nori Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Nori Step 1" count="1"/>
+            <ingredient name="drinkJarBoiledWater" count="5"/>
+        </recipe>
+        <recipe name="Nori Step 3" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Pasta Helper">
+            <ingredient name="Nori Step 2" count="1"/>
         </recipe>
         <recipe name="Oak Barrel" count="1" craft_time="2" craft_area="workbench">
             <ingredient name="White Oak Plank" count="10"/>
@@ -1742,6 +1790,10 @@
             <ingredient name="Butter" count="1"/>
             <ingredient name="Ground Cinnamon" count="2"/>
         </recipe>
+        <recipe name="Rolling Mat" count="1" craft_time="2" craft_area="tablesaw">
+            <ingredient name="Walnut Wood Plank" count="1"/>
+            <ingredient name="Cheese Cloth" count="1"/>
+        </recipe>
         <recipe name="Romaine Salad" count="1" craft_time="2" craft_area="Chopping Board">
             <ingredient name="Chopped Romaine" count="3"/>
             <ingredient name="Sliced Mushrooms" count="2"/>
@@ -1757,6 +1809,20 @@
         </recipe>
         <recipe name="Rye Malt" count="50" craft_time="2" craft_area="Brew Cooker" craft_tool="Drying Pan">
             <ingredient name="Spouted Rye" count="50"/>
+        </recipe>
+        <recipe name="Sake Nigiri" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Sliced Sake" count="2"/>
+            <ingredient name="Sushi Rice" count="2"/>
+        </recipe>
+        <recipe name="Salmon Fillet" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Whole Salmon" count="1"/>
+        </recipe>
+        <recipe name="Salmon Pond" count="1" craft_time="2" craft_area="workbench">
+            <ingredient name="resourceConcreteMix" count="100"/>
+            <ingredient name="bucketRiverWater" count="10"/>
+        </recipe>
+        <recipe name="Salmon Steak" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Zhang Cleaver">
+            <ingredient name="Whole Salmon" count="1"/>
         </recipe>
         <recipe name="Salt" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Grain Miller">
             <ingredient name="Halite" count="1"/>
@@ -1878,6 +1944,9 @@
         <recipe name="Sliced Red Bell" count="3" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Red Bell" count="5"/>
         </recipe>
+        <recipe name="Sliced Sake" count="10" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Whole Salmon" count="1"/>
+        </recipe>
         <recipe name="Sliced Squash" count="5" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
             <ingredient name="Squash" count="3"/>
         </recipe>
@@ -1912,6 +1981,26 @@
             <ingredient name="Pork Ribs" count="1"/>
             <ingredient name="Apple Woodchips" count="2"/>
             <ingredient name="Walnut Woodchips" count="3"/>
+        </recipe>
+        <recipe name="Smoked Salmon" count="10" craft_time="2" craft_area="Chopping Board" craft_tool="Damascus Knife">
+            <ingredient name="Smoked Salmon Step 2" count="1"/>
+        </recipe>
+        <recipe name="Smoked Salmon Salad" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Smoked Salmon" count="3"/>
+            <ingredient name="Chopped Romaine" count="3"/>
+            <ingredient name="Diced Tomatos" count="3"/>
+            <ingredient name="Grated Cucumber" count="3"/>
+            <ingredient name="Salt and Pepper" count="2"/>
+        </recipe>
+        <recipe name="Smoked Salmon Step 1" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Salmon Fillet" count="5"/>
+            <ingredient name="Maple Syrup" count="5"/>
+            <ingredient name="Orange" count="3"/>
+        </recipe>
+        <recipe name="Smoked Salmon Step 2" count="1" craft_time="2" craft_area="Cold Smoker" craft_tool="Smoker Mat">
+            <ingredient name="Smoked Salmon Step 1" count="1"/>
+            <ingredient name="Walnut Woodchips" count="2"/>
+            <ingredient name="Apple Woodchips" count="3"/>
         </recipe>
         <recipe name="Smoker Mat" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolAnvil">
             <ingredient name="unit_iron" count="100"/>
@@ -1963,6 +2052,18 @@
             <ingredient name="Brined Spicy Elk" count="1"/>
             <ingredient name="Apple Woodchips" count="5"/>
         </recipe>
+        <recipe name="Spicy Mayo" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Mayo" count="10"/>
+            <ingredient name="Sriracha" count="3"/>
+            <ingredient name="Lime" count="1"/>
+        </recipe>
+        <recipe name="Spicy Salmon Roll" count="1" craft_time="2" craft_tool="Rolling Mat">
+            <ingredient name="Sliced Sake" count="3"/>
+            <ingredient name="Sliced Avocado" count="3"/>
+            <ingredient name="Sushi Rice" count="2"/>
+            <ingredient name="Spicy Mayo" count="2"/>
+            <ingredient name="Nori" count="2"/>
+        </recipe>
         <recipe name="Spicy Salsa" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Veggie Attachment">
             <ingredient name="Diced Tomatos" count="20"/>
             <ingredient name="Diced Onions" count="10"/>
@@ -1982,6 +2083,23 @@
         </recipe>
         <recipe name="Spouted Sorghum" count="50" craft_time="2" craft_area="Brew Station" craft_tool="Malting Trays">
             <ingredient name="Steeped Sorghum" count="50"/>
+        </recipe>
+        <recipe name="Sriracha" count="20" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Sriracha Step 3" count="1"/>
+        </recipe>
+        <recipe name="Sriracha Step 1" count="1" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Jalapeno Pepper" count="5"/>
+            <ingredient name="Pablano Pepper" count="5"/>
+            <ingredient name="Minced Garlic" count="5"/>
+            <ingredient name="Salt" count="2"/>
+        </recipe>
+        <recipe name="Sriracha Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Food Processor">
+            <ingredient name="Sriracha Step 1" count="1"/>
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="Raw Sugar" count="5"/>
+        </recipe>
+        <recipe name="Sriracha Step 3" count="1" craft_time="2" craft_area="Fermentor Bench" craft_tool="Clay Pot">
+            <ingredient name="Sriracha Step 2" count="1"/>
         </recipe>
         <recipe name="Steak Burrito" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="Caste Iron Skillet">
             <ingredient name="Steak Burrito Step 2" count="1"/>
@@ -2050,6 +2168,19 @@
             <ingredient name="Hashbrowns" count="1"/>
             <ingredient name="Biscuit" count="2"/>
             <ingredient name="Butter" count="2"/>
+        </recipe>
+        <recipe name="Sushi Rice" count="10" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
+            <ingredient name="Sushi Rice Step 1" count="1"/>
+            <ingredient name="Sushi Rice Step 2" count="1"/>
+        </recipe>
+        <recipe name="Sushi Rice Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Cooking Vinegar" count="2"/>
+            <ingredient name="Raw Sugar" count="2"/>
+            <ingredient name="Salt" count="2"/>
+        </recipe>
+        <recipe name="Sushi Rice Step 2" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
+            <ingredient name="Rice" count="5"/>
+            <ingredient name="drinkJarBoiledWater" count="5"/>
         </recipe>
         <recipe name="Swiss Cheese" count="50" craft_time="2" craft_area="Chopping Board" craft_tool="Zhang Cleaver">
             <ingredient name="Swiss Cheese Step 8" count="1"/>
@@ -2120,6 +2251,22 @@
         <recipe name="Turkey Rack" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolAndDieSet">
             <ingredient name="unit_iron" count="1000"/>
             <ingredient name="unit_clay" count="100"/>
+        </recipe>
+        <recipe name="Umeboshi" count="5" craft_time="2" craft_area="Chopping Board">
+            <ingredient name="Umeboshi Step 3" count="1"/>
+        </recipe>
+        <recipe name="Umeboshi Step 1" count="1" craft_time="2" craft_area="Fermentor Bench">
+            <ingredient name="Ume" count="10"/>
+            <ingredient name="bucketRiverWater" count="1"/>
+        </recipe>
+        <recipe name="Umeboshi Step 2" count="1" craft_time="2" craft_area="Fermentor Bench" craft_tool="Clay Pot">
+            <ingredient name="Umeboshi Step 1" count="1"/>
+            <ingredient name="Salt" count="20"/>
+            <ingredient name="Cheese Cloth" count="2"/>
+        </recipe>
+        <recipe name="Umeboshi Step 3" count="1" craft_time="2" craft_area="Fermentor Bench" craft_tool="Clay Pot">
+            <ingredient name="Umeboshi Step 2" count="1"/>
+            <ingredient name="Cheese Cloth" count="2"/>
         </recipe>
         <recipe name="Vegetable Oil" count="10" craft_time="2">
             <ingredient name="Vegetable Oil Step 1" count="10"/>
@@ -2393,6 +2540,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="The Way To Fish" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="The BEST Aged Barrel ever!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2426,6 +2577,10 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Advanced - Baked Rigatoni" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Way To Baking Sheet" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2513,6 +2668,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="The Boiler Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="The Basics: Bolognese Dish" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2557,6 +2716,22 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Carboy - Ancient Arts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Guide To: Caste Iron Skillet" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Cattle Feed" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Ceramic Dutch Oven 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Chardonne 1-2-3s" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2589,6 +2764,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Chicken Feed - YOU Can Too" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Chicken Tamale - YOU Can Too" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2610,6 +2789,10 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="The Basics: Chopped Walnuts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Clay Pot" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2685,6 +2868,14 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Dough Hook 1-2-3s" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Understanding: Drying Pan" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Mastering: Egg Noodle Soup" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2702,6 +2893,10 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Guide To: Fajitas Platter" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Fish Pellets 101" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2765,6 +2960,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Everything About: Grilled Salmon Steak" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="The BEST Grilled Squash ever!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2805,6 +3004,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="The BEST Ice Cream Bowl ever!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Jar Airlock - Ancient Arts" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2829,6 +3032,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Best Approaches: Malting Trays" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Maple Syrup - YOU Can Too" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2842,6 +3049,10 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Best Approaches: Meat Grinder" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Making an Expert: Meat Hanger" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2885,11 +3096,19 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Making an Expert: Mixing Bowl" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Understanding: Mixing Cask" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Mastering: Mojito" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Guide To: Nori" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -2957,6 +3176,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="The Way To Pizza Stone" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="The Way To Plain Ice Cream" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -2986,6 +3209,10 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="The Way To Pulled Pork" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The BEST PyreX Bakeware ever!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3025,11 +3252,27 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Everything About: Rolling Mat" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Romaine Salad by stasis78" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Rump Roast Stew JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="How-To Sake Nigiri" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Salmon Fillet - Techniques" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Salmon Steak - YOU Can Too" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3149,11 +3392,27 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Making an Expert: Smoked Salmon" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Mastering: Smoked Salmon Salad" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Smoker Mat For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Best Approaches: Spaghetti and Meatballs" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Advanced - Spanish Rice" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Everything About: Spatula" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3169,6 +3428,14 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Spicy Mayo - Techniques" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="The Spicy Salmon Roll Method" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Spicy Salsa - Techniques" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
@@ -3177,11 +3444,23 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Sriracha 101" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Steak Burrito JUST DO IT!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Even Idiots Can Make: Steamed Broccoli" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Steeping Tun For Dumbfucks" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Even Idiots Can Make: Still" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3197,7 +3476,15 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="Advanced - Sushi Rice" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="Swiss Cheese JUST DO IT!" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Tongs 101" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
@@ -3206,6 +3493,14 @@
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
         <recipe name="Best Approaches: Triple Taco Tuesday" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Turkey Rack - Ancient Arts" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
+        <recipe name="Umeboshi JUST DO IT!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
