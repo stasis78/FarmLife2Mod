@@ -48,6 +48,7 @@
         <item name="Romaine Seed"/>
         <item name="Rosemary Seed"/>
         <item name="Rye Seed"/>
+        <item name="Sakura Seed"/>
         <item name="Shallot Seed"/>
         <item name="Sorghum Seed"/>
         <item name="Soy Bean Seed"/>
@@ -68,6 +69,7 @@
         <item name="Black Pepper Tin"/>
         <item name="Air of Scotland"/>
         <item name="Bottle Cap"/>
+        <item name="Salmon Roe"/>
     </append>
     <append xpath="/lootcontainers/lootgroup[@name='cupboard']">
         <item name="Salt" prob="0.05"/>
@@ -76,5 +78,6 @@
         <item name="Black Pepper Tin" prob="0.05"/>
         <item name="Air of Scotland" prob="0.05"/>
         <item name="Bottle Cap" prob="0.05"/>
+        <item name="Salmon Roe" prob="0.05"/>
     </append>
 </configs>

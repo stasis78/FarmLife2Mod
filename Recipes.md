@@ -63,6 +63,7 @@ Station: **workbench** - Tool: **none**
 - 40 resourceNail
 
 ## <a name="Alkaline_Solution_toolWoodGrill_bucketRiverWater_Wood_Ash_Cheese_Cloth__"></a><a name="Alkaline_Solution"></a>Alkaline Solution - 1
+![image](FarmLife2Mod/ItemIcons/Alkaline%20Solution.png)
 
 Station: **Brew Cooker** - Tool: **none**
 
@@ -714,6 +715,7 @@ Station: **KitchNaid** - Tool: **Mixing Bowl**
 - 1 drinkJarBoiledWater
 
 ## <a name="Briney_Water__Salt_drinkJarBoiledWater___"></a><a name="Briney_Water"></a>Briney Water - 1
+![image](FarmLife2Mod/ItemIcons/Briney%20Water.png)
 
 Station: **none** - Tool: **none**
 
@@ -1318,14 +1320,12 @@ Station: **Chopping Board** - Tool: **Damascus Knife**
 - 5 Celery
 
 ## <a name="Diced_Cilantro_Food_Processor_Cilantro____"></a><a name="Diced_Cilantro"></a>Diced Cilantro - 5
-![image](FarmLife2Mod/ItemIcons/Diced%20Cilantro.png)
 
 Station: **KitchNaid** - Tool: **Food Processor**
 
 - 3 Cilantro
 
 ## <a name="Diced_Dill_Food_Processor_Dill____"></a><a name="Diced_Dill"></a>Diced Dill - 5
-![image](FarmLife2Mod/ItemIcons/Diced%20Dill.png)
 
 Station: **KitchNaid** - Tool: **Food Processor**
 
@@ -1346,14 +1346,12 @@ Station: **Chopping Board** - Tool: **Damascus Knife**
 - 3 [Ham Steak](#Ham_Steak)
 
 ## <a name="Diced_Mint_Damascus_Knife_Mint____"></a><a name="Diced_Mint"></a>Diced Mint - 5
-![image](FarmLife2Mod/ItemIcons/Diced%20Mint.png)
 
 Station: **Chopping Board** - Tool: **Damascus Knife**
 
 - 3 Mint
 
 ## <a name="Diced_Mint_Food_Processor_Mint____"></a><a name="Diced_Mint"></a>Diced Mint - 5
-![image](FarmLife2Mod/ItemIcons/Diced%20Mint.png)
 
 Station: **KitchNaid** - Tool: **Food Processor**
 
@@ -1633,6 +1631,32 @@ Station: **Brew Station** - Tool: **Wine Filter**
 
 - 1 [Raw White Zin](#Raw_White_Zin)
 
+## <a name="Fish_Pellets_toolChoppingBoard_Fish_Pellets_Step_2_Salmon_Roe___"></a><a name="Fish_Pellets"></a>Fish Pellets - 20
+![image](FarmLife2Mod/ItemIcons/Fish%20Pellets.png)
+
+Station: **Chopping Board** - Tool: **none**
+
+- 1 [Fish Pellets Step 2](#Fish_Pellets_Step_2)
+- 5 Salmon Roe
+
+## <a name="Fish_Pellets_Step_1_Veggie_Attachment_Wheat_Broccoli_Spinach_Romaine_Carrot"></a><a name="Fish_Pellets_Step_1"></a>Fish Pellets Step 1 - 1
+
+Station: **KitchNaid** - Tool: **Veggie Attachment**
+
+- 5 Wheat
+- 5 Broccoli
+- 5 Spinach
+- 5 Romaine
+- 5 Carrot
+
+## <a name="Fish_Pellets_Step_2_Mixing_Bowl_Fish_Pellets_Step_1_Ground_Pork_Ground_Beef__"></a><a name="Fish_Pellets_Step_2"></a>Fish Pellets Step 2 - 1
+
+Station: **KitchNaid** - Tool: **Mixing Bowl**
+
+- 1 [Fish Pellets Step 1](#Fish_Pellets_Step_1)
+- 1 [Ground Pork](#Ground_Pork)
+- 1 [Ground Beef](#Ground_Beef)
+
 ## <a name="Floor_Corker_toolWorkbench_resourceForgedIron_resourceMechanicalParts___"></a><a name="Floor_Corker"></a>Floor Corker - 1
 ![image](FarmLife2Mod/ItemIcons/Floor%20Corker.png)
 
@@ -1734,6 +1758,7 @@ Station: **Chopping Board** - Tool: **none**
 - 3 [Butter](#Butter)
 
 ## <a name="Fruit_Smoothie_Veggie_Attachment_Strawberry_Banana_foodCropBlueberries_Milk_"></a><a name="Fruit_Smoothie"></a>Fruit Smoothie - 1
+![image](FarmLife2Mod/ItemIcons/Fruit%20Smoothie.png)
 
 Station: **KitchNaid** - Tool: **Veggie Attachment**
 
@@ -1873,6 +1898,17 @@ Station: **Chopping Board** - Tool: **none**
 
 - 1 [Green Beans Bacon Step 1](#Green_Beans_Bacon_Step_1)
 - 1 [Green Beans Bacon Step 2](#Green_Beans_Bacon_Step_2)
+
+## <a name="Grilled_Salmon_Steak_Tongs_Salmon_Steak_Corn_Husk_Salt_and_Pepper_Rosemary_Apple_Woodchips"></a><a name="Grilled_Salmon_Steak"></a>Grilled Salmon Steak - 1
+![image](FarmLife2Mod/ItemIcons/Grilled%20Salmon%20Steak.png)
+
+Station: **Wood Grill** - Tool: **Tongs**
+
+- 2 [Salmon Steak](#Salmon_Steak)
+- 2 Corn Husk
+- 2 [Salt and Pepper](#Salt_and_Pepper)
+- 2 Rosemary
+- 5 [Apple Woodchips](#Apple_Woodchips)
 
 ## <a name="Grilled_Squash_Tongs_Squash_Corn_Husk_Salt_Black_Pepper_"></a><a name="Grilled_Squash"></a>Grilled Squash - 1
 ![image](FarmLife2Mod/ItemIcons/Grilled%20Squash.png)
@@ -2021,6 +2057,7 @@ Station: **Chopping Board** - Tool: **Zhang Cleaver**
 - 1 [Cured Ham](#Cured_Ham)
 
 ## <a name="Hamburger_Spatula_Hamburger_Patty_Hamburger_Fixings___"></a><a name="Hamburger"></a>Hamburger - 1
+![image](FarmLife2Mod/ItemIcons/Hamburger.png)
 
 Station: **Wood Grill** - Tool: **Spatula**
 
@@ -2084,6 +2121,7 @@ Station: **Gas Cooktop** - Tool: **toolCookingPot**
 - 3 [Butter](#Butter)
 
 ## <a name="Hungry_Angus_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Angus_Pen"></a>Hungry Angus Pen - 1
+![image](FarmLife2Mod/ItemIcons/Hungry%20Angus%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -2093,6 +2131,7 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ## <a name="Hungry_Chicken_Coop_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Chicken_Coop"></a>Hungry Chicken Coop - 1
+![image](FarmLife2Mod/ItemIcons/Hungry%20Chicken%20Coop.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -2102,6 +2141,7 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ## <a name="Hungry_Elk_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Elk_Pen"></a>Hungry Elk Pen - 1
+![image](FarmLife2Mod/ItemIcons/Hungry%20Elk%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -2111,6 +2151,7 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ## <a name="Hungry_Holstein_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Holstein_Pen"></a>Hungry Holstein Pen - 1
+![image](FarmLife2Mod/ItemIcons/Hungry%20Holstein%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -2120,6 +2161,7 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ## <a name="Hungry_Pig_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Pig_Pen"></a>Hungry Pig Pen - 1
+![image](FarmLife2Mod/ItemIcons/Hungry%20Pig%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -2129,6 +2171,7 @@ Station: **workbench** - Tool: **none**
 - 1 bucketEmpty
 
 ## <a name="Hungry_Veal_Pen_toolWorkbench_resourceForgedIron_resourceYuccaFibers_Feeding_Trough_bucketEmpty_"></a><a name="Hungry_Veal_Pen"></a>Hungry Veal Pen - 1
+![image](FarmLife2Mod/ItemIcons/Hungry%20Veal%20Pen.png)
 
 Station: **workbench** - Tool: **none**
 
@@ -2339,6 +2382,28 @@ Station: **workbench** - Tool: **none**
 - 20 resourceForgedIron
 - 10 resourceMechanicalParts
 
+## <a name="Mayo_toolChoppingBoard_Mayo_Step_2_Salt___"></a><a name="Mayo"></a>Mayo - 20
+![image](FarmLife2Mod/ItemIcons/Mayo.png)
+
+Station: **Chopping Board** - Tool: **none**
+
+- 1 [Mayo Step 2](#Mayo_Step_2)
+- 2 [Salt](#Salt)
+
+## <a name="Mayo_Step_1_Mixing_Bowl_foodEgg_Meyer_Lemon___"></a><a name="Mayo_Step_1"></a>Mayo Step 1 - 1
+
+Station: **KitchNaid** - Tool: **Mixing Bowl**
+
+- 5 foodEgg
+- 2 Meyer Lemon
+
+## <a name="Mayo_Step_2_Mixing_Bowl_Mayo_Step_1_Olive_Oil___"></a><a name="Mayo_Step_2"></a>Mayo Step 2 - 1
+
+Station: **KitchNaid** - Tool: **Mixing Bowl**
+
+- 1 [Mayo Step 1](#Mayo_Step_1)
+- 5 [Olive Oil](#Olive_Oil)
+
 ## <a name="Meat_Grinder_toolWorkbench_resourceForgedIron_resourceMechanicalParts_resourceScrapPolymers__"></a><a name="Meat_Grinder"></a>Meat Grinder - 1
 ![image](FarmLife2Mod/ItemIcons/Meat%20Grinder.png)
 
@@ -2526,6 +2591,32 @@ Station: **KitchNaid** - Tool: **Veggie Attachment**
 - 1 Mint
 - 1 [Simple Syrup](#Simple_Syrup)
 - 1 [White Rum](#White_Rum)
+
+## <a name="Nori_Drying_Pan_Nori_Step_3____"></a><a name="Nori"></a>Nori - 20
+![image](FarmLife2Mod/ItemIcons/Nori.png)
+
+Station: **Brew Cooker** - Tool: **Drying Pan**
+
+- 1 [Nori Step 3](#Nori_Step_3)
+
+## <a name="Nori_Step_1_Veggie_Attachment_Seaweed____"></a><a name="Nori_Step_1"></a>Nori Step 1 - 1
+
+Station: **KitchNaid** - Tool: **Veggie Attachment**
+
+- 5 Seaweed
+
+## <a name="Nori_Step_2_Mixing_Bowl_Nori_Step_1_drinkJarBoiledWater___"></a><a name="Nori_Step_2"></a>Nori Step 2 - 1
+
+Station: **KitchNaid** - Tool: **Mixing Bowl**
+
+- 1 [Nori Step 1](#Nori_Step_1)
+- 5 drinkJarBoiledWater
+
+## <a name="Nori_Step_3_Pasta_Helper_Nori_Step_2____"></a><a name="Nori_Step_3"></a>Nori Step 3 - 1
+
+Station: **KitchNaid** - Tool: **Pasta Helper**
+
+- 1 [Nori Step 2](#Nori_Step_2)
 
 ## <a name="Oak_Barrel_toolWorkbench_White_Oak_Plank_resourceForgedIron___"></a><a name="Oak_Barrel"></a>Oak Barrel - 1
 ![image](FarmLife2Mod/ItemIcons/Oak%20Barrel.png)
@@ -3048,7 +3139,6 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 2 [Lard](#Lard)
 
 ## <a name="Rennet__Rennet_Step_2_Cheese_Cloth_drinkJarEmpty__"></a><a name="Rennet"></a>Rennet - 15
-![image](FarmLife2Mod/ItemIcons/Rennet.png)
 
 Station: **none** - Tool: **none**
 
@@ -3146,6 +3236,14 @@ Station: **Gas Cooktop** - Tool: **Caste Iron Skillet**
 - 1 [Butter](#Butter)
 - 2 [Ground Cinnamon](#Ground_Cinnamon)
 
+## <a name="Rolling_Mat_toolTableSaw_Walnut_Wood_Plank_Cheese_Cloth___"></a><a name="Rolling_Mat"></a>Rolling Mat - 1
+![image](FarmLife2Mod/ItemIcons/Rolling%20Mat.png)
+
+Station: **tablesaw** - Tool: **none**
+
+- 1 Walnut Wood Plank
+- 1 [Cheese Cloth](#Cheese_Cloth)
+
 ## <a name="Romaine_Salad_toolChoppingBoard_Chopped_Romaine_Sliced_Mushrooms_Sliced_Pear_Olive_Oil_Salt_and_Pepper"></a><a name="Romaine_Salad"></a>Romaine Salad - 1
 ![image](FarmLife2Mod/ItemIcons/Romaine%20Salad.png)
 
@@ -3172,6 +3270,36 @@ Station: **Wood Grill** - Tool: **Ceramic Dutch Oven**
 Station: **Brew Cooker** - Tool: **Drying Pan**
 
 - 50 [Spouted Rye](#Spouted_Rye)
+
+## <a name="Sake_Nigiri_toolChoppingBoard_Sliced_Sake_Sushi_Rice___"></a><a name="Sake_Nigiri"></a>Sake Nigiri - 1
+![image](FarmLife2Mod/ItemIcons/Sake%20Nigiri.png)
+
+Station: **Chopping Board** - Tool: **none**
+
+- 2 [Sliced Sake](#Sliced_Sake)
+- 2 [Sushi Rice](#Sushi_Rice)
+
+## <a name="Salmon_Fillet_Damascus_Knife_Whole_Salmon____"></a><a name="Salmon_Fillet"></a>Salmon Fillet - 5
+![image](FarmLife2Mod/ItemIcons/Salmon%20Fillet.png)
+
+Station: **Chopping Board** - Tool: **Damascus Knife**
+
+- 1 Whole Salmon
+
+## <a name="Salmon_Pond_toolWorkbench_resourceConcreteMix_bucketRiverWater___"></a><a name="Salmon_Pond"></a>Salmon Pond - 1
+![image](FarmLife2Mod/ItemIcons/Salmon%20Pond.png)
+
+Station: **workbench** - Tool: **none**
+
+- 100 resourceConcreteMix
+- 10 bucketRiverWater
+
+## <a name="Salmon_Steak_Zhang_Cleaver_Whole_Salmon____"></a><a name="Salmon_Steak"></a>Salmon Steak - 5
+![image](FarmLife2Mod/ItemIcons/Salmon%20Steak.png)
+
+Station: **Chopping Board** - Tool: **Zhang Cleaver**
+
+- 1 Whole Salmon
 
 ## <a name="Salt_Grain_Miller_Halite____"></a><a name="Salt"></a>Salt - 10
 ![image](FarmLife2Mod/ItemIcons/Salt.png)
@@ -3429,6 +3557,13 @@ Station: **Chopping Board** - Tool: **Damascus Knife**
 
 - 5 Red Bell
 
+## <a name="Sliced_Sake_Damascus_Knife_Whole_Salmon____"></a><a name="Sliced_Sake"></a>Sliced Sake - 10
+![image](FarmLife2Mod/ItemIcons/Sliced%20Sake.png)
+
+Station: **Chopping Board** - Tool: **Damascus Knife**
+
+- 1 Whole Salmon
+
 ## <a name="Sliced_Squash_Damascus_Knife_Squash____"></a><a name="Sliced_Squash"></a>Sliced Squash - 5
 ![image](FarmLife2Mod/ItemIcons/Sliced%20Squash.png)
 
@@ -3499,7 +3634,42 @@ Station: **Cold Smoker** - Tool: **Meat Hanger**
 - 2 [Apple Woodchips](#Apple_Woodchips)
 - 3 [Walnut Woodchips](#Walnut_Woodchips)
 
+## <a name="Smoked_Salmon_Damascus_Knife_Smoked_Salmon_Step_2____"></a><a name="Smoked_Salmon"></a>Smoked Salmon - 10
+![image](FarmLife2Mod/ItemIcons/Smoked%20Salmon.png)
+
+Station: **Chopping Board** - Tool: **Damascus Knife**
+
+- 1 [Smoked Salmon Step 2](#Smoked_Salmon_Step_2)
+
+## <a name="Smoked_Salmon_Salad_toolChoppingBoard_Smoked_Salmon_Chopped_Romaine_Diced_Tomatos_Grated_Cucumber_Salt_and_Pepper"></a><a name="Smoked_Salmon_Salad"></a>Smoked Salmon Salad - 1
+![image](FarmLife2Mod/ItemIcons/Smoked%20Salmon%20Salad.png)
+
+Station: **Chopping Board** - Tool: **none**
+
+- 3 [Smoked Salmon](#Smoked_Salmon)
+- 3 [Chopped Romaine](#Chopped_Romaine)
+- 3 [Diced Tomatos](#Diced_Tomatos)
+- 3 [Grated Cucumber](#Grated_Cucumber)
+- 2 [Salt and Pepper](#Salt_and_Pepper)
+
+## <a name="Smoked_Salmon_Step_1_toolChoppingBoard_Salmon_Fillet_Maple_Syrup_Orange__"></a><a name="Smoked_Salmon_Step_1"></a>Smoked Salmon Step 1 - 1
+
+Station: **Chopping Board** - Tool: **none**
+
+- 5 [Salmon Fillet](#Salmon_Fillet)
+- 5 [Maple Syrup](#Maple_Syrup)
+- 3 Orange
+
+## <a name="Smoked_Salmon_Step_2_Smoker_Mat_Smoked_Salmon_Step_1_Walnut_Woodchips_Apple_Woodchips__"></a><a name="Smoked_Salmon_Step_2"></a>Smoked Salmon Step 2 - 1
+
+Station: **Cold Smoker** - Tool: **Smoker Mat**
+
+- 1 [Smoked Salmon Step 1](#Smoked_Salmon_Step_1)
+- 2 [Walnut Woodchips](#Walnut_Woodchips)
+- 3 [Apple Woodchips](#Apple_Woodchips)
+
 ## <a name="Smoker_Mat_toolAnvil_unit_iron_unit_clay___"></a><a name="Smoker_Mat"></a>Smoker Mat - 1
+![image](FarmLife2Mod/ItemIcons/Smoker%20Mat.png)
 
 Station: **forge** - Tool: **toolAnvil**
 
@@ -3585,6 +3755,26 @@ Station: **Cold Smoker** - Tool: **Smoker Mat**
 - 1 [Brined Spicy Elk](#Brined_Spicy_Elk)
 - 5 [Apple Woodchips](#Apple_Woodchips)
 
+## <a name="Spicy_Mayo_Mixing_Bowl_Mayo_Sriracha_Lime__"></a><a name="Spicy_Mayo"></a>Spicy Mayo - 10
+![image](FarmLife2Mod/ItemIcons/Spicy%20Mayo.png)
+
+Station: **KitchNaid** - Tool: **Mixing Bowl**
+
+- 10 [Mayo](#Mayo)
+- 3 [Sriracha](#Sriracha)
+- 1 Lime
+
+## <a name="Spicy_Salmon_Roll_Rolling_Mat_Sliced_Sake_Sliced_Avocado_Sushi_Rice_Spicy_Mayo_Nori"></a><a name="Spicy_Salmon_Roll"></a>Spicy Salmon Roll - 1
+![image](FarmLife2Mod/ItemIcons/Spicy%20Salmon%20Roll.png)
+
+Station: **none** - Tool: **Rolling Mat**
+
+- 3 [Sliced Sake](#Sliced_Sake)
+- 3 [Sliced Avocado](#Sliced_Avocado)
+- 2 [Sushi Rice](#Sushi_Rice)
+- 2 [Spicy Mayo](#Spicy_Mayo)
+- 2 [Nori](#Nori)
+
 ## <a name="Spicy_Salsa_Veggie_Attachment_Diced_Tomatos_Diced_Onions_Sliced_Jalapeno_Lime_Salt"></a><a name="Spicy_Salsa"></a>Spicy Salsa - 10
 ![image](FarmLife2Mod/ItemIcons/Spicy%20Salsa.png)
 
@@ -3621,6 +3811,36 @@ Station: **Brew Station** - Tool: **Malting Trays**
 Station: **Brew Station** - Tool: **Malting Trays**
 
 - 50 [Steeped Sorghum](#Steeped_Sorghum)
+
+## <a name="Sriracha_toolCookingPot_Sriracha_Step_3____"></a><a name="Sriracha"></a>Sriracha - 20
+![image](FarmLife2Mod/ItemIcons/Sriracha.png)
+
+Station: **Gas Cooktop** - Tool: **toolCookingPot**
+
+- 1 [Sriracha Step 3](#Sriracha_Step_3)
+
+## <a name="Sriracha_Step_1_toolChoppingBoard_Jalapeno_Pepper_Pablano_Pepper_Minced_Garlic_Salt_"></a><a name="Sriracha_Step_1"></a>Sriracha Step 1 - 1
+
+Station: **Chopping Board** - Tool: **none**
+
+- 5 Jalapeno Pepper
+- 5 Pablano Pepper
+- 5 [Minced Garlic](#Minced_Garlic)
+- 2 [Salt](#Salt)
+
+## <a name="Sriracha_Step_2_Food_Processor_Sriracha_Step_1_drinkJarRiverWater_Raw_Sugar__"></a><a name="Sriracha_Step_2"></a>Sriracha Step 2 - 1
+
+Station: **KitchNaid** - Tool: **Food Processor**
+
+- 1 [Sriracha Step 1](#Sriracha_Step_1)
+- 1 drinkJarRiverWater
+- 5 [Raw Sugar](#Raw_Sugar)
+
+## <a name="Sriracha_Step_3_Clay_Pot_Sriracha_Step_2____"></a><a name="Sriracha_Step_3"></a>Sriracha Step 3 - 1
+
+Station: **Fermentor Bench** - Tool: **Clay Pot**
+
+- 1 [Sriracha Step 2](#Sriracha_Step_2)
 
 ## <a name="Steak_Burrito_Caste_Iron_Skillet_Steak_Burrito_Step_2_Lard___"></a><a name="Steak_Burrito"></a>Steak Burrito - 1
 ![image](FarmLife2Mod/ItemIcons/Steak%20Burrito.png)
@@ -3735,6 +3955,29 @@ Station: **Chopping Board** - Tool: **none**
 - 1 [Hashbrowns](#Hashbrowns)
 - 2 [Biscuit](#Biscuit)
 - 2 [Butter](#Butter)
+
+## <a name="Sushi_Rice_Mixing_Bowl_Sushi_Rice_Step_1_Sushi_Rice_Step_2___"></a><a name="Sushi_Rice"></a>Sushi Rice - 10
+![image](FarmLife2Mod/ItemIcons/Sushi%20Rice.png)
+
+Station: **KitchNaid** - Tool: **Mixing Bowl**
+
+- 1 [Sushi Rice Step 1](#Sushi_Rice_Step_1)
+- 1 [Sushi Rice Step 2](#Sushi_Rice_Step_2)
+
+## <a name="Sushi_Rice_Step_1_toolCookingPot_Cooking_Vinegar_Raw_Sugar_Salt__"></a><a name="Sushi_Rice_Step_1"></a>Sushi Rice Step 1 - 1
+
+Station: **Gas Cooktop** - Tool: **toolCookingPot**
+
+- 2 [Cooking Vinegar](#Cooking_Vinegar)
+- 2 [Raw Sugar](#Raw_Sugar)
+- 2 [Salt](#Salt)
+
+## <a name="Sushi_Rice_Step_2_toolCookingPot_Rice_drinkJarBoiledWater___"></a><a name="Sushi_Rice_Step_2"></a>Sushi Rice Step 2 - 1
+
+Station: **Gas Cooktop** - Tool: **toolCookingPot**
+
+- 5 Rice
+- 5 drinkJarBoiledWater
 
 ## <a name="Swiss_Cheese_Zhang_Cleaver_Swiss_Cheese_Step_8____"></a><a name="Swiss_Cheese"></a>Swiss Cheese - 50
 ![image](FarmLife2Mod/ItemIcons/Swiss%20Cheese.png)
@@ -3867,6 +4110,35 @@ Station: **forge** - Tool: **toolAndDieSet**
 
 - 1000 unit_iron
 - 100 unit_clay
+
+## <a name="Umeboshi_toolChoppingBoard_Umeboshi_Step_3____"></a><a name="Umeboshi"></a>Umeboshi - 5
+![image](FarmLife2Mod/ItemIcons/Umeboshi.png)
+
+Station: **Chopping Board** - Tool: **none**
+
+- 1 [Umeboshi Step 3](#Umeboshi_Step_3)
+
+## <a name="Umeboshi_Step_1_toolFermentor_Ume_bucketRiverWater___"></a><a name="Umeboshi_Step_1"></a>Umeboshi Step 1 - 1
+
+Station: **Fermentor Bench** - Tool: **none**
+
+- 10 Ume
+- 1 bucketRiverWater
+
+## <a name="Umeboshi_Step_2_Clay_Pot_Umeboshi_Step_1_Salt_Cheese_Cloth__"></a><a name="Umeboshi_Step_2"></a>Umeboshi Step 2 - 1
+
+Station: **Fermentor Bench** - Tool: **Clay Pot**
+
+- 1 [Umeboshi Step 1](#Umeboshi_Step_1)
+- 20 [Salt](#Salt)
+- 2 [Cheese Cloth](#Cheese_Cloth)
+
+## <a name="Umeboshi_Step_3_Clay_Pot_Umeboshi_Step_2_Cheese_Cloth___"></a><a name="Umeboshi_Step_3"></a>Umeboshi Step 3 - 1
+
+Station: **Fermentor Bench** - Tool: **Clay Pot**
+
+- 1 [Umeboshi Step 2](#Umeboshi_Step_2)
+- 2 [Cheese Cloth](#Cheese_Cloth)
 
 ## <a name="Vegetable_Oil__Vegetable_Oil_Step_1____"></a><a name="Vegetable_Oil"></a>Vegetable Oil - 10
 ![image](FarmLife2Mod/ItemIcons/Vegetable%20Oil.png)

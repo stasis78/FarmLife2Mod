@@ -2591,6 +2591,44 @@
                 </triggered_effect>
             </effect_group>
         </buff>
+        <buff name="Yin-Yang" name_key="Yin-Yang" description_key="Umeboshi helps balance your spirit. Cures stomache ailments 69% of the time." icon="ui_game_symbol_pills">
+            <damage_type value="Disease"/>
+            <stack_type value="replace"/>
+            <duration value="120"/>
+            <update_rate value="29"/>
+            <effect_group name="Cure Dysentery 0">
+                <requirement name="HasBuff" buff="buffIllDysentery0"/>
+                <requirement name="RandomRoll" seed_type="Random" target="self" min_max="0,100" operation="LTE" value="69"/>
+                <triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffIllDysentery0"/>
+            </effect_group>
+            <effect_group name="Cure Dysentery 1">
+                <requirement name="HasBuff" buff="buffIllDysentery1"/>
+                <requirement name="RandomRoll" seed_type="Random" target="self" min_max="0,100" operation="LTE" value="69"/>
+                <triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffIllDysentery1"/>
+            </effect_group>
+            <effect_group name="Cure Dysentery 2">
+                <requirement name="HasBuff" buff="buffIllDysentery2"/>
+                <requirement name="RandomRoll" seed_type="Random" target="self" min_max="0,100" operation="LTE" value="69"/>
+                <triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffIllDysentery2"/>
+                <triggered_effect trigger="onSelfBuffUpdate" action="AddBuff" target="self" buff="buffIllDysentery1"/>
+            </effect_group>
+            <effect_group name="Cure Food Poisoning 0">
+                <requirement name="HasBuff" buff="buffIllFoodPoisoning0"/>
+                <requirement name="RandomRoll" seed_type="Random" target="self" min_max="0,100" operation="LTE" value="69"/>
+                <triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffIllFoodPoisoning0"/>
+            </effect_group>
+            <effect_group name="Cure Food Poisoning 1">
+                <requirement name="HasBuff" buff="buffIllFoodPoisoning1"/>
+                <requirement name="RandomRoll" seed_type="Random" target="self" min_max="0,100" operation="LTE" value="69"/>
+                <triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffIllFoodPoisoning1"/>
+            </effect_group>
+            <effect_group name="Cure Food Poisoning 2">
+                <requirement name="HasBuff" buff="buffIllFoodPoisoning2"/>
+                <requirement name="RandomRoll" seed_type="Random" target="self" min_max="0,100" operation="LTE" value="69"/>
+                <triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffIllFoodPoisoning2"/>
+                <triggered_effect trigger="onSelfBuffUpdate" action="AddBuff" target="self" buff="buffIllFoodPoisoning1"/>
+            </effect_group>
+        </buff>
         <buff name="Yummy Smoothie" name_key="Yummy Smoothie" description_key="I drank a yummy smoothie. I have a boost to my Food." icon="ui_game_symbol_hunger">
             <damage_type value="Disease"/>
             <stack_type value="replace"/>
@@ -3241,6 +3279,21 @@
                 <passive_effect name="StaminaMax" operation="base_add" value="13.00"/>
             </effect_group>
         </buff>
+        <buff name="Wish it was Lox" name_key="Wish it was Lox" description_key="Increases Daring Adventurer by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkDaringAdventurer"/>
+            </effect_group>
+        </buff>
+        <buff name="Salmon-y" name_key="Salmon-y" description_key="Increases Lucky Looter by 2. Increases Explosive Weapons by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkLuckyLooter"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="2.00" tags="perkExplosiveWeapons"/>
+            </effect_group>
+        </buff>
         <buff name="A classic dish" name_key="A classic dish" description_key="Increases Daring Adventurer by 2. Increases Shotgun Messiah by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">
             <duration value="120"/>
             <stack_type value="replace"/>
@@ -3261,6 +3314,14 @@
             <stack_type value="replace"/>
             <effect_group farmLifeName="buff">
                 <passive_effect name="BarteringBuying" operation="base_add" value="0.10"/>
+            </effect_group>
+        </buff>
+        <buff name="Spicy Salmon" name_key="Spicy Salmon" description_key="Increases Heavy Metal by 1. Increases Pack Mule by 1." icon="ui_game_symbol_skills" icon_color="132,0,155">
+            <duration value="120"/>
+            <stack_type value="replace"/>
+            <effect_group farmLifeName="buff">
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkHeavyMetal"/>
+                <passive_effect name="PerkLevel" operation="base_add" value="1.00" tags="perkPackMule"/>
             </effect_group>
         </buff>
         <buff name="Burro" name_key="Burro" description_key="Increases Burning Molotov resistance by 22%. Increases Automatic Weapons by 2." icon="ui_game_symbol_skills" icon_color="132,0,155">

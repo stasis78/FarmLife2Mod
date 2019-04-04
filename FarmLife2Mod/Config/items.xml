@@ -27,8 +27,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="005493"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeAgedBourbonDesc"/>
         </item>
         <item name="Aged Bulleeet">
@@ -43,8 +42,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="941651"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeAgedBulleeetDesc"/>
         </item>
         <item name="Aged Cheddar">
@@ -84,8 +82,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="5e5e5e"/>
+            <property name="CustomIcon" value="RawBeer"/>
             <property name="DescriptionKey" value="farmLifeAgedDoubleIPADesc"/>
         </item>
         <item name="Aged Port Wine">
@@ -100,8 +97,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="76098E"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeAgedPortWineDesc"/>
         </item>
         <item name="Aged Scotch">
@@ -116,8 +112,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="888888"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeAgedScotchDesc"/>
         </item>
         <item name="Aged Wheat Flour">
@@ -176,8 +171,6 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="00fb92"/>
             <property name="DescriptionKey" value="farmLifeAlkalineSolutionDesc"/>
         </item>
         <item name="American Fries">
@@ -220,8 +213,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeAmericanFriesStep1Desc"/>
         </item>
         <item name="Ancho Pepper">
@@ -491,7 +483,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="500"/>
             <property name="EconomicValue" value="28"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -549,7 +541,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="205"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -581,8 +573,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBakedRigatoniStep1Desc"/>
         </item>
         <item name="Baked Rigatoni Step 2">
@@ -597,8 +588,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBakedRigatoniStep2Desc"/>
         </item>
         <item name="Baking Sheet">
@@ -684,8 +674,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBanannaBreadStep1Desc"/>
         </item>
         <item name="Bananna Bread Step 2">
@@ -700,8 +689,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBanannaBreadStep2Desc"/>
         </item>
         <item name="Barley">
@@ -859,8 +847,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBeefChiliStep1Desc"/>
         </item>
         <item name="Beef Chili Step 2">
@@ -875,8 +862,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBeefChiliStep2Desc"/>
         </item>
         <item name="Beef Chili Step 3">
@@ -891,8 +877,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBeefChiliStep3Desc"/>
         </item>
         <item name="Beef Taco">
@@ -959,8 +944,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="F7FF00"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBeerCheapMashDesc"/>
         </item>
         <item name="Beer Cheap Raw">
@@ -975,8 +959,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="F7FF00"/>
+            <property name="CustomIcon" value="RawBeer"/>
             <property name="DescriptionKey" value="farmLifeBeerCheapRawDesc"/>
         </item>
         <item name="Beer Cheap Wort">
@@ -991,8 +974,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="F7FF00"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBeerCheapWortDesc"/>
         </item>
         <item name="Beer Double IPA">
@@ -1057,8 +1039,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="957D1A"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBeerIPAMashDesc"/>
         </item>
         <item name="Beer IPA Raw">
@@ -1073,8 +1054,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="957D1A"/>
+            <property name="CustomIcon" value="RawBeer"/>
             <property name="DescriptionKey" value="farmLifeBeerIPARawDesc"/>
         </item>
         <item name="Beer IPA Wort">
@@ -1089,8 +1069,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="957D1A"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBeerIPAWortDesc"/>
         </item>
         <item name="Beer Lager">
@@ -1129,8 +1108,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="83E135"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBeerLagerMashDesc"/>
         </item>
         <item name="Beer Lager Raw">
@@ -1145,8 +1123,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="83E135"/>
+            <property name="CustomIcon" value="RawBeer"/>
             <property name="DescriptionKey" value="farmLifeBeerLagerRawDesc"/>
         </item>
         <item name="Beer Lager Wort">
@@ -1161,8 +1138,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="83E135"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBeerLagerWortDesc"/>
         </item>
         <item name="Beer Stout">
@@ -1201,8 +1177,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="4B3C00"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBeerStoutMashDesc"/>
         </item>
         <item name="Beer Stout Raw">
@@ -1217,8 +1192,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="4B3C00"/>
+            <property name="CustomIcon" value="RawBeer"/>
             <property name="DescriptionKey" value="farmLifeBeerStoutRawDesc"/>
         </item>
         <item name="Beer Stout Wort">
@@ -1233,8 +1207,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="4B3C00"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBeerStoutWortDesc"/>
         </item>
         <item name="Beet">
@@ -1341,8 +1314,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBeetSaladStep1Desc"/>
         </item>
         <item name="Biscuit">
@@ -1385,8 +1357,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBiscuitStep1Desc"/>
         </item>
         <item name="Biscuit Step 2">
@@ -1401,8 +1372,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBiscuitStep2Desc"/>
         </item>
         <item name="Biscuit Step 3">
@@ -1417,8 +1387,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBiscuitStep3Desc"/>
         </item>
         <item name="Biscuits and Gravy">
@@ -1727,7 +1696,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="216"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -1784,8 +1753,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="FF4D00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBologneseSauceStep1Desc"/>
         </item>
         <item name="Bolognese Sauce Step 2">
@@ -1800,8 +1768,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="FF4D00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBologneseSauceStep2Desc"/>
         </item>
         <item name="Bolognese Sauce Step 3">
@@ -1816,8 +1783,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="FF4D00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBologneseSauceStep3Desc"/>
         </item>
         <item name="Bottle Cap">
@@ -1884,8 +1850,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="005493"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBourbonMashDesc"/>
         </item>
         <item name="Bowl of Rice">
@@ -1985,8 +1950,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="929292"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBreadcrumbsStep1Desc"/>
         </item>
         <item name="Brined Coffee Elk">
@@ -2001,8 +1965,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodBoiledMeat"/>
-            <property name="CustomIconTint" value="7C3F00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBrinedCoffeeElkDesc"/>
         </item>
         <item name="Brined Spicy Elk">
@@ -2017,8 +1980,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodBoiledMeat"/>
-            <property name="CustomIconTint" value="E77803"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeBrinedSpicyElkDesc"/>
         </item>
         <item name="Briney Water">
@@ -2033,8 +1995,6 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="0008FF"/>
             <property name="DescriptionKey" value="farmLifeBrineyWaterDesc"/>
         </item>
         <item name="Broccoli">
@@ -2107,8 +2067,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="941651"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeBulleeetMashDesc"/>
         </item>
         <item name="Bulleeet Rye">
@@ -2361,7 +2320,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="500"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="4"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
@@ -2486,8 +2445,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCheddarStep1Desc"/>
         </item>
         <item name="Cheddar Step 2">
@@ -2502,8 +2460,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCheddarStep2Desc"/>
         </item>
         <item name="Cheddar Step 3">
@@ -2518,8 +2475,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCheddarStep3Desc"/>
         </item>
         <item name="Cheddar Step 4">
@@ -2534,8 +2490,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCheddarStep4Desc"/>
         </item>
         <item name="Cheddar Step 5">
@@ -2550,8 +2505,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCheddarStep5Desc"/>
         </item>
         <item name="Cheese Cloth">
@@ -2805,7 +2759,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="500"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="4"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
@@ -2868,8 +2822,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeChickenTamaleStep1Desc"/>
         </item>
         <item name="Chicken Tamale Step 2">
@@ -2884,8 +2837,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeChickenTamaleStep2Desc"/>
         </item>
         <item name="Chicken Tamale Step 3">
@@ -2900,8 +2852,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeChickenTamaleStep3Desc"/>
         </item>
         <item name="Chicken Tamale Step 4">
@@ -2916,8 +2867,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeChickenTamaleStep4Desc"/>
         </item>
         <item name="Chicken Tamale Step 5">
@@ -2932,8 +2882,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeChickenTamaleStep5Desc"/>
         </item>
         <item name="Chicken Wing">
@@ -3005,8 +2954,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fb92"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeChileRellenoStep1Desc"/>
         </item>
         <item name="Chile Relleno Step 2">
@@ -3021,8 +2969,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="008f00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeChileRellenoStep2Desc"/>
         </item>
         <item name="Chile Relleno Step 3">
@@ -3037,8 +2984,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeChileRellenoStep3Desc"/>
         </item>
         <item name="Chilled Cucumber Step 1">
@@ -3053,8 +2999,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeChilledCucumberStep1Desc"/>
         </item>
         <item name="Chilled Cucumber Yogurt Soup">
@@ -3285,7 +3230,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="500"/>
             <property name="EconomicValue" value="12"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -3486,8 +3431,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCornMasaStep1Desc"/>
         </item>
         <item name="Corn Masa Step 2">
@@ -3502,8 +3446,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCornMasaStep2Desc"/>
         </item>
         <item name="Corn Tortillas">
@@ -3543,8 +3486,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCornTortillasStep1Desc"/>
         </item>
         <item name="Corn Tortillas Step 2">
@@ -3559,8 +3501,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCornTortillasStep2Desc"/>
         </item>
         <item name="Country Boy Breakfast">
@@ -3725,8 +3666,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="009051"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeCuredPancettaDesc"/>
         </item>
         <item name="Cut Green Beans">
@@ -3881,8 +3821,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeDenverOmeletteStep1Desc"/>
         </item>
         <item name="Diced Carrot">
@@ -3936,6 +3875,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="ChoppedHerbs"/>
             <property name="DescriptionKey" value="farmLifeDicedCilantroDesc"/>
         </item>
         <item name="Diced Dill">
@@ -3956,6 +3896,7 @@
                 <property name="Delay" value="1.0"/>
                 <property name="Sound_start" value="player_eating"/>
             </property>
+            <property name="CustomIcon" value="ChoppedHerbs"/>
             <effect_group tiered="false">
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
@@ -4020,6 +3961,7 @@
                 <property name="Delay" value="1.0"/>
                 <property name="Sound_start" value="player_eating"/>
             </property>
+            <property name="CustomIcon" value="ChoppedHerbs"/>
             <effect_group tiered="false">
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="11"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
@@ -4107,8 +4049,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="005493"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeDistilledBourbonDesc"/>
         </item>
         <item name="Distilled Bulleeet">
@@ -4123,8 +4064,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="941651"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeDistilledBulleeetDesc"/>
         </item>
         <item name="Distilled Scotch">
@@ -4139,8 +4079,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="888888"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeDistilledScotchDesc"/>
         </item>
         <item name="Distilled Vodka">
@@ -4155,8 +4094,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="999999"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeDistilledVodkaDesc"/>
         </item>
         <item name="Distilled Whiskey">
@@ -4171,8 +4109,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="777777"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeDistilledWhiskeyDesc"/>
         </item>
         <item name="Distilled White Rum">
@@ -4187,8 +4124,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="555555"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeDistilledWhiteRumDesc"/>
         </item>
         <item name="Double IPA Mash">
@@ -4203,8 +4139,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="941100"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeDoubleIPAMashDesc"/>
         </item>
         <item name="Double IPA Raw">
@@ -4219,8 +4154,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="941100"/>
+            <property name="CustomIcon" value="RawBeer"/>
             <property name="DescriptionKey" value="farmLifeDoubleIPARawDesc"/>
         </item>
         <item name="Double IPA Wort">
@@ -4235,8 +4169,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="941100"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeDoubleIPAWortDesc"/>
         </item>
         <item name="Dough Hook">
@@ -4318,8 +4251,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeEggNoodleSoupStep1Desc"/>
         </item>
         <item name="Egg Noodles">
@@ -4348,8 +4280,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeEggNoodlesStep1Desc"/>
         </item>
         <item name="Egg Noodles Step 2">
@@ -4364,8 +4295,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeEggNoodlesStep2Desc"/>
         </item>
         <item name="Eggs Benedict">
@@ -4404,7 +4334,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="500"/>
             <property name="EconomicValue" value="4"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -4490,8 +4420,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeEnglishMuffinStep1Desc"/>
         </item>
         <item name="English Muffin Step 2">
@@ -4506,8 +4435,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeEnglishMuffinStep2Desc"/>
         </item>
         <item name="Fajitas Platter">
@@ -4518,7 +4446,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="965"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -4550,8 +4478,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeFajitasPlatterStep1Desc"/>
         </item>
         <item name="Fajitas Platter Step 2">
@@ -4566,8 +4493,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeFajitasPlatterStep2Desc"/>
         </item>
         <item name="Fajitas Platter Step 3">
@@ -4582,8 +4508,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeFajitasPlatterStep3Desc"/>
         </item>
         <item name="Feeding Trough">
@@ -4612,8 +4537,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeFilteredCabernetDesc"/>
         </item>
         <item name="Filtered Chardonne">
@@ -4628,8 +4552,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeFilteredChardonneDesc"/>
         </item>
         <item name="Filtered Merlot">
@@ -4644,8 +4567,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="76098E"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeFilteredMerlotDesc"/>
         </item>
         <item name="Filtered Pink Rose">
@@ -4660,8 +4582,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="C469D8"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeFilteredPinkRoseDesc"/>
         </item>
         <item name="Filtered White Zin">
@@ -4676,9 +4597,52 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="D5BADB"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeFilteredWhiteZinDesc"/>
+        </item>
+        <item name="Fish Pellets">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="1"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="DescriptionKey" value="farmLifeFishPelletsDesc"/>
+        </item>
+        <item name="Fish Pellets Step 1">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeFishPelletsStep1Desc"/>
+        </item>
+        <item name="Fish Pellets Step 2">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeFishPelletsStep2Desc"/>
         </item>
         <item name="Floor Corker">
             <property name="CreativeMode" value="Player"/>
@@ -4765,8 +4729,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeFlorentineOmeletteStep1Desc"/>
         </item>
         <item name="Flour Tortillas">
@@ -4806,8 +4769,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeFlourTortillasStep1Desc"/>
         </item>
         <item name="Food Processor">
@@ -4922,8 +4884,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeFriedOkraStep1Desc"/>
         </item>
         <item name="Fried Okra Step 2">
@@ -4938,8 +4899,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeFriedOkraStep2Desc"/>
         </item>
         <item name="Fruit Pancakes">
@@ -4994,8 +4954,6 @@
                 <requirement name="HasBuff" buff="buffIsOnFire"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffExtinguishFire"/>
             </effect_group>
-            <property name="CustomIcon" value="drinkYuccaJuiceSmoothie"/>
-            <property name="CustomIconTint" value="ff2f92"/>
             <effect_group tiered="false">
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Yummy Smoothie"/>
             </effect_group>
@@ -5132,8 +5090,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeGarlicGreenBeansStep1Desc"/>
         </item>
         <item name="Ghost Pepper">
@@ -5267,8 +5224,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeGrandmasOmeletteStep1Desc"/>
         </item>
         <item name="Grape">
@@ -5394,8 +5350,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeGreenBeansBaconStep1Desc"/>
         </item>
         <item name="Green Beans Bacon Step 2">
@@ -5410,8 +5365,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeGreenBeansBaconStep2Desc"/>
         </item>
         <item name="Green Beans with Bacon">
@@ -5456,6 +5410,31 @@
                 <display_value name="FoodPoisoningRisk" value=".1"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeGreenBellDesc"/>
+        </item>
+        <item name="Grilled Salmon Steak">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="42"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="27"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="10"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeGrilledSalmonSteakDesc"/>
         </item>
         <item name="Grilled Squash">
             <property name="CreativeMode" value="Player"/>
@@ -5726,8 +5705,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeGuacamoleStep1Desc"/>
         </item>
         <item name="Guacamole Step 2">
@@ -5742,8 +5720,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeGuacamoleStep2Desc"/>
         </item>
         <item name="Halite">
@@ -5833,8 +5810,6 @@
                 <property name="Delay" value="1.0"/>
                 <property name="Sound_start" value="player_eating"/>
             </property>
-            <property name="CustomIcon" value="Cheeseburger"/>
-            <property name="CustomIconTint" value="888888"/>
             <effect_group tiered="false">
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="22"/>
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="7"/>
@@ -5952,8 +5927,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeHollandaiseStep1Desc"/>
         </item>
         <item name="Hollandaise Step 2">
@@ -5968,8 +5942,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeHollandaiseStep2Desc"/>
         </item>
         <item name="Ice Cream Bowl">
@@ -6012,8 +5985,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeItalianSausageStep1Desc"/>
         </item>
         <item name="Italian Sausage Step 2">
@@ -6028,8 +6000,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeItalianSausageStep2Desc"/>
         </item>
         <item name="Jalapeno Pepper">
@@ -6232,8 +6203,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="8efa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeLardStep1Desc"/>
         </item>
         <item name="Lemon Lime Coolaid">
@@ -6512,8 +6482,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodBoiledMeat"/>
-            <property name="CustomIconTint" value="9D2400"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeMarinatedBBQElkDesc"/>
         </item>
         <item name="Masher">
@@ -6529,6 +6498,50 @@
             <property name="CraftingIngredientTime" value="50"/>
             <property name="Weight" value="5"/>
             <property name="DescriptionKey" value="farmLifeMasherDesc"/>
+        </item>
+        <item name="Mayo">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="DescriptionKey" value="farmLifeMayoDesc"/>
+        </item>
+        <item name="Mayo Step 1">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeMayoStep1Desc"/>
+        </item>
+        <item name="Mayo Step 2">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeMayoStep2Desc"/>
         </item>
         <item name="Meat Grinder">
             <property name="CreativeMode" value="Player"/>
@@ -6598,8 +6611,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="008f00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeMeatballsStep1Desc"/>
         </item>
         <item name="Merlot">
@@ -6696,8 +6708,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeMexicanBlackBeansStep1Desc"/>
         </item>
         <item name="Mexican Combo 3">
@@ -6708,7 +6719,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="268"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -6736,7 +6747,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="322"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -6910,8 +6921,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeMisoPasteStep1Desc"/>
         </item>
         <item name="Miso Paste Step 2">
@@ -6926,8 +6936,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="008f00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeMisoPasteStep2Desc"/>
         </item>
         <item name="Miso Soup">
@@ -7051,6 +7060,76 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Cuban Highball"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeMojitoDesc"/>
+        </item>
+        <item name="Nori">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="3"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="11"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeNoriDesc"/>
+        </item>
+        <item name="Nori Step 1">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeNoriStep1Desc"/>
+        </item>
+        <item name="Nori Step 2">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeNoriStep2Desc"/>
+        </item>
+        <item name="Nori Step 3">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeNoriStep3Desc"/>
         </item>
         <item name="Oak Barrel">
             <property name="CreativeMode" value="Player"/>
@@ -7385,8 +7464,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifePancakeStep1Desc"/>
         </item>
         <item name="Pancetta">
@@ -7454,8 +7532,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifePancettaLinguiniStep1Desc"/>
         </item>
         <item name="Pancetta Linguini Step 2">
@@ -7470,8 +7547,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="008f00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifePancettaLinguiniStep2Desc"/>
         </item>
         <item name="Pancetta Linguini Step 3">
@@ -7486,8 +7562,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fb92"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifePancettaLinguiniStep3Desc"/>
         </item>
         <item name="Parmesan">
@@ -7621,7 +7696,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="136"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -7653,8 +7728,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifePennePestoStep1Desc"/>
         </item>
         <item name="Pesto">
@@ -7722,8 +7796,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifePickledGingerStep1Desc"/>
         </item>
         <item name="Pickled Ginger Step 2">
@@ -7738,8 +7811,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifePickledGingerStep2Desc"/>
         </item>
         <item name="Pina Colada">
@@ -8085,8 +8157,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifePorkChimichangaStep1Desc"/>
         </item>
         <item name="Pork Chimichanga Step 2">
@@ -8101,8 +8172,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifePorkChimichangaStep2Desc"/>
         </item>
         <item name="Pork Fat">
@@ -8331,8 +8401,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeQuesoFrescoStep1Desc"/>
         </item>
         <item name="Queso Fresco Step 2">
@@ -8347,8 +8416,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fb92"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeQuesoFrescoStep2Desc"/>
         </item>
         <item name="Queso Fresco Step 3">
@@ -8363,8 +8431,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeQuesoFrescoStep3Desc"/>
         </item>
         <item name="Raspberry">
@@ -8436,8 +8503,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="005493"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeRawBourbonDesc"/>
         </item>
         <item name="Raw Bulleeet">
@@ -8452,8 +8518,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="941651"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeRawBulleeetDesc"/>
         </item>
         <item name="Raw Cabernet">
@@ -8468,8 +8533,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="008f00"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeRawCabernetDesc"/>
         </item>
         <item name="Raw Chardonne">
@@ -8484,8 +8548,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="73fb79"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeRawChardonneDesc"/>
         </item>
         <item name="Raw Merlot">
@@ -8500,8 +8563,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="76098E"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeRawMerlotDesc"/>
         </item>
         <item name="Raw Milk">
@@ -8516,8 +8578,6 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="AAAAAA"/>
             <property name="DescriptionKey" value="farmLifeRawMilkDesc"/>
         </item>
         <item name="Raw Pink Rose">
@@ -8532,8 +8592,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="C469D8"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeRawPinkRoseDesc"/>
         </item>
         <item name="Raw Scotch">
@@ -8548,8 +8607,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="888888"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeRawScotchDesc"/>
         </item>
         <item name="Raw Sugar">
@@ -8578,8 +8636,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="999999"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeRawVodkaDesc"/>
         </item>
         <item name="Raw Whiskey">
@@ -8594,8 +8651,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="777777"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeRawWhiskeyDesc"/>
         </item>
         <item name="Raw White Rum">
@@ -8610,8 +8666,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="555555"/>
+            <property name="CustomIcon" value="SpiritsBarrel"/>
             <property name="DescriptionKey" value="farmLifeRawWhiteRumDesc"/>
         </item>
         <item name="Raw White Zin">
@@ -8626,8 +8681,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="D5BADB"/>
+            <property name="CustomIcon" value="WineMaking"/>
             <property name="DescriptionKey" value="farmLifeRawWhiteZinDesc"/>
         </item>
         <item name="Red Bell">
@@ -8724,8 +8778,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeRefriedBeansStep1Desc"/>
         </item>
         <item name="Refried Beans Step 2">
@@ -8740,8 +8793,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeRefriedBeansStep2Desc"/>
         </item>
         <item name="Rennet">
@@ -8756,6 +8808,8 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="Calf Stomache"/>
+            <property name="CustomIconTint" value="929292"/>
             <property name="DescriptionKey" value="farmLifeRennetDesc"/>
         </item>
         <item name="Rennet Step 1">
@@ -8770,8 +8824,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="8efa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeRennetStep1Desc"/>
         </item>
         <item name="Rennet Step 2">
@@ -8786,8 +8839,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeRennetStep2Desc"/>
         </item>
         <item name="Rice">
@@ -8884,8 +8936,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeRisottoStep1Desc"/>
         </item>
         <item name="Risotto Step 2">
@@ -8900,8 +8951,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="8efa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeRisottoStep2Desc"/>
         </item>
         <item name="Risotto Step 3">
@@ -8916,8 +8966,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="8efa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeRisottoStep3Desc"/>
         </item>
         <item name="Risotto Step 4">
@@ -8932,8 +8981,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="8efa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeRisottoStep4Desc"/>
         </item>
         <item name="Roasted Brussels Sprouts">
@@ -8997,7 +9045,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="38"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -9016,6 +9064,20 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeRolandsBreakfastDesc"/>
+        </item>
+        <item name="Rolling Mat">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mmetal"/>
+            <property name="Stacknumber" value="1"/>
+            <property name="EconomicValue" value="20"/>
+            <property name="EconomicBundleSize" value="1"/>
+            <property name="CraftingIngredientTime" value="50"/>
+            <property name="Weight" value="5"/>
+            <property name="DescriptionKey" value="farmLifeRollingMatDesc"/>
         </item>
         <item name="Romaine">
             <property name="CreativeMode" value="Player"/>
@@ -9207,6 +9269,95 @@
             <property name="CustomIconTint" value="945200"/>
             <property name="DescriptionKey" value="farmLifeRyeMaltDesc"/>
         </item>
+        <item name="Sake Nigiri">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="29"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="21"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="6"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeSakeNigiriDesc"/>
+        </item>
+        <item name="Salmon Fillet">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="2"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="10"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeSalmonFilletDesc"/>
+        </item>
+        <item name="Salmon Roe">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="DescriptionKey" value="farmLifeSalmonRoeDesc"/>
+        </item>
+        <item name="Salmon Steak">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="2"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="10"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeSalmonSteakDesc"/>
+        </item>
         <item name="Salt">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
@@ -9289,8 +9440,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fb92"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSauerkrautStep1Desc"/>
         </item>
         <item name="Sauerkraut Step 2">
@@ -9305,8 +9455,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="008f00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSauerkrautStep2Desc"/>
         </item>
         <item name="Sauerkraut Step 3">
@@ -9321,8 +9470,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSauerkrautStep3Desc"/>
         </item>
         <item name="Sausage Gravy">
@@ -9362,8 +9510,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSausageGravyStep1Desc"/>
         </item>
         <item name="Sausage Gravy Step 2">
@@ -9378,8 +9525,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSausageGravyStep2Desc"/>
         </item>
         <item name="Sausage Gravy Step 3">
@@ -9394,8 +9540,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSausageGravyStep3Desc"/>
         </item>
         <item name="Sausage Patty">
@@ -9484,9 +9629,22 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="888888"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeScotchMashDesc"/>
+        </item>
+        <item name="Seaweed">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="DescriptionKey" value="farmLifeSeaweedDesc"/>
         </item>
         <item name="Shallot">
             <property name="CreativeMode" value="Player"/>
@@ -10017,6 +10175,20 @@
             </effect_group>
             <property name="DescriptionKey" value="farmLifeSlicedRedBellDesc"/>
         </item>
+        <item name="Sliced Sake">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="DescriptionKey" value="farmLifeSlicedSakeDesc"/>
+        </item>
         <item name="Sliced Squash">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
@@ -10172,6 +10344,92 @@
             </effect_group>
             <property name="DescriptionKey" value="farmLifeSmokedPorkRibsDesc"/>
         </item>
+        <item name="Smoked Salmon">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="13"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="14"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="2"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Wish it was Lox"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeSmokedSalmonDesc"/>
+        </item>
+        <item name="Smoked Salmon Salad">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="79"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="37"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="15"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Salmon-y"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeSmokedSalmonSaladDesc"/>
+        </item>
+        <item name="Smoked Salmon Step 1">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeSmokedSalmonStep1Desc"/>
+        </item>
+        <item name="Smoked Salmon Step 2">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeSmokedSalmonStep2Desc"/>
+        </item>
         <item name="Smoker Mat">
             <property name="CreativeMode" value="Player"/>
             <property name="HoldType" value="31"/>
@@ -10184,8 +10442,6 @@
             <property name="EconomicBundleSize" value="1"/>
             <property name="CraftingIngredientTime" value="50"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="chainLink"/>
-            <property name="CustomIconTint" value="000000"/>
             <property name="DescriptionKey" value="farmLifeSmokerMatDesc"/>
         </item>
         <item name="Sorghum">
@@ -10268,7 +10524,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="119"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -10328,8 +10584,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSpanishRiceStep1Desc"/>
         </item>
         <item name="Spanish Rice Step 2">
@@ -10344,8 +10599,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSpanishRiceStep2Desc"/>
         </item>
         <item name="Spatula">
@@ -10423,7 +10677,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="500"/>
             <property name="EconomicValue" value="12"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -10444,6 +10698,59 @@
                 <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeSpicyElkJerkyDesc"/>
+        </item>
+        <item name="Spicy Mayo">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="12"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="13"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="2"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeSpicyMayoDesc"/>
+        </item>
+        <item name="Spicy Salmon Roll">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="68"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="33"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="13"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Spicy Salmon"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeSpicySalmonRollDesc"/>
         </item>
         <item name="Spicy Salsa">
             <property name="CreativeMode" value="Player"/>
@@ -10525,7 +10832,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodCornMeal"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSpoutedBarleyDesc"/>
         </item>
         <item name="Spouted Rye">
@@ -10540,7 +10847,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodCornMeal"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSpoutedRyeDesc"/>
         </item>
         <item name="Spouted Sorghum">
@@ -10555,7 +10862,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodCornMeal"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSpoutedSorghumDesc"/>
         </item>
         <item name="Squash">
@@ -10586,6 +10893,79 @@
                 <display_value name="FoodPoisoningRisk" value=".1"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeSquashDesc"/>
+        </item>
+        <item name="Sriracha">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="6"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Spicy Burn"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="12"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="1"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeSrirachaDesc"/>
+        </item>
+        <item name="Sriracha Step 1">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeSrirachaStep1Desc"/>
+        </item>
+        <item name="Sriracha Step 2">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeSrirachaStep2Desc"/>
+        </item>
+        <item name="Sriracha Step 3">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeSrirachaStep3Desc"/>
         </item>
         <item name="Steak Burrito">
             <property name="CreativeMode" value="Player"/>
@@ -10627,8 +11007,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="008f00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSteakBurritoStep1Desc"/>
         </item>
         <item name="Steak Burrito Step 2">
@@ -10643,8 +11022,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="73fb79"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSteakBurritoStep2Desc"/>
         </item>
         <item name="Steamed Broccoli">
@@ -10684,8 +11062,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodCornMeal"/>
-            <property name="CustomIconTint" value="4e8f00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSteepedBarleyDesc"/>
         </item>
         <item name="Steeped Rye">
@@ -10700,8 +11077,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodCornMeal"/>
-            <property name="CustomIconTint" value="009193"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSteepedRyeDesc"/>
         </item>
         <item name="Steeped Sorghum">
@@ -10716,8 +11092,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodCornMeal"/>
-            <property name="CustomIconTint" value="fffc00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSteepedSorghumDesc"/>
         </item>
         <item name="Steeping Tun">
@@ -10888,9 +11263,63 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSunriseSamplerStep1Desc"/>
+        </item>
+        <item name="Sushi Rice">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="12"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="15"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="3"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeSushiRiceDesc"/>
+        </item>
+        <item name="Sushi Rice Step 1">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeSushiRiceStep1Desc"/>
+        </item>
+        <item name="Sushi Rice Step 2">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeSushiRiceStep2Desc"/>
         </item>
         <item name="Swiss Cheese">
             <property name="CreativeMode" value="Player"/>
@@ -10929,8 +11358,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSwissCheeseStep1Desc"/>
         </item>
         <item name="Swiss Cheese Step 2">
@@ -10945,8 +11373,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSwissCheeseStep2Desc"/>
         </item>
         <item name="Swiss Cheese Step 3">
@@ -10961,8 +11388,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSwissCheeseStep3Desc"/>
         </item>
         <item name="Swiss Cheese Step 4">
@@ -10977,8 +11403,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSwissCheeseStep4Desc"/>
         </item>
         <item name="Swiss Cheese Step 5">
@@ -10993,8 +11418,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSwissCheeseStep5Desc"/>
         </item>
         <item name="Swiss Cheese Step 6">
@@ -11009,8 +11433,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSwissCheeseStep6Desc"/>
         </item>
         <item name="Swiss Cheese Step 7">
@@ -11025,8 +11448,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSwissCheeseStep7Desc"/>
         </item>
         <item name="Swiss Cheese Step 8">
@@ -11041,8 +11463,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeSwissCheeseStep8Desc"/>
         </item>
         <item name="Taco Shell">
@@ -11208,8 +11629,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fb92"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeTortillasChipsStep1Desc"/>
         </item>
         <item name="Tortillas Chips Step 2">
@@ -11224,8 +11644,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeTortillasChipsStep2Desc"/>
         </item>
         <item name="Triple Taco Tuesday">
@@ -11269,6 +11688,108 @@
             <property name="CraftingIngredientTime" value="50"/>
             <property name="Weight" value="5"/>
             <property name="DescriptionKey" value="farmLifeTurkeyRackDesc"/>
+        </item>
+        <item name="Ume">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="10"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffIllFoodPoisoning0">
+                    <requirement name="RandomRoll" seed_type="Random" target="self" min_max="0,100" operation="LTE" value="10"/>
+                </triggered_effect>
+                <display_value name="FoodPoisoningRisk" value=".1"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeUmeDesc"/>
+        </item>
+        <item name="Umeboshi">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="63"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="Yin-Yang"/>
+            </effect_group>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="35"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="14"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeUmeboshiDesc"/>
+        </item>
+        <item name="Umeboshi Step 1">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeUmeboshiStep1Desc"/>
+        </item>
+        <item name="Umeboshi Step 2">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeUmeboshiStep2Desc"/>
+        </item>
+        <item name="Umeboshi Step 3">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="500"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="10"/>
+            <property name="Weight" value="5"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
+            <property name="DescriptionKey" value="farmLifeUmeboshiStep3Desc"/>
         </item>
         <item name="Veal">
             <property name="CreativeMode" value="Player"/>
@@ -11325,8 +11846,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeVegetableOilStep1Desc"/>
         </item>
         <item name="Vegetable Pasta Meal">
@@ -11337,7 +11857,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="50"/>
+            <property name="Stacknumber" value="1"/>
             <property name="EconomicValue" value="143"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="5"/>
@@ -11435,8 +11955,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="999999"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeVodkaMashDesc"/>
         </item>
         <item name="Walnut">
@@ -11641,8 +12160,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="777777"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeWhiskeyMashDesc"/>
         </item>
         <item name="White Oak Plank">
@@ -11697,8 +12215,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="bucketRiverWater"/>
-            <property name="CustomIconTint" value="555555"/>
+            <property name="CustomIcon" value="MashIcon"/>
             <property name="DescriptionKey" value="farmLifeWhiteRumMashDesc"/>
         </item>
         <item name="White Zin">
@@ -11753,6 +12270,35 @@
                 <display_value name="FoodPoisoningRisk" value=".1"/>
             </effect_group>
             <property name="DescriptionKey" value="farmLifeWholeChickenDesc"/>
+        </item>
+        <item name="Whole Salmon">
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="31"/>
+            <property name="DisplayType" value="food"/>
+            <property name="Group" value="Food/Cooking"/>
+            <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Morganic"/>
+            <property name="Stacknumber" value="50"/>
+            <property name="EconomicValue" value="4"/>
+            <property name="EconomicBundleSize" value="5"/>
+            <property name="CraftingIngredientTime" value="5"/>
+            <property name="Weight" value="5"/>
+            <property class="Action0">
+                <property name="Class" value="Eat"/>
+                <property name="Delay" value="1.0"/>
+                <property name="Sound_start" value="player_eating"/>
+            </property>
+            <effect_group tiered="false">
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="$foodAmountAdd" operation="add" value="10"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="foodHealthAmount" operation="add" value="0"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffProcessConsumables"/>
+                <triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffIllFoodPoisoning0">
+                    <requirement name="RandomRoll" seed_type="Random" target="self" min_max="0,100" operation="LTE" value="10"/>
+                </triggered_effect>
+                <display_value name="FoodPoisoningRisk" value=".1"/>
+            </effect_group>
+            <property name="DescriptionKey" value="farmLifeWholeSalmonDesc"/>
         </item>
         <item name="Wine Filter">
             <property name="CreativeMode" value="Player"/>
@@ -11865,8 +12411,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fb92"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeYogurtStep1Desc"/>
         </item>
         <item name="Yogurt Step 2">
@@ -11881,8 +12426,7 @@
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
             <property name="Weight" value="5"/>
-            <property name="CustomIcon" value="foodMeatStew"/>
-            <property name="CustomIconTint" value="00fa00"/>
+            <property name="CustomIcon" value="IngredientIcon"/>
             <property name="DescriptionKey" value="farmLifeYogurtStep2Desc"/>
         </item>
         <item name="Zhang Blade">
@@ -12755,6 +13299,24 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Mastering: Cattle Feed">
+            <property name="DescriptionKey" value="farmLifeMastering:CattleFeedDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_cattle_feed_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Ceramic Dutch Oven 101">
             <property name="DescriptionKey" value="farmLifeCeramicDutchOven101Desc"/>
             <property name="CustomIcon" value="questMaster"/>
@@ -12914,6 +13476,24 @@
             <property class="Action0">
                 <property name="Class" value="Quest"/>
                 <property name="QuestGiven" value="item_cherry_pie_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Chicken Feed - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeChickenFeed-YOUCanTooDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_chicken_feed_1"/>
                 <property name="Delay" value="0"/>
             </property>
         </item>
@@ -13493,6 +14073,24 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Fish Pellets 101">
+            <property name="DescriptionKey" value="farmLifeFishPellets101Desc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_fish_pellets_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Making an Expert: Floor Corker">
             <property name="DescriptionKey" value="farmLifeMakinganExpert:FloorCorkerDesc"/>
             <property name="CustomIcon" value="questMaster"/>
@@ -13760,6 +14358,24 @@
             <property class="Action0">
                 <property name="Class" value="Quest"/>
                 <property name="QuestGiven" value="item_grated_cucumber_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Everything About: Grilled Salmon Steak">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:GrilledSalmonSteakDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_grilled_salmon_steak_1"/>
                 <property name="Delay" value="0"/>
             </property>
         </item>
@@ -14411,6 +15027,24 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Guide To: Nori">
+            <property name="DescriptionKey" value="farmLifeGuideTo:NoriDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_nori_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="The BEST Oak Barrel ever!">
             <property name="DescriptionKey" value="farmLifeTheBESTOakBarrelever!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
@@ -15041,6 +15675,24 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Everything About: Rolling Mat">
+            <property name="DescriptionKey" value="farmLifeEverythingAbout:RollingMatDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_rolling_mat_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Romaine Salad by stasis78">
             <property name="DescriptionKey" value="farmLifeRomaineSaladbystasis78Desc"/>
             <property name="CustomIcon" value="questMaster"/>
@@ -15074,6 +15726,60 @@
             <property class="Action0">
                 <property name="Class" value="Quest"/>
                 <property name="QuestGiven" value="item_rump_roast_stew_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="How-To Sake Nigiri">
+            <property name="DescriptionKey" value="farmLifeHow-ToSakeNigiriDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_sake_nigiri_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Salmon Fillet - Techniques">
+            <property name="DescriptionKey" value="farmLifeSalmonFillet-TechniquesDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_salmon_fillet_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Salmon Steak - YOU Can Too">
+            <property name="DescriptionKey" value="farmLifeSalmonSteak-YOUCanTooDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_salmon_steak_1"/>
                 <property name="Delay" value="0"/>
             </property>
         </item>
@@ -15599,6 +16305,42 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Making an Expert: Smoked Salmon">
+            <property name="DescriptionKey" value="farmLifeMakinganExpert:SmokedSalmonDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_smoked_salmon_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Mastering: Smoked Salmon Salad">
+            <property name="DescriptionKey" value="farmLifeMastering:SmokedSalmonSaladDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_smoked_salmon_salad_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Smoker Mat For Dumbfucks">
             <property name="DescriptionKey" value="farmLifeSmokerMatForDumbfucksDesc"/>
             <property name="CustomIcon" value="questMaster"/>
@@ -15725,6 +16467,42 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Spicy Mayo - Techniques">
+            <property name="DescriptionKey" value="farmLifeSpicyMayo-TechniquesDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_spicy_mayo_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="The Spicy Salmon Roll Method">
+            <property name="DescriptionKey" value="farmLifeTheSpicySalmonRollMethodDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_spicy_salmon_roll_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Spicy Salsa - Techniques">
             <property name="DescriptionKey" value="farmLifeSpicySalsa-TechniquesDesc"/>
             <property name="CustomIcon" value="questMaster"/>
@@ -15758,6 +16536,24 @@
             <property class="Action0">
                 <property name="Class" value="Quest"/>
                 <property name="QuestGiven" value="item_spirits_vat_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Sriracha 101">
+            <property name="DescriptionKey" value="farmLifeSriracha101Desc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_sriracha_1"/>
                 <property name="Delay" value="0"/>
             </property>
         </item>
@@ -15887,6 +16683,24 @@
                 <property name="Delay" value="0"/>
             </property>
         </item>
+        <item name="Advanced - Sushi Rice">
+            <property name="DescriptionKey" value="farmLifeAdvanced-SushiRiceDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_sushi_rice_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
         <item name="Swiss Cheese JUST DO IT!">
             <property name="DescriptionKey" value="farmLifeSwissCheeseJUSTDOIT!Desc"/>
             <property name="CustomIcon" value="questMaster"/>
@@ -15974,6 +16788,24 @@
             <property class="Action0">
                 <property name="Class" value="Quest"/>
                 <property name="QuestGiven" value="item_turkey_rack_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="Umeboshi JUST DO IT!">
+            <property name="DescriptionKey" value="farmLifeUmeboshiJUSTDOIT!Desc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="item_umeboshi_1"/>
                 <property name="Delay" value="0"/>
             </property>
         </item>
@@ -16488,7 +17320,7 @@
                 <property name="Sound_start" value="repair_block"/>
                 <property name="Delay" value="1.3"/>
                 <property name="Upgrade_action_sound" value="ImpactSurface/metalhitearth"/>
-                <property name="Allowed_upgrade_items" value="Cattle Feed,Chicken Feed"/>
+                <property name="Allowed_upgrade_items" value="Cattle Feed,Chicken Feed,Fish Pellets"/>
             </property>
             <effect_group name="Base Effects">
                 <passive_effect name="MaxRange" operation="base_set" value="2.9"/>
