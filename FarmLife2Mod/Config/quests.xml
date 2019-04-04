@@ -59,6 +59,66 @@
             <objective type="FetchKeep" id="Beer Cheap" value="15" phase="1"/>
             <reward type="Item" id="Beer Cheap" value="15" chainreward="true"/>
         </quest>
+        <quest id="fish_ponds_1">
+            <property name="name" value="Fish Tools"/>
+            <property name="subtitle" value="Tools"/>
+            <property name="group_name" value="Fish"/>
+            <property name="description" value="Learn how to raise fish for food. Get a Pitch Fork and some Fish Pellets."/>
+            <property name="offer" value="Learn how to raise fish for food. Get a Pitch Fork and some Fish Pellets."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="true"/>
+            <property name="category_key" value="quest"/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Pitch Fork" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Fish Pellets" value="1" phase="1"/>
+            <reward type="Quest" id="fish_ponds_2"/>
+        </quest>
+        <quest id="fish_ponds_2">
+            <property name="name" value="Place a pond"/>
+            <property name="subtitle" value="Place"/>
+            <property name="group_name" value="Fish"/>
+            <property name="description" value="Get a Salmon Pond and place it."/>
+            <property name="offer" value="Get a Salmon Pond and place it."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="true"/>
+            <property name="category_key" value="quest"/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Salmon Pond" value="1" phase="1"/>
+            <objective type="BlockPlace" id="Salmon Pond" value="1" phase="1"/>
+            <reward type="Quest" id="fish_ponds_3"/>
+        </quest>
+        <quest id="fish_ponds_3">
+            <property name="name" value="Pitch Fork and Pellets"/>
+            <property name="subtitle" value="Feeding"/>
+            <property name="group_name" value="Fish"/>
+            <property name="description" value="Feed your Salmon using the Pitch Fork and Fish Pellets."/>
+            <property name="offer" value="Feed your Salmon using the Pitch Fork and Fish Pellets."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="true"/>
+            <property name="category_key" value="quest"/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="BlockUpgrade" id="Salmon Pond" value="1" phase="1"/>
+            <reward type="Quest" id="fish_ponds_4"/>
+        </quest>
+        <quest id="fish_ponds_4">
+            <property name="name" value="Harvesting Full Ponds"/>
+            <property name="subtitle" value="Harvesting"/>
+            <property name="group_name" value="Fish"/>
+            <property name="description" value="Wait for your Salmon to grow into a Full Salmon Pond. Then harvest the pond with a butcher weapon for best results."/>
+            <property name="offer" value="Wait for your Salmon to grow into a Full Salmon Pond. Then harvest the pond with a butcher weapon for best results."/>
+            <property name="icon" value="ui_game_symbol_quest"/>
+            <property name="repeatable" value="true"/>
+            <property name="category_key" value="quest"/>
+            <property name="difficulty" value="easy"/>
+            <property name="shareable" value="false"/>
+            <objective type="FetchKeep" id="Whole Salmon" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Salmon Roe" value="1" phase="1"/>
+            <objective type="FetchKeep" id="Seaweed" value="1" phase="1"/>
+            <reward type="Item" id="Fish Pellets" value="50" chainreward="true"/>
+        </quest>
         <quest id="livestock_pens_1">
             <property name="name" value="Livestock Tools"/>
             <property name="subtitle" value="Tools"/>
@@ -107,8 +167,8 @@
             <property name="name" value="Harvesting Full Pens"/>
             <property name="subtitle" value="Harvesting"/>
             <property name="group_name" value="Livestock"/>
-            <property name="description" value="Wait for your Angus to grow into a Full Angus Pen. Then harvest the pen with a butch weapon for best results."/>
-            <property name="offer" value="Wait for your Angus to grow into a Full Angus Pen. Then harvest the pen with a butch weapon for best results."/>
+            <property name="description" value="Wait for your Angus to grow into a Full Angus Pen. Then harvest the pen with a butcher weapon for best results."/>
+            <property name="offer" value="Wait for your Angus to grow into a Full Angus Pen. Then harvest the pen with a butcher weapon for best results."/>
             <property name="icon" value="ui_game_symbol_quest"/>
             <property name="repeatable" value="true"/>
             <property name="category_key" value="quest"/>

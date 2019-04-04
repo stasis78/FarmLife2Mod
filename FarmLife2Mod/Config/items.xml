@@ -4607,7 +4607,7 @@
             <property name="Meshfile" value="Items/Misc/parcelPrefab"/>
             <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
             <property name="Material" value="Morganic"/>
-            <property name="Stacknumber" value="1"/>
+            <property name="Stacknumber" value="20"/>
             <property name="EconomicValue" value="4"/>
             <property name="EconomicBundleSize" value="5"/>
             <property name="CraftingIngredientTime" value="10"/>
@@ -12486,6 +12486,24 @@
             <property class="Action0">
                 <property name="Class" value="Quest"/>
                 <property name="QuestGiven" value="brewing_guide_1"/>
+                <property name="Delay" value="0"/>
+            </property>
+        </item>
+        <item name="The Way To Fish">
+            <property name="DescriptionKey" value="farmLifeTheWayToFishDesc"/>
+            <property name="CustomIcon" value="questMaster"/>
+            <property name="CreativeMode" value="Player"/>
+            <property name="HoldType" value="21"/>
+            <property name="Group" value="Special Items"/>
+            <property name="Meshfile" value="Items/Misc/bookPrefab"/>
+            <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+            <property name="Material" value="Mpaper"/>
+            <property name="SellableToTrader" value="false"/>
+            <property name="Weight" value="2"/>
+            <property name="FuelValue" value="2"/>
+            <property class="Action0">
+                <property name="Class" value="Quest"/>
+                <property name="QuestGiven" value="fish_ponds_1"/>
                 <property name="Delay" value="0"/>
             </property>
         </item>

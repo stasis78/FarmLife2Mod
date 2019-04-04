@@ -2540,6 +2540,10 @@
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
         </recipe>
+        <recipe name="The Way To Fish" count="1">
+            <ingredient name="resourceCoal" count="1"/>
+            <ingredient name="resourcePaper" count="1"/>
+        </recipe>
         <recipe name="The BEST Aged Barrel ever!" count="1">
             <ingredient name="resourceCoal" count="1"/>
             <ingredient name="resourcePaper" count="1"/>
