@@ -350,7 +350,7 @@
         </recipe>
         <recipe name="Bowl of Rice" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
             <ingredient name="Rice" count="2"/>
-            <ingredient name="drinkCanRiverWater" count="2"/>
+            <ingredient name="drinkJarRiverWater" count="2"/>
         </recipe>
         <recipe name="Brazilian Grilled Pineapple" count="10" craft_time="2" craft_area="Cold Smoker" craft_tool="Turkey Rack">
             <ingredient name="Pineapple" count="5"/>
@@ -437,7 +437,7 @@
         </recipe>
         <recipe name="Canned Olives" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
             <ingredient name="Olive" count="10"/>
-            <ingredient name="drinkCanEmpty" count="1"/>
+            <ingredient name="drinkJarEmpty" count="1"/>
             <ingredient name="drinkJarBoiledWater" count="1"/>
         </recipe>
         <recipe name="Carboy" count="1" craft_time="10" material_based="true" craft_area="forge" craft_tool="toolAndDieSet">
@@ -1395,7 +1395,7 @@
         </recipe>
         <recipe name="Miso Paste Step 1" count="1" craft_time="2" craft_area="Gas Cooktop" craft_tool="toolCookingPot">
             <ingredient name="Soy Bean" count="10"/>
-            <ingredient name="drinkCanRiverWater" count="10"/>
+            <ingredient name="drinkJarRiverWater" count="10"/>
         </recipe>
         <recipe name="Miso Paste Step 2" count="1" craft_time="2" craft_area="KitchNaid" craft_tool="Mixing Bowl">
             <ingredient name="Miso Paste Step 1" count="1"/>
@@ -2124,7 +2124,7 @@
         </recipe>
         <recipe name="Steeped Barley" count="50" craft_time="2" craft_area="Brew Station" craft_tool="Steeping Tun">
             <ingredient name="Barley" count="50"/>
-            <ingredient name="drinkCanBoiledWater" count="15"/>
+            <ingredient name="drinkJarBoiledWater" count="15"/>
         </recipe>
         <recipe name="Steeped Rye" count="50" craft_time="2" craft_area="Brew Station" craft_tool="Steeping Tun">
             <ingredient name="Rye" count="50"/>
