@@ -5791,7 +5791,7 @@
             <drop event="Destroy" count="1" name="Walnut Seed"/>
             <property name="MultiBlockDim" value="1,7,1"/>
             <property name="Shape" value="ModelEntity"/>
-            <property name="Model" value="Entities/Trees/Maple20Prefab"/>
+            <property name="Model" value="#Entities/Trees?Maple20Prefab.prefab"/>
             <property name="ModelOffset" value="0,-0.5,0"/>
             <property name="ParticleOnDeath" value="treeGib_dead_01"/>
             <property name="DowngradeBlock" value="Walnut Seed"/>
@@ -6327,7 +6327,7 @@
             <property name="StabilitySupport" value="false"/>
             <property name="Shape" value="ModelEntity"/>
             <property name="Path" value="solid"/>
-            <property name="Model" value="Entities/LootContainers/Grill_Simple_ClosedPrefab"/>
+            <property name="Model" value="#Entities/LootContainers?Grill_Simple_ClosedPrefab.prefab"/>
             <property name="ParticleName" value="campfire"/>
             <property name="ParticleOffset" value="0.5,0.75,0.5"/>
             <property name="Stacknumber" value="1"/>
