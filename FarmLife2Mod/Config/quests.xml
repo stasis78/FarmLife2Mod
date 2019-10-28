@@ -4308,8 +4308,8 @@
             <property name="category_key" value="quest"/>
             <property name="difficulty" value="easy"/>
             <property name="shareable" value="false"/>
-            <objective type="FetchKeep" id="unit_clay" value="100" phase="1"/>
-            <objective type="FetchKeep" id="unit_iron" value="1000" phase="1"/>
+            <objective type="FetchKeep" id="resourceClayLump" value="100" phase="1"/>
+            <objective type="FetchKeep" id="resourceIronFragment" value="1000" phase="1"/>
         </quest>
         <quest id="item_zhang_cleaver_1">
             <property name="name" value="Zhang Cleaver"/>
